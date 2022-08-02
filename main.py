@@ -8,8 +8,7 @@ from language.json_schema import user_language_choice
 lang = user_language_choice()
 
 table = PrettyTable()
-x.field_names = ["City name", "", "Population", "Annual Rainfall"]
-table.add_row(["Adelaide", lang['title'], 1158259, 600.5])
+table.field_names = [lang['author'], lang['script_title'], lang['university'], lang['year']]
+table.add_row([lang['name'], lang['title'], lang['college'], lang['date']])
 print(table)
-print(lang['title'])
 

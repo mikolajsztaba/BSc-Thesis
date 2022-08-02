@@ -1,22 +1,26 @@
 # main imports
-import json
+
 
 # imports from different files
-from language.jsons import prompts_pl, prompts_en
-
-# structures
-available_languages = ['en', 'pl']
+from language.jsons import language
 
 
 # functions
 def user_language_choice():
+    print("WELCOME TO THE SCRIPT")
     while True:
+        language_list = language_keys()
         print('Possible languages to choose from:')
-        print(*available_languages, sep=", ")
-        user_input = input("Please provide your native language:\n").lower()
-        if user_input in available_languages:
-            if user_input == 'en':
-                language = json.loads(prompts_en)
-            if user_input == 'pl':
-                language = json.loads(prompts_pl)
-            return language
+        print(*language_list, sep=", ")
+        user_language = input("Please choose your native language:\n").title()
+        if user_language in language_list:
+            language_dict = language[user_language]
+            return language_dict
+
+
+def language_keys():
+    language_list = []
+    for key in language:
+        language_list.append(key)
+    return language_list
+
