@@ -9,6 +9,7 @@ language = {"En": {
                     "year": "Academic year",
                     "date": "2022-2023",
                     "info": "Main info about the script",
+                    "download_config": "If you want to download config to the device type 'yes':\n",
                   },
             "Pl": {
                     "title": "Stworzenie narzędzia do automatyzacji konfiguracji urządzeń sieciowych oraz sterowania działaniem sieci.",
@@ -19,6 +20,7 @@ language = {"En": {
                     "name": "Mikołaj Sztaba",
                     "year": "Rok akademicki",
                     "date": "2022-2023",
-                    "info": "Główne informacje o skrypcie"
+                    "info": "Główne informacje o skrypcie",
+                    "download_config": "Jeżeli chcesz pobrać pliki configuracyjne na urządzenia napisz 'tak':\n",
             }
 }
