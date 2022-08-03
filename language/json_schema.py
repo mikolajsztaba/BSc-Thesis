@@ -6,7 +6,12 @@ from language.jsons import language
 
 
 # functions
+# choosing language by the user
 def user_language_choice():
+    """
+
+    :return: dict full of prompts on one of the languages
+    """
     print("WELCOME TO THE SCRIPT")
     while True:
         language_list = language_keys()
@@ -17,7 +22,7 @@ def user_language_choice():
             language_dict = language[user_language]
             return language_dict
 
-
+# returning available languages of prompts
 def language_keys():
     language_list = []
     for key in language:
