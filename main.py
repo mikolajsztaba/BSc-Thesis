@@ -25,3 +25,4 @@ if conf_flag:
     print("KONFIGURUJEMY")
 else:
     print("NIE KONFIGURUJEMY")
+    print("PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM")
