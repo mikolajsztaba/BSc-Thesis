@@ -4,7 +4,11 @@ from prettytable import PrettyTable
 # imports from other files
 from language.json_schema import user_language_choice
 from data.decorators import decorator_space
-from lib.function_user import configure_user
+from lib.function_user import configure_user, type_device
+from data.devices import devices
+
+# flags
+main_flag = True
 
 # choosing language
 lang = user_language_choice()
@@ -22,8 +26,11 @@ print(decorator_space)
 conf_flag = configure_user(lang)
 
 # moving into downloading config to the devices
-if conf_flag:
-    print("KONFIGURUJEMY")
-else:
-    print("NIE KONFIGURUJEMY")
-    print("PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM")
+while main_flag:
+    if conf_flag:
+        conf_flag = type_device(lang, devices)
+    #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp
+    else:
+        print("NIE KONFIGURUJEMY")
+        print("PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM")
+        test = input("AAA")
