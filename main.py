@@ -21,6 +21,7 @@ print(decorator_space)
 # question about downloading config to the devices
 conf_flag = configure_user(lang)
 
+# moving into downloading config to the devices
 if conf_flag:
     print("KONFIGURUJEMY")
 else:
