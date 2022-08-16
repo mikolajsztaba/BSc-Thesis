@@ -23,6 +23,7 @@ def type_device(language, list_devices):
         if user_input in list_devices:
             print("Needs to be done preparing initial config files")
             "TODO: MORE WORK HERE"
+            break
         elif user_input == "Break":
             run_flag = False
 

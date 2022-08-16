@@ -6,6 +6,8 @@ from language.json_schema import user_language_choice
 from data.decorators import decorator_space
 from lib.function_user import configure_user, type_device
 from data.devices import devices
+from data.variables import ip_number
+from lib.file_handling import read_ip_number, save_ip_number
 
 # flags
 main_flag = True
@@ -29,7 +31,17 @@ conf_flag = configure_user(lang)
 while main_flag:
     if conf_flag:
         conf_flag = type_device(lang, devices)
-    #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp
+        #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp
+        try:
+            current_ip = read_ip_number()
+        except:
+            current_ip = ip_number
+
+        # saving ip_number for the next device
+        save_ip_number(current_ip)
+
+        e = read_ip_number()
+
     else:
         print("NIE KONFIGURUJEMY")
         print("PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM")
