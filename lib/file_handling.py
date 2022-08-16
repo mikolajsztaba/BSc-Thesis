@@ -1,3 +1,4 @@
+# TXT files handling
 def reading_conf_files(file):
     """
 
@@ -11,6 +12,7 @@ def reading_conf_files(file):
         return stripped_list
 
 
+# reading ip number from txt file
 def read_ip_number():
     with open('temporary/ip_number.txt', 'r') as file:
         new_ip = file.read()
@@ -18,6 +20,7 @@ def read_ip_number():
         return ip_number
 
 
+# saving ip number to txt file incremented by 1
 def save_ip_number(ip_number):
     with open('temporary/ip_number.txt', 'w') as file:
         file.write(str(ip_number+1))

@@ -32,6 +32,7 @@ while main_flag:
     if conf_flag:
         user_dev = type_device(lang, devices)
         #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp
+        # try/except block to read the ip number from txt file
         try:
             current_ip = read_ip_number()
         except:
@@ -41,6 +42,7 @@ while main_flag:
         # saving ip_number for the next device
         save_ip_number(current_ip)
 
+        # reading next ip address
         e = read_ip_number()
         print(e)
     else:
