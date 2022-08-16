@@ -20,4 +20,4 @@ def read_ip_number():
 
 def save_ip_number(ip_number):
     with open('temporary/ip_number.txt', 'w') as file:
-        file.write(str(ip_number))
+        file.write(str(ip_number+1))

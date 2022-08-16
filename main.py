@@ -30,18 +30,19 @@ conf_flag = configure_user(lang)
 # moving into downloading config to the devices
 while main_flag:
     if conf_flag:
-        conf_flag = type_device(lang, devices)
+        user_dev = type_device(lang, devices)
         #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp
         try:
             current_ip = read_ip_number()
         except:
             current_ip = ip_number
 
+        print(user_dev)
         # saving ip_number for the next device
         save_ip_number(current_ip)
 
         e = read_ip_number()
-
+        print(e)
     else:
         print("NIE KONFIGURUJEMY")
         print("PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM")
