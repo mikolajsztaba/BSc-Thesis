@@ -8,6 +8,7 @@ from lib.function_user import configure_user, type_device
 from data.devices import devices
 from data.variables import ip_number
 from lib.file_handling import read_ip_number, save_ip_number, delete_files
+from logger.logging import *
 
 # flags
 main_flag = True
@@ -31,7 +32,7 @@ conf_flag = configure_user(lang)
 while main_flag:
     if conf_flag:
         # COM CONNECTION
-        
+
         user_dev = type_device(lang, devices)
         #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp
         # try/except block to read the ip number from txt file
@@ -50,6 +51,7 @@ while main_flag:
 
         # deleting all temporary files
         # TODO: Move it to the last part of script
+        # TODO: Add deleting files from logs after some time etc.
         delete_files(lang)
     else:
         print("NIE KONFIGURUJEMY")

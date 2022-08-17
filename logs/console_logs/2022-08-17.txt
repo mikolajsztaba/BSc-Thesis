@@ -1,0 +1,27 @@
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to download config to the device type 'yes':
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+None
+2
+All temporary files were successfully deleted.
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
