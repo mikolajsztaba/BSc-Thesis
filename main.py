@@ -7,7 +7,7 @@ from data.decorators import decorator_space
 from lib.function_user import configure_user, type_device
 from data.devices import devices
 from data.variables import ip_number
-from lib.file_handling import read_ip_number, save_ip_number
+from lib.file_handling import read_ip_number, save_ip_number, delete_files
 
 # flags
 main_flag = True
@@ -45,6 +45,7 @@ while main_flag:
         # reading next ip address
         e = read_ip_number()
         print(e)
+        delete_files()
     else:
         print("NIE KONFIGURUJEMY")
         print("PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM")

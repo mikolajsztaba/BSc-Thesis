@@ -1,3 +1,7 @@
+# IMPORTS
+import os
+
+
 # TXT files handling
 def reading_conf_files(file):
     """
@@ -24,3 +28,10 @@ def read_ip_number():
 def save_ip_number(ip_number):
     with open('temporary/ip_number.txt', 'w') as file:
         file.write(str(ip_number+1))
+
+
+# deleting all temporary files created during the script
+def delete_files():
+    files = os.listdir('temporary')
+    for file in files:
+        os.remove(f'temporary/{file}')
