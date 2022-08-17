@@ -31,7 +31,8 @@ def save_ip_number(ip_number):
 
 
 # deleting all temporary files created during the script
-def delete_files():
+def delete_files(lang_dict):
     files = os.listdir('temporary')
     for file in files:
         os.remove(f'temporary/{file}')
+    print(lang_dict["deleted_files"])

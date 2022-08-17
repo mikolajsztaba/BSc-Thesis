@@ -30,6 +30,8 @@ conf_flag = configure_user(lang)
 # moving into downloading config to the devices
 while main_flag:
     if conf_flag:
+        # COM CONNECTION
+        
         user_dev = type_device(lang, devices)
         #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp
         # try/except block to read the ip number from txt file
@@ -45,7 +47,10 @@ while main_flag:
         # reading next ip address
         e = read_ip_number()
         print(e)
-        delete_files()
+
+        # deleting all temporary files
+        # TODO: Move it to the last part of script
+        delete_files(lang)
     else:
         print("NIE KONFIGURUJEMY")
         print("PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM")

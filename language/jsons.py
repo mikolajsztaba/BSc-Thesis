@@ -13,6 +13,7 @@ language = {"En": {
                     "device_conf": "Which device do you want to configure?\n",
                     "possible_dev": "Possible devices to choose from:",
                     "leave_prompt": "If you want to leave this part of the script type 'Break'.",
+                    "deleted_files": "All temporary files were successfully deleted.",
                   },
             "Pl": {
                     "title": "Stworzenie narzędzia do automatyzacji konfiguracji urządzeń sieciowych oraz sterowania działaniem sieci.",
@@ -28,5 +29,6 @@ language = {"En": {
                     "device_conf": "Które urządzenie sieciowe chcesz skonfigurować?\n",
                     "possible_dev": "Możliwe urządzenia do skonfigurowania:",
                     "leave_prompt": "Jeżeli chcesz opuścić tą część skryptu wpisz 'Break'.",
+                    "deleted_files": "Wszystkie tymczasowe pliki zostały usunięte."
             }
 }
