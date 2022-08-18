@@ -4,7 +4,7 @@ from prettytable import PrettyTable
 # imports from other files
 from language.json_schema import user_language_choice
 from data.decorators import decorator_space
-from lib.function_user import configure_user, type_device
+from lib.function_user import configure_user, type_device, user_com
 from data.devices import devices
 from data.variables import ip_number
 from lib.file_handling import read_ip_number, save_ip_number, delete_files
@@ -32,6 +32,9 @@ conf_flag = configure_user(lang)
 while main_flag:
     if conf_flag:
         # COM CONNECTION
+        # choosing COM port number
+        #TOOD: maybe add functionality to check possible ports on the device
+        com_port = user_com(lang)
 
         user_dev = type_device(lang, devices)
         #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp

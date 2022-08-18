@@ -27,3 +27,14 @@ def type_device(language, list_devices):
         elif user_input == "Break":
             run_flag = False
 
+
+# question about COM PORT
+def user_com(language):
+    while True:
+        user_input = input(language['com_question']).title()
+        if user_input.isdigit():
+            print(language["good_com"])
+            print(user_input)
+            return user_input
+        else:
+            print(language["bad_com"])

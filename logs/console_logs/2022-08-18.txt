@@ -1,0 +1,79 @@
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Which COM port would you like to use? Type only number: 
+Which COM port would you like to use? Type only number: 
+Which COM port would you like to use? Type only number: 
+4
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Wrong input of COM port. Try again!
+Which COM port would you like to use? Type only number: 
+Wrong input of COM port. Try again!
+Which COM port would you like to use? Type only number: 
+Wrong input of COM port. Try again!
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+3
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++----------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                               G³ówne informacje o skrypcie                                                               |
++----------------+----------------------------------------------------------------------------------------------------------+-------------+----------------+
+|     Autor      |                                        Tytu³ pracy in¿ynierskiej                                         | Uniwersytet | Rok akademicki |
++----------------+----------------------------------------------------------------------------------------------------------+-------------+----------------+
+| Miko³aj Sztaba | Stworzenie narzêdzia do automatyzacji konfiguracji urz¹dzeñ sieciowych oraz sterowania dzia³aniem sieci. |     AGH     |   2022-2023    |
++----------------+----------------------------------------------------------------------------------------------------------+-------------+----------------+
+ 
+Je¿eli chcesz pobraæ pliki configuracyjne na urz¹dzenia napisz 'Tak':
+Którego numeru portu COM chcesz u¿yæ? Wpisz tylko liczbê: 
+Poprawny numer COM portu: 
+43
+ 
+Mo¿liwe urz¹dzenia do skonfigurowania:
+Cisco Switch, Cisco Router
+Je¿eli chcesz opuœciæ t¹ czêœæ skryptu wpisz 'Break'.
+Które urz¹dzenie sieciowe chcesz skonfigurowaæ?
+Needs to be done preparing initial config files
+Cisco Switch
+2
+Wszystkie tymczasowe pliki zosta³y usuniête.
+Którego numeru portu COM chcesz u¿yæ? Wpisz tylko liczbê: 

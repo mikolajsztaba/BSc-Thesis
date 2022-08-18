@@ -14,6 +14,9 @@ language = {"En": {
                     "possible_dev": "Possible devices to choose from:",
                     "leave_prompt": "If you want to leave this part of the script type 'Break'.",
                     "deleted_files": "All temporary files were successfully deleted.",
+                    "com_question": "Which COM port would you like to use? Type only number: \n",
+                    "good_com": "Proper input of COM port: ",
+                    "bad_com": "Wrong input of COM port. Try again!"
                   },
             "Pl": {
                     "title": "Stworzenie narzędzia do automatyzacji konfiguracji urządzeń sieciowych oraz sterowania działaniem sieci.",
@@ -29,6 +32,9 @@ language = {"En": {
                     "device_conf": "Które urządzenie sieciowe chcesz skonfigurować?\n",
                     "possible_dev": "Możliwe urządzenia do skonfigurowania:",
                     "leave_prompt": "Jeżeli chcesz opuścić tą część skryptu wpisz 'Break'.",
-                    "deleted_files": "Wszystkie tymczasowe pliki zostały usunięte."
+                    "deleted_files": "Wszystkie tymczasowe pliki zostały usunięte.",
+                    "com_question": "Którego numeru portu COM chcesz użyć? Wpisz tylko liczbę: \n",
+                    "good_com": "Poprawny numer COM portu: ",
+                    "bad_com": "Zły numer COM portu. Spróbuj ponownie!",
             }
 }
