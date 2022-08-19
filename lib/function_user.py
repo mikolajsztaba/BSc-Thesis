@@ -34,7 +34,6 @@ def user_com(language):
         user_input = input(language['com_question']).title()
         if user_input.isdigit():
             print(language["good_com"])
-            print(user_input)
-            return user_input
+            return f'COM{user_input}'
         else:
             print(language["bad_com"])
