@@ -2,6 +2,9 @@ WELCOME TO THE SCRIPT
 Possible languages to choose from:
 En, Pl
 Please choose your native language:
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
  
 +------------------------------------------------------------------------------------------------------------------------------------+
 |                                                     Main info about the script                                                     |
@@ -12,16 +15,4 @@ Please choose your native language:
 +----------------+--------------------------------------------------------------------------------------+------------+---------------+
  
 If you want to download config to the device type 'yes':
- 
-Possible devices to choose from:
-Cisco Switch, Cisco Router
-If you want to leave this part of the script type 'Break'.
-Which device do you want to configure?
-None
-2
-All temporary files were successfully deleted.
- 
-Possible devices to choose from:
-Cisco Switch, Cisco Router
-If you want to leave this part of the script type 'Break'.
-Which device do you want to configure?
+Which COM port would you like to use? Type only number: 

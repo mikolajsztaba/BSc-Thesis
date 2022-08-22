@@ -10,6 +10,7 @@ from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import read_ip_number, save_ip_number, delete_files
 from logger.logging import *
+from lib.function_auto import start_tftp
 
 # flags
 main_flag = True
@@ -32,6 +33,10 @@ conf_flag = configure_user(lang)
 # moving into downloading config to the devices
 while main_flag:
     if conf_flag:
+
+        # start tftp
+        #TODO: needs to be moved later after initial configuration
+        start_tftp()
         # COM CONNECTION
         # choosing COM port number
         #TOOD: maybe add functionality to check possible ports on the device
