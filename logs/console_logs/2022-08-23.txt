@@ -1,0 +1,400 @@
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to download config to the device type 'yes':
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to download config to the device type 'yes':
+WYBOR
+Which COM port would you like to use? Type only number: 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+test
+WYBOR
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+test
+WYBOR
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+None
+2
+All temporary files were successfully deleted.
+WYBOR
+test
+WYBOR
+WYBOR
+WYBOR
+WYBOR
+WYBOR
+WYBOR
+WYBOR
+WYBOR
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+Welcome to the script.
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+None
+2
+All temporary files were successfully deleted.
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+Welcome to the script.
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+Welcome to the script.
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave parts of program type break
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+If you want to download config to the device type 'yes':
+NIE KONFIGURUJEMY
+PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM
+AAAWELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave parts of program type break
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave parts of program type break
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave parts of program type break
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+NIE KONFIGURUJEMY
+PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM
+AAAWELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+If you want to download config to the device type 'yes':
+If you want to leave any parts of script just type 'break'!
+Type yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+NIE KONFIGURUJEMY
+PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM
+AAAType yes if you want to go download config, type break if this part, type no if you want to pass to the script managing
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+If you want to download config to the device type 'yes':
+If you want to leave any parts of script just type 'break'!
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+NIE KONFIGURUJEMY
+PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM
+AAAChoose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+NIE KONFIGURUJEMY
+PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM
+AAAChoose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+Type your number:
+If you want to download config to the device type 'yes':
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+Type your number:
+If you want to download config to the device type 'yes':
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+Type your number:
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Wrong input of COM port. Try again!
+Which COM port would you like to use? Type only number: 
+Wrong input of COM port. Try again!
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+Type your number:
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+Needs to be done preparing initial config files
+Cisco Switch
+2
+All temporary files were successfully deleted.
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+Type your number:
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+Needs to be done preparing initial config files
+Cisco Switch
+2
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+Type your number:
+NIE KONFIGURUJEMY
+PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM
+AAAAll temporary files were successfully deleted.
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+Type your number:
+NIE KONFIGURUJEMY
+PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM
+AAAAll temporary files were successfully deleted.
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+Type your number:

@@ -16,7 +16,12 @@ language = {"En": {
                     "deleted_files": "All temporary files were successfully deleted.",
                     "com_question": "Which COM port would you like to use? Type only number: \n",
                     "good_com": "Proper input of COM port: ",
-                    "bad_com": "Wrong input of COM port. Try again!"
+                    "bad_com": "Wrong input of COM port. Try again!",
+                    "break_prompt": "If you want to leave any parts of script just type 'break'!",
+                    "choosing_number": "Choose option provided by the script by typing the number:",
+                    "option_1": "1 -> Downloading configs by COM port to the devices.",
+                    "option_2": "2 -> Script managing by LAN network.",
+                    "type_number": "Type your number:\n"
                   },
             "Pl": {
                     "title": "Stworzenie narzędzia do automatyzacji konfiguracji urządzeń sieciowych oraz sterowania działaniem sieci.",
@@ -36,5 +41,7 @@ language = {"En": {
                     "com_question": "Którego numeru portu COM chcesz użyć? Wpisz tylko liczbę: \n",
                     "good_com": "Poprawny numer COM portu: ",
                     "bad_com": "Zły numer COM portu. Spróbuj ponownie!",
+                    "break_prompt": "Jeżeli chcesz opuscic jakas czesc skryptu wpisz 'break'!",
+                    "choosing_number": "Wpisz odpowiednią cyfrę, aby wybrać funkcjonalność:"
             }
 }
