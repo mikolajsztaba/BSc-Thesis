@@ -21,7 +21,8 @@ language = {"En": {
                     "choosing_number": "Choose option provided by the script by typing the number:",
                     "option_1": "1 -> Downloading configs by COM port to the devices.",
                     "option_2": "2 -> Script managing by LAN network.",
-                    "type_number": "Type your number:\n"
+                    "option_3": "3 -> Downloading config by TFTP Server.",
+                    "type_number": "Type your number:\n",
                   },
             "Pl": {
                     "title": "Stworzenie narzędzia do automatyzacji konfiguracji urządzeń sieciowych oraz sterowania działaniem sieci.",
@@ -42,6 +43,10 @@ language = {"En": {
                     "good_com": "Poprawny numer COM portu: ",
                     "bad_com": "Zły numer COM portu. Spróbuj ponownie!",
                     "break_prompt": "Jeżeli chcesz opuscic jakas czesc skryptu wpisz 'break'!",
-                    "choosing_number": "Wpisz odpowiednią cyfrę, aby wybrać funkcjonalność:"
+                    "choosing_number": "Wpisz odpowiednią cyfrę, aby wybrać funkcjonalność:",
+                    "option_1": "1 -> Pobieranie configów przez COM port na urządzenie.",
+                    "option_2": "2 -> Zarządzanie skryptem przez sieć LAN.",
+                    "option_3": "3 -> Pobieranie configów na urządzenia poprzez serwer TFTP.",
+                    "type_number": "Wpisz swój numer:\n",
             }
 }

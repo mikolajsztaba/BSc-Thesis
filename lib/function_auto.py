@@ -14,5 +14,6 @@ def main_choice(lang):
     print(lang["choosing_number"])
     print(lang["option_1"])
     print(lang["option_2"])
+    print(lang['option_3'])
     user_choice = input(lang["type_number"]).title()
     return user_choice

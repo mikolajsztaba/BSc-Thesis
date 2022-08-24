@@ -40,9 +40,6 @@ while main_flag:
             conf_flag = configure_user(lang)
             if conf_flag:
 
-                # start tftp
-                # TODO: needs to be moved later after initial configuration
-                start_tftp()
                 # COM CONNECTION
                 # choosing COM port number
                 # TOOD: maybe add functionality to check possible ports on the device
@@ -77,5 +74,9 @@ while main_flag:
             # TODO: Move it to the last part of script
             # TODO: Add deleting files from logs after some time etc.
             delete_files(lang)
+        elif user_choice == '3':
+            # start tftp
+            # TODO: needs to be moved later after initial configuration
+            start_tftp()
         else:
             break
