@@ -1,4 +1,3 @@
 Na 24.08:
-przetlumaczyc wszystkie te frazy z ang na polski
-dodac wiecej opcji jak np sama konfiguracja czy wgrywanie configu po tftp OPTION 3 (poprzerzucac czesc  rzeczy tam)
+
 dodac dalsza rozbudowe konfiguracji po COMIE (tworzenie plikow itp) zaczac

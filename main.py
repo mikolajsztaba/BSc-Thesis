@@ -70,13 +70,12 @@ while main_flag:
             print("PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM")
             test = input("AAA")
 
-            # deleting all temporary files
-            # TODO: Move it to the last part of script
-            # TODO: Add deleting files from logs after some time etc.
-            delete_files(lang)
         elif user_choice == '3':
             # start tftp
             # TODO: needs to be moved later after initial configuration
             start_tftp()
+        elif user_choice == '0':
+            # deleting all temporary files
+            delete_files(lang)
         else:
             break

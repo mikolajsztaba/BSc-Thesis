@@ -22,6 +22,7 @@ language = {"En": {
                     "option_1": "1 -> Downloading configs by COM port to the devices.",
                     "option_2": "2 -> Script managing by LAN network.",
                     "option_3": "3 -> Downloading config by TFTP Server.",
+                    "option_0": "0 -> Delete all temporary script files.",
                     "type_number": "Type your number:\n",
                   },
             "Pl": {
@@ -47,6 +48,7 @@ language = {"En": {
                     "option_1": "1 -> Pobieranie configów przez COM port na urządzenie.",
                     "option_2": "2 -> Zarządzanie skryptem przez sieć LAN.",
                     "option_3": "3 -> Pobieranie configów na urządzenia poprzez serwer TFTP.",
+                    "option_0": "0 -> Usunięcie wszystkich tymczasowych plikow konfiguracyjnych.",
                     "type_number": "Wpisz swój numer:\n",
             }
 }
