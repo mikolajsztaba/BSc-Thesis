@@ -1,3 +1,4 @@
 Na 24.08:
-
-dodac dalsza rozbudowe konfiguracji po COMIE (tworzenie plikow itp) zaczac
+sprawdzanie wolnych portow serwera tftp
+po wyborze COMU trzeba by zaczac robic jakis prosty config sprobowac sparsowac i przekazywac jako komendy na urzadzenie
+poprawienie mozliwych nazw urzadzen i jakos ich sparowania co jest switchem a co routerem i poprawna mozliwosc wyboru
