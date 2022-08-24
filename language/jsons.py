@@ -22,8 +22,10 @@ language = {"En": {
                     "option_1": "1 -> Downloading configs by COM port to the devices.",
                     "option_2": "2 -> Script managing by LAN network.",
                     "option_3": "3 -> Downloading config by TFTP Server.",
+                    "option_9": "9 -> Delete old script console logs.",
                     "option_0": "0 -> Delete all temporary script files.",
                     "type_number": "Type your number:\n",
+                    "deleted_logs": "Console logs were successfully deleted.",
                   },
             "Pl": {
                     "title": "Stworzenie narzędzia do automatyzacji konfiguracji urządzeń sieciowych oraz sterowania działaniem sieci.",
@@ -48,7 +50,9 @@ language = {"En": {
                     "option_1": "1 -> Pobieranie configów przez COM port na urządzenie.",
                     "option_2": "2 -> Zarządzanie skryptem przez sieć LAN.",
                     "option_3": "3 -> Pobieranie configów na urządzenia poprzez serwer TFTP.",
+                    "option_9": "9 -> Usunięcie starych logów z konsoli skryptu..",
                     "option_0": "0 -> Usunięcie wszystkich tymczasowych plikow konfiguracyjnych.",
                     "type_number": "Wpisz swój numer:\n",
+                    "deleted_logs": "Logi konsolowe zostały poprawnie usunięte.",
             }
 }

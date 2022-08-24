@@ -1,6 +1,7 @@
 # IMPORTS
 import os
 
+from data.decorators import decorator_space
 
 # TXT files handling
 def reading_conf_files(file):
@@ -36,3 +37,4 @@ def delete_files(lang_dict):
     for file in files:
         os.remove(f'temporary/{file}')
     print(lang_dict["deleted_files"])
+    print(decorator_space)

@@ -10,7 +10,7 @@ from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import read_ip_number, save_ip_number, delete_files
 from logger.logging import *
-from lib.function_auto import start_tftp, main_choice
+from lib.function_auto import start_tftp, main_choice, del_old_logs
 
 # flags
 main_flag = True
@@ -35,6 +35,7 @@ while main_flag:
     while True:
         # printing info about script functionalities with user choice
         user_choice = main_choice(lang)
+        print(decorator_space)
         if user_choice == '1':
             # question about downloading config to the devices
             conf_flag = configure_user(lang)
@@ -74,8 +75,14 @@ while main_flag:
             # start tftp
             # TODO: needs to be moved later after initial configuration
             start_tftp()
+
+        # deleting old console logs
+        elif user_choice == '9':
+            del_old_logs(lang)
+
+        # deleting all temporary files
         elif user_choice == '0':
-            # deleting all temporary files
             delete_files(lang)
+
         else:
             break
