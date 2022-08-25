@@ -7,6 +7,7 @@ from datetime import datetime
 
 from data.decorators import decorator_space
 
+
 # function to start TFTP server
 def start_tftp():
     subprocess.Popen([r"tftp_server/tftpd32.exe"])
@@ -34,3 +35,8 @@ def del_old_logs(lang):
             os.remove(f'logs/console_logs/{file}')
     print(lang['deleted_logs'])
     print(decorator_space)
+
+
+# function to kill tftp server process
+def kill_tftp():
+    subprocess.call("TASKKILL /F /IM tftpd32.exe", shell=True)

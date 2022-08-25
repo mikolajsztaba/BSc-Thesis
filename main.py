@@ -1,6 +1,7 @@
 # main imports
 from prettytable import PrettyTable
 from serial import Serial
+from time import sleep
 
 # imports from other files
 from language.json_schema import user_language_choice
@@ -10,7 +11,7 @@ from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import read_ip_number, save_ip_number, delete_files
 from logger.logging import *
-from lib.function_auto import start_tftp, main_choice, del_old_logs
+from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp
 
 # flags
 main_flag = True
@@ -73,8 +74,13 @@ while main_flag:
 
         elif user_choice == '3':
             # start tftp
-            # TODO: needs to be moved later after initial configuration
             start_tftp()
+
+            # function to wait a little be
+            sleep(5)
+
+            # kill tftp after config is downloaded
+            kill_tftp()
 
         # deleting old console logs
         elif user_choice == '9':
