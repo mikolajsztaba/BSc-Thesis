@@ -1,10 +1,7 @@
 Na 30.08:
 poprawienie regexa w hostname
-
-
-
-
-
+dodanie zapisywania w jakims txt wszystkich tych par ADRES IP + URZADZENIE
+wczytywanie tego do jakiegos slownika i sprawdzenie, aby hostname i IP(?) nie mogly sie ze soba dublowac
 
 
 NA PRZYSZLOSC:
