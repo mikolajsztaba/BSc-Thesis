@@ -1,4 +1,13 @@
-Na 24.08:
+Na 30.08:
+poprawienie regexa w hostname
+
+
+
+
+
+
+
+NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp
 po wyborze COMU trzeba by zaczac robic jakis prosty config sprobowac sparsowac i przekazywac jako komendy na urzadzenie
 poprawienie mozliwych nazw urzadzen i jakos ich sparowania co jest switchem a co routerem i poprawna mozliwosc wyboru

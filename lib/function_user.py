@@ -1,4 +1,5 @@
 # imports
+import re
 from data.decorators import decorator_space
 
 
@@ -34,6 +35,25 @@ def user_com(language):
         user_input = input(language['com_question']).title()
         if user_input.isdigit():
             print(language["good_com"])
+            print(f'COM{user_input}')
             return f'COM{user_input}'
         else:
             print(language["bad_com"])
+            print(f'COM{user_input}')
+
+
+# question about hostname for the device
+def set_hostname(language):
+    while True:
+        user_hostname = input(language['hostname_choice'])
+        if re.match("^[A-Za-z][A-Za-z0-9-][A-Za-z0-9]*$", user_hostname) and len(user_hostname) <= 63:
+            print(language['correct_hostname'])
+            print(user_hostname)
+            return user_hostname
+        else:
+            print(language['bad_hostname'])
+            print(user_hostname)
+            print(decorator_space)
+            print(language['reference'])
+            print('https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm')
+            print(decorator_space)

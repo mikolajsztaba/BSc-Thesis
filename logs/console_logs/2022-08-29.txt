@@ -1,0 +1,360 @@
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+COM3
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+Needs to be done preparing initial config files
+Please provide your hostname for this device: OK
+Cisco Switch
+2
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+COM3
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+Needs to be done preparing initial config files
+Please provide your hostname for this device: NOT OK
+Please provide your hostname for this device: WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+COM3
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+Needs to be done preparing initial config files
+Please provide your hostname for this device: 
+['bad_hostname']
+Please provide your hostname for this device: 
+['bad_hostname']
+Please provide your hostname for this device: 
+['bad_hostname']
+Please provide your hostname for this device: 
+['bad_hostname']
+Please provide your hostname for this device: 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+COM4
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+Needs to be done preparing initial config files
+Please provide your hostname for this device: 
+Your hostname is not supported: 
+
+Please provide your hostname for this device: 
+Your hostname was provided correctly: 
+
+Cisco Switch
+3
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+COM3
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+Needs to be done preparing initial config files
+Please provide your hostname for this device: 
+Your hostname was provided correctly: 
+
+eee
+Cisco Switch
+4
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+COM3
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+Needs to be done preparing initial config files
+Please provide your hostname for this device: 
+Your hostname is not supported: 
+
+1
+ 
+https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm
+Please provide your hostname for this device: 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+COM3
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+Needs to be done preparing initial config files
+Please provide your hostname for this device: 
+Your hostname is not supported: 
+
+e
+ 
+Reference:
+https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm
+ 
+Please provide your hostname for this device: 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Which COM port would you like to use? Type only number: 
+Proper input of COM port: 
+COM3
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+If you want to leave this part of the script type 'Break'.
+Which device do you want to configure?
+Needs to be done preparing initial config files
+Please provide your hostname for this device: 
+Your hostname is not supported: 
+1
+ 
+Reference:
+https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm
+ 
+Please provide your hostname for this device: 
+Your hostname was provided correctly: 
+
+eee
+Cisco Switch
+5
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:

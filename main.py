@@ -6,7 +6,7 @@ from time import sleep
 # imports from other files
 from language.json_schema import user_language_choice
 from data.decorators import decorator_space
-from lib.function_user import configure_user, type_device, user_com
+from lib.function_user import configure_user, type_device, user_com, set_hostname
 from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import read_ip_number, save_ip_number, delete_files
@@ -49,7 +49,12 @@ while main_flag:
 
                 # ser = Serial(com_port, com_speed)
 
+                # choosing devices from the list
                 user_dev = type_device(lang, devices)
+
+                # choosing hostname as user wants to
+                hostname = set_hostname(lang)
+
                 #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp
                 # try/except block to read the ip number from txt file
                 try:

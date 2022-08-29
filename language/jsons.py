@@ -26,6 +26,10 @@ language = {"En": {
                     "option_0": "0 -> Delete all temporary script files.",
                     "type_number": "Type your number:\n",
                     "deleted_logs": "Console logs were successfully deleted.",
+                    "hostname_choice": "Please provide your hostname for this device: \n",
+                    "correct_hostname": "Your hostname was provided correctly:",
+                    "bad_hostname": "Your hostname is not supported: ",
+                    "reference": "Reference:"
                   },
             "Pl": {
                     "title": "Stworzenie narzędzia do automatyzacji konfiguracji urządzeń sieciowych oraz sterowania działaniem sieci.",
@@ -54,5 +58,9 @@ language = {"En": {
                     "option_0": "0 -> Usunięcie wszystkich tymczasowych plikow konfiguracyjnych.",
                     "type_number": "Wpisz swój numer:\n",
                     "deleted_logs": "Logi konsolowe zostały poprawnie usunięte.",
+                    "hostname_choice": "Wpisz nazwę dla tego konkretnego urządzenia: \n",
+                    "correct_hostname": "Twój hostname został wybrany poprawnie:",
+                    "bad_hostname": "Twój hostname nie jest poprawny:",
+                    "reference": "Referencje: "
             }
 }
