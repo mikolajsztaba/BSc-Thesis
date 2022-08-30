@@ -9,7 +9,7 @@ from data.decorators import decorator_space
 from lib.function_user import configure_user, type_device, user_com, set_hostname
 from data.devices import devices
 from data.variables import ip_number, com_speed
-from lib.file_handling import read_ip_number, save_ip_number, delete_files
+from lib.file_handling import read_ip_number, save_ip_number, delete_files, save_dev_ip
 from logger.logging import *
 from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp
 
@@ -61,6 +61,9 @@ while main_flag:
                     current_ip = read_ip_number()
                 except:
                     current_ip = ip_number
+
+                # saving hostname with ip address to txt file
+                save_dev_ip(hostname, current_ip)
 
                 print(user_dev)
                 # saving ip_number for the next device

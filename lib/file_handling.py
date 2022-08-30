@@ -3,6 +3,7 @@ import os
 
 from data.decorators import decorator_space
 
+
 # TXT files handling
 def reading_conf_files(file):
     """
@@ -28,7 +29,7 @@ def read_ip_number():
 # saving ip number to txt file incremented by 1
 def save_ip_number(ip_number):
     with open('temporary/ip_number.txt', 'w') as file:
-        file.write(str(ip_number+1))
+        file.write(str(ip_number + 1))
 
 
 # deleting all temporary files created during the script
@@ -38,3 +39,13 @@ def delete_files(lang_dict):
         os.remove(f'temporary/{file}')
     print(lang_dict["deleted_files"])
     print(decorator_space)
+
+
+# function to store device hostname with ip in txt file
+def save_dev_ip(hostname, ip):
+    try:
+        with open("temporary/hostname_ip.txt", "a") as file:
+            file.write(f"{hostname} {ip}\n")
+    except:
+        with open("temporary/hostname_ip.txt", "w") as file:
+            file.write(f"{hostname} {ip}\n")
