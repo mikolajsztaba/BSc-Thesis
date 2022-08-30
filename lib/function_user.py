@@ -46,7 +46,7 @@ def user_com(language):
 def set_hostname(language):
     while True:
         user_hostname = input(language['hostname_choice'])
-        if re.match("^[A-Za-z][A-Za-z0-9-][A-Za-z0-9]*$", user_hostname) and len(user_hostname) <= 63:
+        if re.match("^[A-Za-z][A-Za-z0-9-]*[A-Za-z0-9]$", user_hostname) and len(user_hostname) <= 63:
             print(language['correct_hostname'])
             print(user_hostname)
             return user_hostname
