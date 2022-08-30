@@ -40,3 +40,19 @@ def del_old_logs(lang):
 # function to kill tftp server process
 def kill_tftp():
     subprocess.call("TASKKILL /F /IM tftpd32.exe", shell=True)
+
+
+# function to check availability of hostname and ip address
+def check_ip_hostname(ip, hostname):
+    flag = True
+    try:
+        with open("temporary/hostname_ip.txt", "r") as file:
+            data = file.read()
+            data_list = data.split("\n")
+            print(data_list)
+            for element in data_list:
+                if hostname in element:
+                    flag = False
+        return flag
+    except:
+        return True

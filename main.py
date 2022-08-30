@@ -11,7 +11,7 @@ from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import read_ip_number, save_ip_number, delete_files, save_dev_ip
 from logger.logging import *
-from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp
+from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname
 
 # flags
 main_flag = True
@@ -45,27 +45,36 @@ while main_flag:
                 # COM CONNECTION
                 # choosing COM port number
                 # TOOD: maybe add functionality to check possible ports on the device
-                com_port = user_com(lang)
+                # com_port = user_com(lang)
 
+                # creating COM number connection
                 # ser = Serial(com_port, com_speed)
 
-                # choosing devices from the list
-                user_dev = type_device(lang, devices)
+                # loop to make user choose proper ip address and hostname
+                while True:
+                    # choosing devices from the list
+                    # user_dev = type_device(lang, devices)
 
-                # choosing hostname as user wants to
-                hostname = set_hostname(lang)
+                    # choosing hostname as user wants to
+                    hostname = set_hostname(lang)
 
-                #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp
-                # try/except block to read the ip number from txt file
-                try:
-                    current_ip = read_ip_number()
-                except:
-                    current_ip = ip_number
+                    # TODO: TUTAJ TEN WYBOR SIECI DO KTOREJ MA NALEZEC NASZ HOST
+
+                    #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp
+                    # try/except block to read the ip number from txt file
+                    try:
+                        current_ip = read_ip_number()
+                    except:
+                        current_ip = ip_number
+
+                    # check hostname/ip availability
+                    if check_ip_hostname(current_ip, hostname):
+                        break
 
                 # saving hostname with ip address to txt file
                 save_dev_ip(hostname, current_ip)
 
-                print(user_dev)
+                # print(user_dev)
                 # saving ip_number for the next device
                 save_ip_number(current_ip)
 
