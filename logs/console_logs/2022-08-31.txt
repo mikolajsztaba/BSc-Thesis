@@ -1,0 +1,2956 @@
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+en
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', '']
+7
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', '']
+Please provide your hostname for this device: 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', '']
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', '']
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', '']
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+eeee
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', '']
+8
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+eeeeeeeeeeeeeeeeeeeeeeee
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', '']
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', '']
+9
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', 'eeeeeeeeeeeeeeeeeeeeeeee 8', '']
+10
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname is not supported: 
+e
+ 
+Reference:
+https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm
+ 
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+eeee
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', 'eeeeeeeeeeeeeeeeeeeeeeee 8', 'cisco 9', '']
+SSSSSSSSS
+SSSSSSSSS
+SSSSSSSSS
+SSSSSSSSS
+SSSSSSSSS
+SSSSSSSSS
+SSSSSSSSS
+SSSSSSSSS
+SSSSSSSSS
+SSSSSSSSS
+11
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+aaa
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', 'eeeeeeeeeeeeeeeeeeeeeeee 8', 'cisco 9', 'eeee 10', '']
+cisco 1
+SSSSSSSSS
+cisco 2
+SSSSSSSSS
+cisco 3
+SSSSSSSSS
+cisco 4
+SSSSSSSSS
+ciscoooo 5
+SSSSSSSSS
+en 6
+SSSSSSSSS
+eeee 7
+SSSSSSSSS
+eeeeeeeeeeeeeeeeeeeeeeee 8
+SSSSSSSSS
+cisco 9
+SSSSSSSSS
+eeee 10
+SSSSSSSSS
+
+SSSSSSSSS
+12
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+siuuu
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', 'eeeeeeeeeeeeeeeeeeeeeeee 8', 'cisco 9', 'eeee 10', 'aaa 11', '']
+cisco 1
+cisco
+1
+SSSSSSSSS
+cisco 2
+cisco
+2
+SSSSSSSSS
+cisco 3
+cisco
+3
+SSSSSSSSS
+cisco 4
+cisco
+4
+SSSSSSSSS
+ciscoooo 5
+ciscoooo
+5
+SSSSSSSSS
+en 6
+en
+6
+SSSSSSSSS
+eeee 7
+eeee
+7
+SSSSSSSSS
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee
+8
+SSSSSSSSS
+cisco 9
+cisco
+9
+SSSSSSSSS
+eeee 10
+eeee
+10
+SSSSSSSSS
+aaa 11
+aaa
+11
+SSSSSSSSS
+
+
+13
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+eeeeeeeeeeeeeeeeeeeeee
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', 'eeeeeeeeeeeeeeeeeeeeeeee 8', 'cisco 9', 'eeee 10', 'aaa 11', 'siuuu 12', '']
+cisco 1
+cisco
+1
+SSSSSSSSS
+cisco 2
+cisco
+2
+SSSSSSSSS
+cisco 3
+cisco
+3
+SSSSSSSSS
+cisco 4
+cisco
+4
+SSSSSSSSS
+ciscoooo 5
+ciscoooo
+5
+SSSSSSSSS
+en 6
+en
+6
+SSSSSSSSS
+eeee 7
+eeee
+7
+SSSSSSSSS
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee
+8
+SSSSSSSSS
+cisco 9
+cisco
+9
+SSSSSSSSS
+eeee 10
+eeee
+10
+SSSSSSSSS
+aaa 11
+aaa
+11
+SSSSSSSSS
+siuuu 12
+siuuu
+12
+SSSSSSSSS
+
+
+14
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+siuuuuuuuuuuuuuu
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', 'eeeeeeeeeeeeeeeeeeeeeeee 8', 'cisco 9', 'eeee 10', 'aaa 11', 'siuuu 12', 'eeeeeeeeeeeeeeeeeeeeee 13', '']
+
+cisco 1
+cisco
+1
+SSSSSSSSS
+
+cisco 2
+cisco
+2
+SSSSSSSSS
+
+cisco 3
+cisco
+3
+SSSSSSSSS
+
+cisco 4
+cisco
+4
+SSSSSSSSS
+
+ciscoooo 5
+ciscoooo
+5
+SSSSSSSSS
+
+en 6
+en
+6
+SSSSSSSSS
+
+eeee 7
+eeee
+7
+SSSSSSSSS
+
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee
+8
+SSSSSSSSS
+
+cisco 9
+cisco
+9
+SSSSSSSSS
+
+eeee 10
+eeee
+10
+SSSSSSSSS
+
+aaa 11
+aaa
+11
+SSSSSSSSS
+
+siuuu 12
+siuuu
+12
+SSSSSSSSS
+
+eeeeeeeeeeeeeeeeeeeeee 13
+eeeeeeeeeeeeeeeeeeeeee
+13
+SSSSSSSSS
+
+
+15
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname is not supported: 
+a
+ 
+Reference:
+https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm
+ 
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+aaa
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', 'eeeeeeeeeeeeeeeeeeeeeeee 8', 'cisco 9', 'eeee 10', 'aaa 11', 'siuuu 12', 'eeeeeeeeeeeeeeeeeeeeee 13', 'siuuuuuuuuuuuuuu 14', '']
+cisco 1
+cisco 1
+cisco
+1
+SSSSSSSSS
+cisco 2
+cisco 2
+cisco
+2
+SSSSSSSSS
+cisco 3
+cisco 3
+cisco
+3
+SSSSSSSSS
+cisco 4
+cisco 4
+cisco
+4
+SSSSSSSSS
+ciscoooo 5
+ciscoooo 5
+ciscoooo
+5
+SSSSSSSSS
+en 6
+en 6
+en
+6
+SSSSSSSSS
+eeee 7
+eeee 7
+eeee
+7
+SSSSSSSSS
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee
+8
+SSSSSSSSS
+cisco 9
+cisco 9
+cisco
+9
+SSSSSSSSS
+eeee 10
+eeee 10
+eeee
+10
+SSSSSSSSS
+aaa 11
+aaa 11
+aaa
+11
+SSSSSSSSS
+siuuu 12
+siuuu 12
+siuuu
+12
+SSSSSSSSS
+eeeeeeeeeeeeeeeeeeeeee 13
+eeeeeeeeeeeeeeeeeeeeee 13
+eeeeeeeeeeeeeeeeeeeeee
+13
+SSSSSSSSS
+siuuuuuuuuuuuuuu 14
+siuuuuuuuuuuuuuu 14
+siuuuuuuuuuuuuuu
+14
+SSSSSSSSS
+
+
+16
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+aaa
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', 'eeeeeeeeeeeeeeeeeeeeeeee 8', 'cisco 9', 'eeee 10', 'aaa 11', 'siuuu 12', 'eeeeeeeeeeeeeeeeeeeeee 13', 'siuuuuuuuuuuuuuu 14', 'aaa 15', '']
+cisco 1
+cisco 1
+cisco
+1
+SSSSSSSSS
+cisco 2
+cisco 2
+cisco
+2
+SSSSSSSSS
+cisco 3
+cisco 3
+cisco
+3
+SSSSSSSSS
+cisco 4
+cisco 4
+cisco
+4
+SSSSSSSSS
+ciscoooo 5
+ciscoooo 5
+ciscoooo
+5
+SSSSSSSSS
+en 6
+en 6
+en
+6
+SSSSSSSSS
+eeee 7
+eeee 7
+eeee
+7
+SSSSSSSSS
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee
+8
+SSSSSSSSS
+cisco 9
+cisco 9
+cisco
+9
+SSSSSSSSS
+eeee 10
+eeee 10
+eeee
+10
+SSSSSSSSS
+aaa 11
+aaa 11
+aaa
+11
+SSSSSSSSS
+siuuu 12
+siuuu 12
+siuuu
+12
+SSSSSSSSS
+eeeeeeeeeeeeeeeeeeeeee 13
+eeeeeeeeeeeeeeeeeeeeee 13
+eeeeeeeeeeeeeeeeeeeeee
+13
+SSSSSSSSS
+siuuuuuuuuuuuuuu 14
+siuuuuuuuuuuuuuu 14
+siuuuuuuuuuuuuuu
+14
+SSSSSSSSS
+aaa 15
+aaa 15
+aaa
+15
+SSSSSSSSS
+
+
+17
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+aaaaaaaaaaaaaaaaaa
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', 'eeeeeeeeeeeeeeeeeeeeeeee 8', 'cisco 9', 'eeee 10', 'aaa 11', 'siuuu 12', 'eeeeeeeeeeeeeeeeeeeeee 13', 'siuuuuuuuuuuuuuu 14', 'aaa 15', 'aaa 16', '']
+cisco 1
+cisco 1
+cisco
+1
+SSSSSSSSS
+['cisco']
+cisco 2
+cisco 2
+cisco
+2
+SSSSSSSSS
+['cisco', 'cisco']
+cisco 3
+cisco 3
+cisco
+3
+SSSSSSSSS
+['cisco', 'cisco', 'cisco']
+cisco 4
+cisco 4
+cisco
+4
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco']
+ciscoooo 5
+ciscoooo 5
+ciscoooo
+5
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo']
+en 6
+en 6
+en
+6
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en']
+eeee 7
+eeee 7
+eeee
+7
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee']
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee
+8
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee']
+cisco 9
+cisco 9
+cisco
+9
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco']
+eeee 10
+eeee 10
+eeee
+10
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee']
+aaa 11
+aaa 11
+aaa
+11
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa']
+siuuu 12
+siuuu 12
+siuuu
+12
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa', 'siuuu']
+eeeeeeeeeeeeeeeeeeeeee 13
+eeeeeeeeeeeeeeeeeeeeee 13
+eeeeeeeeeeeeeeeeeeeeee
+13
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa', 'siuuu', 'eeeeeeeeeeeeeeeeeeeeee']
+siuuuuuuuuuuuuuu 14
+siuuuuuuuuuuuuuu 14
+siuuuuuuuuuuuuuu
+14
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa', 'siuuu', 'eeeeeeeeeeeeeeeeeeeeee', 'siuuuuuuuuuuuuuu']
+aaa 15
+aaa 15
+aaa
+15
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa', 'siuuu', 'eeeeeeeeeeeeeeeeeeeeee', 'siuuuuuuuuuuuuuu', 'aaa']
+aaa 16
+aaa 16
+aaa
+16
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa', 'siuuu', 'eeeeeeeeeeeeeeeeeeeeee', 'siuuuuuuuuuuuuuu', 'aaa', 'aaa']
+
+
+18
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+ciscosoca
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', 'eeeeeeeeeeeeeeeeeeeeeeee 8', 'cisco 9', 'eeee 10', 'aaa 11', 'siuuu 12', 'eeeeeeeeeeeeeeeeeeeeee 13', 'siuuuuuuuuuuuuuu 14', 'aaa 15', 'aaa 16', 'aaaaaaaaaaaaaaaaaa 17', '']
+cisco 1
+cisco 1
+cisco
+1
+SSSSSSSSS
+['cisco']
+cisco 2
+cisco 2
+cisco
+2
+SSSSSSSSS
+['cisco']
+cisco 3
+cisco 3
+cisco
+3
+SSSSSSSSS
+['cisco']
+cisco 4
+cisco 4
+cisco
+4
+SSSSSSSSS
+['cisco']
+ciscoooo 5
+ciscoooo 5
+ciscoooo
+5
+SSSSSSSSS
+['ciscoooo']
+en 6
+en 6
+en
+6
+SSSSSSSSS
+['en']
+eeee 7
+eeee 7
+eeee
+7
+SSSSSSSSS
+['eeee']
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee
+8
+SSSSSSSSS
+['eeeeeeeeeeeeeeeeeeeeeeee']
+cisco 9
+cisco 9
+cisco
+9
+SSSSSSSSS
+['cisco']
+eeee 10
+eeee 10
+eeee
+10
+SSSSSSSSS
+['eeee']
+aaa 11
+aaa 11
+aaa
+11
+SSSSSSSSS
+['aaa']
+siuuu 12
+siuuu 12
+siuuu
+12
+SSSSSSSSS
+['siuuu']
+eeeeeeeeeeeeeeeeeeeeee 13
+eeeeeeeeeeeeeeeeeeeeee 13
+eeeeeeeeeeeeeeeeeeeeee
+13
+SSSSSSSSS
+['eeeeeeeeeeeeeeeeeeeeee']
+siuuuuuuuuuuuuuu 14
+siuuuuuuuuuuuuuu 14
+siuuuuuuuuuuuuuu
+14
+SSSSSSSSS
+['siuuuuuuuuuuuuuu']
+aaa 15
+aaa 15
+aaa
+15
+SSSSSSSSS
+['aaa']
+aaa 16
+aaa 16
+aaa
+16
+SSSSSSSSS
+['aaa']
+aaaaaaaaaaaaaaaaaa 17
+aaaaaaaaaaaaaaaaaa 17
+aaaaaaaaaaaaaaaaaa
+17
+SSSSSSSSS
+['aaaaaaaaaaaaaaaaaa']
+
+
+19
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cuscasasfa
+['cisco 1', 'cisco 2', 'cisco 3', 'cisco 4', 'ciscoooo 5', 'en 6', 'eeee 7', 'eeeeeeeeeeeeeeeeeeeeeeee 8', 'cisco 9', 'eeee 10', 'aaa 11', 'siuuu 12', 'eeeeeeeeeeeeeeeeeeeeee 13', 'siuuuuuuuuuuuuuu 14', 'aaa 15', 'aaa 16', 'aaaaaaaaaaaaaaaaaa 17', 'ciscosoca 18', '']
+cisco 1
+cisco 1
+cisco
+1
+SSSSSSSSS
+['cisco']
+cisco 2
+cisco 2
+cisco
+2
+SSSSSSSSS
+['cisco', 'cisco']
+cisco 3
+cisco 3
+cisco
+3
+SSSSSSSSS
+['cisco', 'cisco', 'cisco']
+cisco 4
+cisco 4
+cisco
+4
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco']
+ciscoooo 5
+ciscoooo 5
+ciscoooo
+5
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo']
+en 6
+en 6
+en
+6
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en']
+eeee 7
+eeee 7
+eeee
+7
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee']
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee 8
+eeeeeeeeeeeeeeeeeeeeeeee
+8
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee']
+cisco 9
+cisco 9
+cisco
+9
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco']
+eeee 10
+eeee 10
+eeee
+10
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee']
+aaa 11
+aaa 11
+aaa
+11
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa']
+siuuu 12
+siuuu 12
+siuuu
+12
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa', 'siuuu']
+eeeeeeeeeeeeeeeeeeeeee 13
+eeeeeeeeeeeeeeeeeeeeee 13
+eeeeeeeeeeeeeeeeeeeeee
+13
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa', 'siuuu', 'eeeeeeeeeeeeeeeeeeeeee']
+siuuuuuuuuuuuuuu 14
+siuuuuuuuuuuuuuu 14
+siuuuuuuuuuuuuuu
+14
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa', 'siuuu', 'eeeeeeeeeeeeeeeeeeeeee', 'siuuuuuuuuuuuuuu']
+aaa 15
+aaa 15
+aaa
+15
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa', 'siuuu', 'eeeeeeeeeeeeeeeeeeeeee', 'siuuuuuuuuuuuuuu', 'aaa']
+aaa 16
+aaa 16
+aaa
+16
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa', 'siuuu', 'eeeeeeeeeeeeeeeeeeeeee', 'siuuuuuuuuuuuuuu', 'aaa', 'aaa']
+aaaaaaaaaaaaaaaaaa 17
+aaaaaaaaaaaaaaaaaa 17
+aaaaaaaaaaaaaaaaaa
+17
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa', 'siuuu', 'eeeeeeeeeeeeeeeeeeeeee', 'siuuuuuuuuuuuuuu', 'aaa', 'aaa', 'aaaaaaaaaaaaaaaaaa']
+ciscosoca 18
+ciscosoca 18
+ciscosoca
+18
+SSSSSSSSS
+['cisco', 'cisco', 'cisco', 'cisco', 'ciscoooo', 'en', 'eeee', 'eeeeeeeeeeeeeeeeeeeeeeee', 'cisco', 'eeee', 'aaa', 'siuuu', 'eeeeeeeeeeeeeeeeeeeeee', 'siuuuuuuuuuuuuuu', 'aaa', 'aaa', 'aaaaaaaaaaaaaaaaaa', 'ciscosoca']
+
+
+20
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+ciscoscoafsaf
+21
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+asfffffff
+22
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname is not supported: 
+a
+ 
+Reference:
+https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm
+ 
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+aaa
+['asfffffff 21', '']
+asfffffff 21
+asfffffff 21
+asfffffff
+21
+SSSSSSSSS
+['asfffffff']
+
+
+23
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cucsa
+2
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+aaaaa
+['cucsa 1', '']
+cucsa 1
+cucsa 1
+cucsa
+1
+SSSSSSSSS
+['cucsa']
+
+
+3
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+ccccccc
+['cucsa 1', 'aaaaa 2', '']
+cucsa 1
+['cucsa', '1']
+cucsa
+1
+SSSSSSSSS
+['cucsa']
+aaaaa 2
+['aaaaa', '2']
+aaaaa
+2
+SSSSSSSSS
+['cucsa', 'aaaaa']
+
+[]
+4
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+asdasdasd
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', '']
+cucsa 1
+['cucsa', '1']
+cucsa
+1
+SSSSSSSSS
+['ESSSSSSSSSSS']
+aaaaa 2
+['aaaaa', '2']
+aaaaa
+2
+SSSSSSSSS
+['ESSSSSSSSSSS', 'ESSSSSSSSSSS']
+ccccccc 3
+['ccccccc', '3']
+ccccccc
+3
+SSSSSSSSS
+['ESSSSSSSSSSS', 'ESSSSSSSSSSS', 'ESSSSSSSSSSS']
+
+[]
+5
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+dsasdsada
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', '']
+cucsa 1
+['cucsa', '1']
+cucsa
+1
+SSSSSSSSS
+aaaaa 2
+['aaaaa', '2']
+aaaaa
+2
+SSSSSSSSS
+ccccccc 3
+['ccccccc', '3']
+ccccccc
+3
+SSSSSSSSS
+asdasdasd 4
+['asdasdasd', '4']
+asdasdasd
+4
+SSSSSSSSS
+
+[]
+6
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+asddasd
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', '']
+cucsa 1
+['cucsa', '1']
+cucsa
+1
+SSSSSSSSS
+aaaaa 2
+['aaaaa', '2']
+aaaaa
+2
+SSSSSSSSS
+ccccccc 3
+['ccccccc', '3']
+ccccccc
+3
+SSSSSSSSS
+asdasdasd 4
+['asdasdasd', '4']
+asdasdasd
+4
+SSSSSSSSS
+dsasdsada 5
+['dsasdsada', '5']
+dsasdsada
+5
+SSSSSSSSS
+
+[]
+7
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', 'asddasd 6', '']
+cucsa
+1
+aaaaa
+2
+ccccccc
+3
+asdasdasd
+4
+dsasdsada
+5
+asddasd
+6
+8
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', 'asddasd 6', 'cisco 7', '']
+cucsa
+1
+aaaaa
+2
+ccccccc
+3
+asdasdasd
+4
+dsasdsada
+5
+asddasd
+6
+cisco
+7
+9
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', 'asddasd 6', 'cisco 7', 'cisco 8', '']
+cucsa
+1
+cisco
+9
+----------
+aaaaa
+2
+cisco
+9
+----------
+ccccccc
+3
+cisco
+9
+----------
+asdasdasd
+4
+cisco
+9
+----------
+dsasdsada
+5
+cisco
+9
+----------
+asddasd
+6
+cisco
+9
+----------
+cisco
+7
+cisco
+9
+----------
+cisco
+8
+cisco
+9
+----------
+10
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', 'asddasd 6', 'cisco 7', 'cisco 8', 'cisco 9', '']
+cucsa
+1
+cisco
+10
+----------
+aaaaa
+2
+cisco
+10
+----------
+ccccccc
+3
+cisco
+10
+----------
+asdasdasd
+4
+cisco
+10
+----------
+dsasdsada
+5
+cisco
+10
+----------
+asddasd
+6
+cisco
+10
+----------
+cisco
+7
+cisco
+10
+----------
+cisco
+8
+cisco
+10
+----------
+cisco
+9
+cisco
+10
+----------
+11
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', 'asddasd 6', 'cisco 7', 'cisco 8', 'cisco 9', 'cisco 10', '']
+cucsa
+1
+cisco
+11
+----------
+aaaaa
+2
+cisco
+11
+----------
+ccccccc
+3
+cisco
+11
+----------
+asdasdasd
+4
+cisco
+11
+----------
+dsasdsada
+5
+cisco
+11
+----------
+asddasd
+6
+cisco
+11
+----------
+cisco
+7
+cisco
+11
+----------
+cisco
+8
+cisco
+11
+----------
+cisco
+9
+cisco
+11
+----------
+cisco
+10
+cisco
+11
+----------
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', 'asddasd 6', 'cisco 7', 'cisco 8', 'cisco 9', 'cisco 10', '']
+['cucsa', '1']
+cucsa
+1
+cisco
+11
+----------
+['aaaaa', '2']
+aaaaa
+2
+cisco
+11
+----------
+['ccccccc', '3']
+ccccccc
+3
+cisco
+11
+----------
+['asdasdasd', '4']
+asdasdasd
+4
+cisco
+11
+----------
+['dsasdsada', '5']
+dsasdsada
+5
+cisco
+11
+----------
+['asddasd', '6']
+asddasd
+6
+cisco
+11
+----------
+['cisco', '7']
+cisco
+7
+cisco
+11
+----------
+['cisco', '8']
+cisco
+8
+cisco
+11
+----------
+['cisco', '9']
+cisco
+9
+cisco
+11
+----------
+['cisco', '10']
+cisco
+10
+cisco
+11
+----------
+[]
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname is not supported: 
+1
+ 
+Reference:
+https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm
+ 
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+sdadsa
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', 'asddasd 6', 'cisco 7', 'cisco 8', 'cisco 9', 'cisco 10', '']
+['cucsa', '1']
+1
+1
+sdadsa
+11
+----------
+['aaaaa', '2']
+2
+2
+sdadsa
+11
+----------
+['ccccccc', '3']
+3
+3
+sdadsa
+11
+----------
+['asdasdasd', '4']
+4
+4
+sdadsa
+11
+----------
+['dsasdsada', '5']
+5
+5
+sdadsa
+11
+----------
+['asddasd', '6']
+6
+6
+sdadsa
+11
+----------
+['cisco', '7']
+7
+7
+sdadsa
+11
+----------
+['cisco', '8']
+8
+8
+sdadsa
+11
+----------
+['cisco', '9']
+9
+9
+sdadsa
+11
+----------
+['cisco', '10']
+10
+10
+sdadsa
+11
+----------
+[]
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname is not supported: 
+e
+ 
+Reference:
+https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm
+ 
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+eee
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', 'asddasd 6', 'cisco 7', 'cisco 8', 'cisco 9', 'cisco 10', '']
+['cucsa', '1']
+eee
+11
+----------
+['aaaaa', '2']
+eee
+11
+----------
+['ccccccc', '3']
+eee
+11
+----------
+['asdasdasd', '4']
+eee
+11
+----------
+['dsasdsada', '5']
+eee
+11
+----------
+['asddasd', '6']
+eee
+11
+----------
+['cisco', '7']
+eee
+11
+----------
+['cisco', '8']
+eee
+11
+----------
+['cisco', '9']
+eee
+11
+----------
+['cisco', '10']
+eee
+11
+----------
+[]
+eee
+11
+----------
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', 'asddasd 6', 'cisco 7', 'cisco 8', 'cisco 9', 'cisco 10', '']
+['cucsa', '1']
+<class 'list'>
+cisco
+11
+----------
+['aaaaa', '2']
+<class 'list'>
+cisco
+11
+----------
+['ccccccc', '3']
+<class 'list'>
+cisco
+11
+----------
+['asdasdasd', '4']
+<class 'list'>
+cisco
+11
+----------
+['dsasdsada', '5']
+<class 'list'>
+cisco
+11
+----------
+['asddasd', '6']
+<class 'list'>
+cisco
+11
+----------
+['cisco', '7']
+<class 'list'>
+cisco
+11
+----------
+['cisco', '8']
+<class 'list'>
+cisco
+11
+----------
+['cisco', '9']
+<class 'list'>
+cisco
+11
+----------
+['cisco', '10']
+<class 'list'>
+cisco
+11
+----------
+[]
+<class 'list'>
+cisco
+11
+----------
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', 'asddasd 6', 'cisco 7', 'cisco 8', 'cisco 9', 'cisco 10', '']
+['cucsa', '1']
+<class 'list'>
+cisco
+11
+----------
+['aaaaa', '2']
+<class 'list'>
+cisco
+11
+----------
+['ccccccc', '3']
+<class 'list'>
+cisco
+11
+----------
+['asdasdasd', '4']
+<class 'list'>
+cisco
+11
+----------
+['dsasdsada', '5']
+<class 'list'>
+cisco
+11
+----------
+['asddasd', '6']
+<class 'list'>
+cisco
+11
+----------
+['cisco', '7']
+<class 'list'>
+KURWA
+cisco
+11
+----------
+['cisco', '8']
+<class 'list'>
+KURWA
+cisco
+11
+----------
+['cisco', '9']
+<class 'list'>
+KURWA
+cisco
+11
+----------
+['cisco', '10']
+<class 'list'>
+KURWA
+cisco
+11
+----------
+[]
+<class 'list'>
+cisco
+11
+----------
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname is not supported: 
+e
+ 
+Reference:
+https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm
+ 
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', 'asddasd 6', 'cisco 7', 'cisco 8', 'cisco 9', 'cisco 10', '']
+['cucsa', '1']
+<class 'list'>
+cisco
+11
+----------
+['aaaaa', '2']
+<class 'list'>
+cisco
+11
+----------
+['ccccccc', '3']
+<class 'list'>
+cisco
+11
+----------
+['asdasdasd', '4']
+<class 'list'>
+cisco
+11
+----------
+['dsasdsada', '5']
+<class 'list'>
+cisco
+11
+----------
+['asddasd', '6']
+<class 'list'>
+cisco
+11
+----------
+['cisco', '7']
+<class 'list'>
+KURWA
+cisco
+11
+----------
+['cisco', '8']
+<class 'list'>
+KURWA
+cisco
+11
+----------
+['cisco', '9']
+<class 'list'>
+KURWA
+cisco
+11
+----------
+['cisco', '10']
+<class 'list'>
+KURWA
+cisco
+11
+----------
+[]
+<class 'list'>
+cisco
+11
+----------
+Please provide your hostname for this device: 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+fffffffff
+['cucsa 1', 'aaaaa 2', 'ccccccc 3', 'asdasdasd 4', 'dsasdsada 5', 'asddasd 6', 'cisco 7', 'cisco 8', 'cisco 9', 'cisco 10', '']
+['cucsa', '1']
+<class 'list'>
+fffffffff
+11
+----------
+['aaaaa', '2']
+<class 'list'>
+fffffffff
+11
+----------
+['ccccccc', '3']
+<class 'list'>
+fffffffff
+11
+----------
+['asdasdasd', '4']
+<class 'list'>
+fffffffff
+11
+----------
+['dsasdsada', '5']
+<class 'list'>
+fffffffff
+11
+----------
+['asddasd', '6']
+<class 'list'>
+fffffffff
+11
+----------
+['cisco', '7']
+<class 'list'>
+fffffffff
+11
+----------
+['cisco', '8']
+<class 'list'>
+fffffffff
+11
+----------
+['cisco', '9']
+<class 'list'>
+fffffffff
+11
+----------
+['cisco', '10']
+<class 'list'>
+fffffffff
+11
+----------
+[]
+<class 'list'>
+fffffffff
+11
+----------
+12
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+Please provide your hostname for this device: 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+gg
+2
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+ss
+['gg 1', '']
+['gg', '1']
+<class 'list'>
+ss
+2
+----------
+[]
+<class 'list'>
+ss
+2
+----------
+3
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+gg
+['gg 1', 'ss 2', '']
+['gg', '1']
+<class 'list'>
+Powtarzajacy sie hostname, wybierz inny.
+gg
+3
+----------
+['ss', '2']
+<class 'list'>
+gg
+3
+----------
+[]
+<class 'list'>
+gg
+3
+----------
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+gg
+['gg 1', 'ss 2', '']
+['gg', '1']
+<class 'list'>
+Powtarzajacy sie hostname, wybierz inny.
+gg
+3
+----------
+['ss', '2']
+<class 'list'>
+gg
+3
+----------
+[]
+<class 'list'>
+gg
+3
+----------
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+kk
+['gg 1', 'ss 2', '']
+['gg', '1']
+<class 'list'>
+kk
+3
+----------
+['ss', '2']
+<class 'list'>
+kk
+3
+----------
+[]
+<class 'list'>
+kk
+3
+----------
+4
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+5
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+Your hostname is overlapped with the previous ones.
+Please provide your hostname for this device: 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you want to download config to the device type 'yes':
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+cisco
+ 
+Your hostname is overlapped with the previous ones.
+Try again please...
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+aaa
+ 
+6
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+9 -> Delete old script console logs.
+0 -> Delete all temporary script files.
+Type your number:

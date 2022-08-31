@@ -43,16 +43,25 @@ def kill_tftp():
 
 
 # function to check availability of hostname and ip address
-def check_ip_hostname(ip, hostname):
+def check_ip_hostname(ip, hostname, language):
     flag = True
+    # try and except for the initial first device
     try:
         with open("temporary/hostname_ip.txt", "r") as file:
             data = file.read()
             data_list = data.split("\n")
-            print(data_list)
+            print(decorator_space)
             for element in data_list:
-                if hostname in element:
+                data_split = element.split()
+                if hostname in data_split:
+                    print(language['duplicate_hostname'])
+                    print(language['try_again'])
                     flag = False
-        return flag
+                if ip in data_split:
+                    print(language['duplicate_ip'])
+                    print(language['try_again'])
+                    flag = False
+            return flag
     except:
-        return True
+        return flag
+

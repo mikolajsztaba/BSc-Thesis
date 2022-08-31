@@ -68,7 +68,7 @@ while main_flag:
                         current_ip = ip_number
 
                     # check hostname/ip availability
-                    if check_ip_hostname(current_ip, hostname):
+                    if check_ip_hostname(current_ip, hostname, lang):
                         break
 
                 # saving hostname with ip address to txt file

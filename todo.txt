@@ -1,7 +1,5 @@
 Na 30.08:
-POPRAWA TEGO ===>
-wczytywanie tego do jakiegos slownika i sprawdzenie, aby hostname i IP(?) nie mogly sie ze soba dublowac, czyli
-sprawdzanie osobno IP(?) i hostname
+
 dodanie wyboru sieci od jakiego maja startowac adresy ip np od 1.1.1.0 czy 192.168.1.1
 
 

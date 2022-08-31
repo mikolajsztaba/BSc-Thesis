@@ -29,7 +29,11 @@ language = {"En": {
                     "hostname_choice": "Please provide your hostname for this device: \n",
                     "correct_hostname": "Your hostname was provided correctly:",
                     "bad_hostname": "Your hostname is not supported: ",
-                    "reference": "Reference:"
+                    "reference": "Reference:",
+                    "duplicate_ip": "Your IP address is overlapped with the previous ones.",
+                    "duplicate_hostname": "Your hostname is overlapped with the previous ones.",
+                    "try_again": "Try again please...",
+    
                   },
             "Pl": {
                     "title": "Stworzenie narzędzia do automatyzacji konfiguracji urządzeń sieciowych oraz sterowania działaniem sieci.",
@@ -61,6 +65,9 @@ language = {"En": {
                     "hostname_choice": "Wpisz nazwę dla tego konkretnego urządzenia: \n",
                     "correct_hostname": "Twój hostname został wybrany poprawnie:",
                     "bad_hostname": "Twój hostname nie jest poprawny:",
-                    "reference": "Referencje: "
+                    "reference": "Referencje: ",
+                    "duplicate_ip": "Twój adres IP powtarza się juz z wcześniej użytymi.",
+                    "duplicate_hostname": "Twój hostname powtarza się już z wcześniej użytymi.",
+                    "try_again": "Spróbuj ponownie...",
             }
 }
