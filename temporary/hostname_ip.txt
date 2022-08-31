@@ -1,5 +1,0 @@
-gg 1
-ss 2
-kk 3
-cisco 4
-aaa 5
