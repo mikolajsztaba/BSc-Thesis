@@ -93,6 +93,7 @@ while main_flag:
         elif user_choice == '2':
             print("NIE KONFIGURUJEMY")
             print("PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM")
+            # TUTAJ TE POLACZENIA SSH
             test = input("AAA")
 
         elif user_choice == '3':

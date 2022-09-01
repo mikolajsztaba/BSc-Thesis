@@ -1,6 +1,7 @@
 Na 30.08:
 parsowanie plikow z configiem jako i przesylanie ich do COMA
 dodanie polaczen ssh do urzadzen (dopracowanie)
+usuwanie tych starych rzeczy
 
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp
