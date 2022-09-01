@@ -1,5 +1,7 @@
 # imports
 import re
+import ipaddress
+
 from data.decorators import decorator_space
 
 
@@ -56,4 +58,18 @@ def set_hostname(language):
             print(decorator_space)
             print(language['reference'])
             print('https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm')
+            print(decorator_space)
+
+
+# function to set ip to the device
+def ip_set(language):
+    user_ip = input(language['provide_ip'])
+    while True:
+        try:
+            ip = ipaddress.ip_address(user_ip)
+            print(language['correct_ip'].format(user_ip))
+            print(decorator_space)
+            return user_ip
+        except ValueError:
+            print(language['incorrect_ip'].format(user_ip))
             print(decorator_space)

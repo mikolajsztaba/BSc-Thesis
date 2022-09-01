@@ -6,7 +6,7 @@ from time import sleep
 # imports from other files
 from language.json_schema import user_language_choice
 from data.decorators import decorator_space
-from lib.function_user import configure_user, type_device, user_com, set_hostname
+from lib.function_user import configure_user, type_device, user_com, set_hostname, ip_set
 from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import read_ip_number, save_ip_number, delete_files, save_dev_ip
@@ -50,6 +50,7 @@ while main_flag:
                 # creating COM number connection
                 # ser = Serial(com_port, com_speed)
 
+
                 # loop to make user choose proper ip address and hostname
                 while True:
                     # choosing devices from the list
@@ -58,14 +59,19 @@ while main_flag:
                     # choosing hostname as user wants to
                     hostname = set_hostname(lang)
 
+                    # ip address chosen by the user
+                    current_ip = ip_set(lang)
+
                     # TODO: TUTAJ TEN WYBOR SIECI DO KTOREJ MA NALEZEC NASZ HOST
 
                     #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp
                     # try/except block to read the ip number from txt file
-                    try:
-                        current_ip = read_ip_number()
-                    except:
-                        current_ip = ip_number
+
+                    #TODO: PEWNIE DO WYJEBANIA/albo zmienienia
+                    # try:
+                    #     current_ip = read_ip_number()
+                    # except:
+                    #     current_ip = ip_number
 
                     # check hostname/ip availability
                     if check_ip_hostname(current_ip, hostname, lang):
@@ -76,11 +82,11 @@ while main_flag:
 
                 # print(user_dev)
                 # saving ip_number for the next device
-                save_ip_number(current_ip)
+                # save_ip_number(current_ip)
 
-                # reading next ip address
-                e = read_ip_number()
-                print(e)
+                # # reading next ip address
+                # e = read_ip_number()
+                # print(e)
 
             else:
                 break

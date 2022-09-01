@@ -33,6 +33,9 @@ language = {"En": {
                     "duplicate_ip": "Your IP address is overlapped with the previous ones.",
                     "duplicate_hostname": "Your hostname is overlapped with the previous ones.",
                     "try_again": "Try again please...",
+                    "provide_ip": "Please provide your ip like 192.168.1.1: \n",
+                    "correct_ip": "IP address {} is valid.",
+                    "incorrect_ip": "IP address {} is not valid.",
     
                   },
             "Pl": {
@@ -69,5 +72,8 @@ language = {"En": {
                     "duplicate_ip": "Twój adres IP powtarza się juz z wcześniej użytymi.",
                     "duplicate_hostname": "Twój hostname powtarza się już z wcześniej użytymi.",
                     "try_again": "Spróbuj ponownie...",
+                    "provide_ip": "Proszę wpisz swój adres IP tak jak np. 192.168.1.1: \n",
+                    "correct_ip": "IP adres {} jest poprawny.",
+                    "incorrect_ip": "IP adres {} nie jest poprawny. Spróbuj ponownie...",
             }
 }

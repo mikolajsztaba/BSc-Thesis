@@ -1,7 +1,8 @@
 Na 30.08:
 dodanie wyboru sieci od jakiego maja startowac adresy ip np od 1.1.1.0 czy 192.168.1.1
-parsowanie plikow z configiem jako i przesylanie ich do COMA 
+parsowanie plikow z configiem jako i przesylanie ich do COMA
 
+dodanie polaczen ssh do urzadzen
 
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp
