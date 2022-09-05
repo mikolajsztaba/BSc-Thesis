@@ -19,6 +19,7 @@ def main_choice(lang):
     print(lang["option_1"])
     print(lang["option_2"])
     print(lang['option_3'])
+    print(lang['option_4'])
     print(lang['option_9'])
     print(lang['option_0'])
     user_choice = input(lang["type_number"]).title()

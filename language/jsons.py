@@ -22,6 +22,7 @@ language = {"En": {
                     "option_1": "1 -> Downloading configs by COM port to the devices.",
                     "option_2": "2 -> Script managing by LAN network.",
                     "option_3": "3 -> Downloading config by TFTP Server.",
+                    "option_4": "4 -> Discover working devices in the network.",
                     "option_9": "9 -> Delete old script console logs.",
                     "option_0": "0 -> Delete all temporary script files.",
                     "type_number": "Type your number:\n",
@@ -36,6 +37,7 @@ language = {"En": {
                     "provide_ip": "Please provide your ip like 192.168.1.1: \n",
                     "correct_ip": "IP address {} is valid.",
                     "incorrect_ip": "IP address {} is not valid.",
+                    "ssh_host": "Which IP address you want to connect?\n",
     
                   },
             "Pl": {
@@ -61,6 +63,7 @@ language = {"En": {
                     "option_1": "1 -> Pobieranie configów przez COM port na urządzenie.",
                     "option_2": "2 -> Zarządzanie skryptem przez sieć LAN.",
                     "option_3": "3 -> Pobieranie configów na urządzenia poprzez serwer TFTP.",
+                    "option_4": "4 -> Odkrycie wszystkich dostępnych adresów IP.",
                     "option_9": "9 -> Usunięcie starych logów z konsoli skryptu..",
                     "option_0": "0 -> Usunięcie wszystkich tymczasowych plikow konfiguracyjnych.",
                     "type_number": "Wpisz swój numer:\n",
@@ -75,5 +78,6 @@ language = {"En": {
                     "provide_ip": "Proszę wpisz swój adres IP tak jak np. 192.168.1.1: \n",
                     "correct_ip": "IP adres {} jest poprawny.",
                     "incorrect_ip": "IP adres {} nie jest poprawny. Spróbuj ponownie...",
+                    "ssh_host": "Do którego adresu IP chcesz się połączyć?\n",
             }
 }

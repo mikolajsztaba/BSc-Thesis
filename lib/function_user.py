@@ -73,3 +73,10 @@ def ip_set(language):
         except ValueError:
             print(language['incorrect_ip'].format(user_ip))
             print(decorator_space)
+
+
+# function to choose ip address to connect by SSH
+def ssh_host(language):
+    user_input = input(language['ssh_host'])
+    print(decorator_space)
+    return user_input

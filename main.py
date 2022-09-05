@@ -6,7 +6,7 @@ from time import sleep
 # imports from other files
 from language.json_schema import user_language_choice
 from data.decorators import decorator_space
-from lib.function_user import configure_user, type_device, user_com, set_hostname, ip_set
+from lib.function_user import configure_user, type_device, user_com, set_hostname, ip_set, ssh_host
 from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip
@@ -50,7 +50,6 @@ while main_flag:
                 # creating COM number connection
                 # ser = Serial(com_port, com_speed)
 
-
                 # loop to make user choose proper ip address and hostname
                 while True:
                     # choosing devices from the list
@@ -79,10 +78,9 @@ while main_flag:
             else:
                 break
         elif user_choice == '2':
-            print("NIE KONFIGURUJEMY")
-            print("PRZECHODZIMY DO SAMEGO ZARZADZANIA SKRYPTEM")
+
             # TUTAJ TE POLACZENIA SSH
-            test = input("AAA")
+            ssh_host = ssh_host(lang)
 
         elif user_choice == '3':
             # start tftp
@@ -93,6 +91,12 @@ while main_flag:
 
             # kill tftp after config is downloaded
             kill_tftp()
+
+        # function to scan one network by IP addresses:
+        elif user_choice == '4':
+            print("BEDZIE SMIGANE")
+            print("TUTAJ TO PINGOWANIE ADRESIK IP PO ADRESIKU IP")
+            pass
 
         # deleting old console logs
         elif user_choice == '9':
