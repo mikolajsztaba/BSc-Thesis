@@ -1,6 +1,6 @@
 Na 30.08:
 parsowanie plikow z configiem jako i przesylanie ich do COMA
-tworzenie z paramiko sesji do urzadzen itp (podwalic z poprzedniego)
+dodanie zapisywania logow do polaczen ssh i ogolna ich lepsza obsluga z haslem itp jak nie jest wymagane etc.
 
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp

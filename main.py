@@ -12,6 +12,7 @@ from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip
 from logger.logging import *
 from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname
+from lib.ssh_con import ssh_con
 
 # flags
 main_flag = True
@@ -77,11 +78,14 @@ while main_flag:
 
             else:
                 break
+        # SSH CONNECTIONS
         elif user_choice == '2':
-
-            # TUTAJ TE POLACZENIA SSH
+            # question about ssh host
             ssh_host = ssh_host(lang)
 
+            # connecting by ssh
+            ssh_con(ssh_host, 'LOGIN', 'HASLO')
+        
         elif user_choice == '3':
             # start tftp
             start_tftp()
@@ -94,10 +98,8 @@ while main_flag:
 
         # function to scan one network by IP addresses:
         elif user_choice == '4':
-            print("BEDZIE SMIGANE")
-            print("TUTAJ TO PINGOWANIE ADRESIK IP PO ADRESIKU IP")
+            # function to print online ip addresses
             ping_all(lang)
-            pass
 
         # deleting old console logs
         elif user_choice == '9':
