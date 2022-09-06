@@ -6,7 +6,7 @@ from time import sleep
 # imports from other files
 from language.json_schema import user_language_choice
 from data.decorators import decorator_space
-from lib.function_user import configure_user, type_device, user_com, set_hostname, ip_set, ssh_host
+from lib.function_user import configure_user, type_device, user_com, set_hostname, ip_set, ssh_host, ping_all
 from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip
@@ -96,6 +96,7 @@ while main_flag:
         elif user_choice == '4':
             print("BEDZIE SMIGANE")
             print("TUTAJ TO PINGOWANIE ADRESIK IP PO ADRESIKU IP")
+            ping_all(lang)
             pass
 
         # deleting old console logs

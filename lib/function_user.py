@@ -1,6 +1,7 @@
 # imports
 import re
 import ipaddress
+import subprocess
 
 from data.decorators import decorator_space
 
@@ -57,7 +58,8 @@ def set_hostname(language):
             print(user_hostname)
             print(decorator_space)
             print(language['reference'])
-            print('https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm')
+            print(
+                'https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/hostname.htm')
             print(decorator_space)
 
 
@@ -80,3 +82,51 @@ def ssh_host(language):
     user_input = input(language['ssh_host'])
     print(decorator_space)
     return user_input
+
+
+# function to ping all ip addresses in the network
+def ping_all(language):
+    try:
+        # list of available devices
+        available_ip = []
+
+        # user input about network to verify
+        net_addr = input(language['ping_ip'])
+
+        # Create the network
+        ip_net = ipaddress.ip_network(net_addr)
+
+        # Get all hosts on that network
+        all_hosts = list(ip_net.hosts())
+
+        # Configure subprocess to hide the console window
+        info = subprocess.STARTUPINFO()
+        info.dwFlags |= subprocess.STARTF_USESHOWWINDOW
+        info.wShowWindow = subprocess.SW_HIDE
+
+        # prompt to inform user that sth is happening
+        print(language['progress_work'])
+
+        # For each IP address in the subnet,
+        # run the ping command with subprocess.popen interface
+        for i in range(len(all_hosts)):
+            output = subprocess.Popen(['ping', '-n', '1', '-w', '500', str(all_hosts[i])], stdout=subprocess.PIPE,
+                                      startupinfo=info).communicate()[0]
+
+            # printing dots
+            print('.', end='')
+
+            if "Destination host unreachable" in output.decode('utf-8'):
+                pass
+            elif "Request timed out" in output.decode('utf-8'):
+                pass
+            else:
+                available_ip.append(str(all_hosts[i]))
+        print(decorator_space)
+        print(language["online_ip"])
+        print(*available_ip, sep=", ")
+        print(decorator_space)
+
+    except:
+        print(language['wrong_input'])
+        print(decorator_space)

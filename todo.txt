@@ -1,7 +1,6 @@
 Na 30.08:
 parsowanie plikow z configiem jako i przesylanie ich do COMA
 tworzenie z paramiko sesji do urzadzen itp (podwalic z poprzedniego)
-sprawdzanie tego pingowania po kolei kazde z urzadzen z danej sieci i zapisywanie do jakiejs struktury jakie urzadzenia sa dostepne
 
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp

@@ -38,6 +38,10 @@ language = {"En": {
                     "correct_ip": "IP address {} is valid.",
                     "incorrect_ip": "IP address {} is not valid.",
                     "ssh_host": "Which IP address you want to connect?\n",
+                    "ping_ip": "Enter a network address in CIDR format(ex.192.168.1.0/24):\n",
+                    "wrong_input": "Something went wrong... Check your input if it is correct!",
+                    "progress_work": "Work in progress:",
+                    "online_ip": "Online devices in the network:",
     
                   },
             "Pl": {
@@ -79,5 +83,9 @@ language = {"En": {
                     "correct_ip": "IP adres {} jest poprawny.",
                     "incorrect_ip": "IP adres {} nie jest poprawny. Spróbuj ponownie...",
                     "ssh_host": "Do którego adresu IP chcesz się połączyć?\n",
+                    "ping_ip": "Wpisz adres sieci w formacie CIDR np. 192.168.1.0/24):\n",
+                    "wrong_input": "Coś poszło nie tak, sprawdź czy twoje dane sa poprawne.",
+                    "progress_work": "Praca w toku:",
+                    "online_ip": "Osiągalne adresy ip w sieci:"
             }
 }
