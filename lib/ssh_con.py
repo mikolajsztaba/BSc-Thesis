@@ -23,9 +23,11 @@ def ssh_con(host, username, password):
     }
     with ConnectHandler(**cisco1) as net_connect:
         try:
-            # ONE COMMAND WITH TFTP COPY
-            ez = net_connect.send_command_timing('ls', cmd_verify=False)
-            print(ez)
+            while True:
+                # ONE COMMAND WITH TFTP COPY
+                user_command = input("WPISZ KOMENDE")
+                ez = net_connect.send_command_timing(user_command, cmd_verify=False)
+                print(ez)
 
         # error handling while ssh connection
         except (NetmikoTimeoutException, NetmikoAuthenticationException) as error:

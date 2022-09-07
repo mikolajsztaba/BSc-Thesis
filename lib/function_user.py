@@ -130,3 +130,8 @@ def ping_all(language):
     except:
         print(language['wrong_input'])
         print(decorator_space)
+
+def user_pasword(language):
+    user_login = input("Please provide your login:")
+    user_password = input("Please provide your password:")
+    return user_login, user_password

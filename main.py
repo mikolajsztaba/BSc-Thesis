@@ -6,7 +6,8 @@ from time import sleep
 # imports from other files
 from language.json_schema import user_language_choice
 from data.decorators import decorator_space
-from lib.function_user import configure_user, type_device, user_com, set_hostname, ip_set, ssh_host, ping_all
+from lib.function_user import configure_user, type_device, user_com, set_hostname, ip_set, ssh_host, ping_all,\
+     user_pasword
 from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip
@@ -28,7 +29,6 @@ table.add_row([lang['name'], lang['title'], lang['college'], lang['date']])
 print(decorator_space)
 print(table)
 print(decorator_space)
-
 
 # moving into downloading config to the devices
 while main_flag:
@@ -83,9 +83,12 @@ while main_flag:
             # question about ssh host
             ssh_host = ssh_host(lang)
 
+            # question about login and password
+            ssh_credentials = user_pasword(lang)
+
             # connecting by ssh
-            ssh_con(ssh_host, 'LOGIN', 'HASLO')
-        
+            ssh_con(ssh_host, ssh_credentials[0], ssh_credentials[1])
+
         elif user_choice == '3':
             # start tftp
             start_tftp()
