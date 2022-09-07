@@ -32,4 +32,3 @@ def ssh_con(host, username, password):
         # error handling while ssh connection
         except (NetmikoTimeoutException, NetmikoAuthenticationException) as error:
             print(error)
-            print(decorator_1)

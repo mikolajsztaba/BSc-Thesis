@@ -42,6 +42,8 @@ language = {"En": {
                     "wrong_input": "Something went wrong... Check your input if it is correct!",
                     "progress_work": "Work in progress:",
                     "online_ip": "Online devices in the network:",
+                    "user_login": "Please provide your login:\n",
+                    "user_password": "Please provide your password:\n",
     
                   },
             "Pl": {
@@ -86,6 +88,8 @@ language = {"En": {
                     "ping_ip": "Wpisz adres sieci w formacie CIDR np. 192.168.1.0/24):\n",
                     "wrong_input": "Coś poszło nie tak, sprawdź czy twoje dane sa poprawne.",
                     "progress_work": "Praca w toku:",
-                    "online_ip": "Osiągalne adresy ip w sieci:"
+                    "online_ip": "Osiągalne adresy ip w sieci:",
+                    "user_login": "Wpisz swój login:\n",
+                    "user_password": "Wpisz swoje hasło:\n",
             }
 }

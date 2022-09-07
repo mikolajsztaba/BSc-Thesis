@@ -2,6 +2,8 @@
 import re
 import ipaddress
 import subprocess
+import pyautogui
+
 
 from data.decorators import decorator_space
 
@@ -131,7 +133,10 @@ def ping_all(language):
         print(language['wrong_input'])
         print(decorator_space)
 
+
 def user_pasword(language):
-    user_login = input("Please provide your login:")
-    user_password = input("Please provide your password:")
+    user_login = input(language["user_login"])
+    print(decorator_space)
+    user_password = pyautogui.password(text=language["user_password"], title='', default='', mask='*')
+    print(decorator_space)
     return user_login, user_password
