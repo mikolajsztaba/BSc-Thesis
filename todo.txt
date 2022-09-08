@@ -1,8 +1,9 @@
 Na 08.08:
 utworzenie funkcji do przesylania pojedynczych komend z tego sparsowanego pliku
 parsowanie plikow z configiem jako i przesylanie ich do COMA
-zapisywanie logow z polaczen ssh
-dodanie defaultowych argumentow do hasla i loginu po ssh
+dodanie defaultowych argumentow do hasla i loginu po ssh (czy jest sens bo chyba sie nie da polaczyc bez nich)
+usuwanie logow ssh (dodac funkcje + podpiac ja pod opcje 9)
+wyprintowanie wszystkich mozliwych logow przed usunieciem, aby byc pewnym co sie chce usunac a co nie
 
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp

@@ -21,7 +21,7 @@ def ssh_con(host, username, password, language):
         "username": f"{username}",
         "password": f'{password}',
         # session logger
-        "session_log": f"temporary/{host}_{dateStr}.txt"
+        "session_log": f"logs/ssh_logs/{host}_{dateStr}.txt"
     }
     try:
         with ConnectHandler(**cisco1) as net_connect:
