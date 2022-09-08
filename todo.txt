@@ -3,7 +3,6 @@ utworzenie funkcji do przesylania pojedynczych komend z tego sparsowanego pliku
 parsowanie plikow z configiem jako i przesylanie ich do COMA
 zapisywanie logow z polaczen ssh
 dodanie defaultowych argumentow do hasla i loginu po ssh
-poprawa samego nazewnictwa i refactoring w tym SSH_CON (dodac np. breaka ze da sie wyjsc)
 
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp

@@ -4,9 +4,11 @@ from netmiko import ConnectHandler, NetmikoTimeoutException, NetmikoAuthenticati
 from time import sleep
 from datetime import datetime
 
+from data.decorators import decorator_space
+
 
 # establishing SSH connection
-def ssh_con(host, username, password):
+def ssh_con(host, username, password, language):
     # creating time stamp
     now = datetime.now()
     dateTimeObj = datetime.now()
@@ -19,16 +21,28 @@ def ssh_con(host, username, password):
         "username": f"{username}",
         "password": f'{password}',
         # session logger
-        # "session_log": f"logs/device_logs/{file}_{host}_{dateStr}.txt"
+        "session_log": f"temporary/{host}_{dateStr}.txt"
     }
-    with ConnectHandler(**cisco1) as net_connect:
-        try:
-            while True:
-                # ONE COMMAND WITH TFTP COPY
-                user_command = input("WPISZ KOMENDE")
-                ez = net_connect.send_command_timing(user_command, cmd_verify=False)
-                print(ez)
+    try:
+        with ConnectHandler(**cisco1) as net_connect:
+            try:
+                while True:
+                    # sending commands to ssh host
+                    print(language["leave_prompt"])
+                    user_command = input(language["ssh_command"])
 
-        # error handling while ssh connection
-        except (NetmikoTimeoutException, NetmikoAuthenticationException) as error:
-            print(error)
+                    # leaving ssh connection
+                    if user_command.title() == 'Break':
+                        print(decorator_space)
+                        break
+                    else:
+                        output = net_connect.send_command_timing(user_command, cmd_verify=False)
+                        print(output)
+
+            # error handling while ssh connection
+            except (NetmikoTimeoutException, NetmikoAuthenticationException) as error:
+                print(error)
+    except:
+        print(language["wrong_input"])
+        print(language["try_again"])
+        print(decorator_space)

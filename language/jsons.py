@@ -44,6 +44,7 @@ language = {"En": {
                     "online_ip": "Online devices in the network:",
                     "user_login": "Please provide your login:\n",
                     "user_password": "Please provide your password:\n",
+                    "ssh_command": "Please type in your command: \n",
     
                   },
             "Pl": {
@@ -91,5 +92,6 @@ language = {"En": {
                     "online_ip": "Osiągalne adresy ip w sieci:",
                     "user_login": "Wpisz swój login:\n",
                     "user_password": "Wpisz swoje hasło:\n",
+                    "ssh_command": "Wpisz swoją komendę: \n",
             }
 }

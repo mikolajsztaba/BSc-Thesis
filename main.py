@@ -87,7 +87,7 @@ while main_flag:
             ssh_credentials = user_pasword(lang)
 
             # connecting by ssh
-            ssh_con(ssh_host, ssh_credentials[0], ssh_credentials[1])
+            ssh_con(ssh_host, ssh_credentials[0], ssh_credentials[1], lang)
 
         elif user_choice == '3':
             # start tftp
