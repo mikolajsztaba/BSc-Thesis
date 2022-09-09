@@ -35,6 +35,10 @@ def del_old_logs(lang):
         if file != filename_today:
             os.remove(f'logs/console_logs/{file}')
     print(lang['deleted_logs'])
+    files = os.listdir('logs/ssh_logs')
+    for file in files:
+        if file != filename_today:
+            os.remove(f'logs/ssh_logs/{file}')
     print(decorator_space)
 
 
