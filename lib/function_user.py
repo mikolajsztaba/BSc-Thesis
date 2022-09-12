@@ -3,9 +3,10 @@ import re
 import ipaddress
 import subprocess
 import pyautogui
+import os
 
 
-from data.decorators import decorator_space
+from data.decorators import decorator_space, decorator_null
 
 
 # question about downloading config to the devices
@@ -134,9 +135,37 @@ def ping_all(language):
         print(decorator_space)
 
 
+# function to type password to ssh connection
 def user_pasword(language):
     user_login = input(language["user_login"])
     print(decorator_space)
     user_password = pyautogui.password(text=language["user_password"], title='', default='', mask='*')
     print(decorator_space)
     return user_login, user_password
+
+
+# function to print user possible script logs
+def print_logs(language):
+    # printing ssh logs
+    print(language["ssh_logs"])
+    ssh_logs = os.listdir('logs/ssh_logs')
+    if len(ssh_logs) > 0:
+        print(*ssh_logs, sep=', ')
+    else:
+        print(decorator_null)
+    print(decorator_space)
+
+    # printing console logs
+    print(language["console_logs"])
+    console_logs = os.listdir('logs/console_logs')
+    if len(console_logs) > 0:
+        print(*console_logs, sep=', ')
+    else:
+        print(decorator_null)
+    print(decorator_space)
+    user_choice = input(language["logs_question"]).title()
+    print(decorator_space)
+    if user_choice == "Yes":
+        return True
+    else:
+        return False

@@ -7,7 +7,7 @@ from time import sleep
 from language.json_schema import user_language_choice
 from data.decorators import decorator_space
 from lib.function_user import configure_user, type_device, user_com, set_hostname, ip_set, ssh_host, ping_all,\
-     user_pasword
+     user_pasword, print_logs
 from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip
@@ -106,7 +106,10 @@ while main_flag:
 
         # deleting old console logs
         elif user_choice == '9':
-            del_old_logs(lang)
+            # question about deleting logs and printing it
+            del_flag = print_logs(lang)
+            if del_flag:
+                del_old_logs(lang)
 
         # deleting all temporary files
         elif user_choice == '0':

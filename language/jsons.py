@@ -45,6 +45,9 @@ language = {"En": {
                     "user_login": "Please provide your login:\n",
                     "user_password": "Please provide your password:\n",
                     "ssh_command": "Please type in your command: \n",
+                    "ssh_logs": "Possible ssh logs:",
+                    "console_logs": "Possible console logs:",
+                    "logs_question": "If you want to delete logs type 'yes', if not type anything else: \n",
     
                   },
             "Pl": {
@@ -93,5 +96,8 @@ language = {"En": {
                     "user_login": "Wpisz swój login:\n",
                     "user_password": "Wpisz swoje hasło:\n",
                     "ssh_command": "Wpisz swoją komendę: \n",
+                    "ssh_logs": "Zapisane logi ssh:",
+                    "console_logs": "Zapisane logi z konsoli:",
+                    "logs_question": "Jeżeli chcesz usunąć logi wpisz 'yes', jeżeli nie wpisz cokolwiek innego: \n",
             }
 }
