@@ -1,9 +1,9 @@
 Na 08.08:
 jakos przypisanie plikow konfiguracyjnych do danych typow urzadzen np. config_switch -> CISCO SWITCH
 utworzenie funkcji do przesylania pojedynczych komend z tego sparsowanego pliku
-funkcja przesylanie ich do COMA
 dopracowanie tego wybierania urzadzen (zeby wiedziec jaki model moze byc czym)
 funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostname etc.
+dodanie tez generowania kryptokeys na urzadzeniach
 
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp
