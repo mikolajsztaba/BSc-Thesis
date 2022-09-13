@@ -12,7 +12,8 @@ from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip
 from logger.logging import *
-from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname, prepare_config
+from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname, prepare_config,\
+     send_to_console
 from lib.ssh_con import ssh_con
 
 # flags
@@ -62,16 +63,15 @@ while main_flag:
                     # ip address chosen by the user
                     current_ip = ip_set(lang)
 
-                    # TODO: TUTAJ TEN WYBOR SIECI DO KTOREJ MA NALEZEC NASZ HOST
-
-                    #     tutaj teez wiecej ttrzeba zeby sie wgrywaly konfigi i wczesniej tworzyly itp
-                    # try/except block to read the ip number from txt file
-
                     # check hostname/ip availability
                     if check_ip_hostname(current_ip, hostname, lang):
                         break
 
-                prepare_config(lang, user_dev)
+                # TODO NEEDS TO BE UPGRADED
+                # preparing initial config for the device
+                commands = prepare_config(lang, user_dev)
+
+                send_to_console(commands)
 
                 # saving hostname with ip address to txt file
                 save_dev_ip(hostname, current_ip)

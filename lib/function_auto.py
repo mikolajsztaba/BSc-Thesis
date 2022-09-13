@@ -4,6 +4,8 @@
 import subprocess
 import os
 from datetime import datetime
+from serial import Serial
+from time import sleep
 
 from data.decorators import decorator_space
 
@@ -79,8 +81,23 @@ def prepare_config(language, device):
             commands = data.split("\n")
             print(commands)
     elif device == 'Cisco Router':
-        print("Teraz konfigurujemy rutera")
         with open('configs/cisco-router') as my_file:
             data = my_file.read()
             commands = data.split("\n")
             print(commands)
+    # returning list full of commands
+    return commands
+
+
+# function to send commands to console
+def send_to_console(ser_fun: Serial, list_commands, wait_time: float = 0.2):
+    # sending each command independently
+    for command in list_commands:
+        print(command)
+        command_to_send = command + '\r\n'
+        ser_fun.write(command_to_send.encode('utf-8'))
+        sleep(wait_time)
+        string_send = ser_fun.read(ser_fun.inWaiting()).decode('utf-8')
+        # printing dots to inform user that script is still working
+        print('.', end='')
+        return string_send
