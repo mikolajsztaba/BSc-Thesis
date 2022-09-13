@@ -25,14 +25,15 @@ def type_device(language, list_devices):
         print(decorator_space)
         print(language['possible_dev'])
         print(*list_devices, sep=", ")
-        print(language["leave_prompt"])
+        # possible to be deleted
+        # print(language["leave_prompt"])
         user_input = input(language['device_conf']).title()
         if user_input in list_devices:
-            print("Needs to be done preparing initial config files")
-            "TODO: MORE WORK HERE"
             return user_input
         elif user_input == "Break":
             run_flag = False
+        else:
+            print(language["bad_device"])
 
 
 # question about COM PORT
@@ -68,8 +69,8 @@ def set_hostname(language):
 
 # function to set ip to the device
 def ip_set(language):
-    user_ip = input(language['provide_ip'])
     while True:
+        user_ip = input(language['provide_ip'])
         try:
             ip = ipaddress.ip_address(user_ip)
             print(language['correct_ip'].format(user_ip))

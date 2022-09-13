@@ -12,7 +12,7 @@ from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip
 from logger.logging import *
-from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname
+from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname, prepare_config
 from lib.ssh_con import ssh_con
 
 # flags
@@ -54,7 +54,7 @@ while main_flag:
                 # loop to make user choose proper ip address and hostname
                 while True:
                     # choosing devices from the list
-                    # user_dev = type_device(lang, devices)
+                    user_dev = type_device(lang, devices)
 
                     # choosing hostname as user wants to
                     hostname = set_hostname(lang)
@@ -70,6 +70,8 @@ while main_flag:
                     # check hostname/ip availability
                     if check_ip_hostname(current_ip, hostname, lang):
                         break
+
+                prepare_config(lang, user_dev)
 
                 # saving hostname with ip address to txt file
                 save_dev_ip(hostname, current_ip)

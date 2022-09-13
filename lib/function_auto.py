@@ -70,3 +70,17 @@ def check_ip_hostname(ip, hostname, language):
     except:
         return flag
 
+
+# function to prepare initial config to download
+def prepare_config(language, device):
+    if device == 'Cisco Switch':
+        with open('configs/cisco-switch') as my_file:
+            data = my_file.read()
+            commands = data.split("\n")
+            print(commands)
+    elif device == 'Cisco Router':
+        print("Teraz konfigurujemy rutera")
+        with open('configs/cisco-router') as my_file:
+            data = my_file.read()
+            commands = data.split("\n")
+            print(commands)
