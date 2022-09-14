@@ -90,7 +90,7 @@ def prepare_config(language, device):
 
 
 # function to send commands to console
-def send_to_console(ser_fun: Serial, list_commands, wait_time: float = 0.2):
+def send_to_console(list_commands, ser_fun: Serial, wait_time: float = 0.2):
     # sending each command independently
     for command in list_commands:
         print(command)
