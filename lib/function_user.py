@@ -25,6 +25,8 @@ def type_device(language, list_devices):
         print(decorator_space)
         print(language['possible_dev'])
         print(*list_devices, sep=", ")
+        print(language["lab_device"])
+        print(decorator_space)
         # possible to be deleted
         # print(language["leave_prompt"])
         user_input = input(language['device_conf']).title()

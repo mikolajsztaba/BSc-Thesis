@@ -49,6 +49,8 @@ language = {"En": {
                     "console_logs": "Possible console logs:",
                     "logs_question": "If you want to delete logs type 'yes', if not type anything else: \n",
                     "bad_device": "Device is not handled, try again...",
+                    "lab_device": "Device in lab: \nRouter -> Cisco 4231, \nSwitch -> Catalyst 3650",
+
     
                   },
             "Pl": {
@@ -101,5 +103,6 @@ language = {"En": {
                     "console_logs": "Zapisane logi z konsoli:",
                     "logs_question": "Jeżeli chcesz usunąć logi wpisz 'yes', jeżeli nie wpisz cokolwiek innego: \n",
                     "bad_device": "To urządzenie nie jest obslugiwane, spróbuj ponownie...",
+                    "lab_device": "Urządzenia w labie: \nRouter -> Cisco 4231, \nSwitch -> Catalyst 3650",
             }
 }
