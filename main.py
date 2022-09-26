@@ -7,7 +7,7 @@ from time import sleep
 from language.json_schema import user_language_choice
 from data.decorators import decorator_space
 from lib.function_user import configure_user, type_device, user_com, set_hostname, ip_set, ssh_host, ping_all,\
-     user_pasword, print_logs
+     user_pasword, print_logs, print_temp
 from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip
@@ -121,7 +121,9 @@ while main_flag:
 
         # deleting all temporary files
         elif user_choice == '0':
-            delete_files(lang)
+            del_flag = print_temp(lang)
+            if del_flag:
+                delete_files(lang)
 
         else:
             break

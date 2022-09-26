@@ -172,3 +172,21 @@ def print_logs(language):
         return True
     else:
         return False
+
+
+# function to print temporary files
+def print_temp(language):
+    # printing console logs
+    print(language["temporary_files"])
+    temporary_files = os.listdir('temporary')
+    if len(temporary_files) > 0:
+        print(*temporary_files, sep=', ')
+    else:
+        print(decorator_null)
+    print(decorator_space)
+    user_choice = input(language["logs_question"]).title()
+    print(decorator_space)
+    if user_choice == "Yes":
+        return True
+    else:
+        return False

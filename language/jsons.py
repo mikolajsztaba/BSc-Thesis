@@ -51,9 +51,10 @@ language = {"En": {
                     "bad_device": "Device is not handled, try again...",
                     "lab_device": "Device in lab: \nRouter -> Cisco 4231, \nSwitch -> Catalyst 3650",
                     "error_info": "Something went wrong:",
+                    "temporary_files": "Temporary files created during the script:",
+                    "temp_files_question": "If you want to delete temporary files type 'yes', if not type anything else: \n",
 
 
-    
                   },
             "Pl": {
                     "title": "Stworzenie narzędzia do automatyzacji konfiguracji urządzeń sieciowych oraz sterowania działaniem sieci.",
@@ -107,6 +108,8 @@ language = {"En": {
                     "bad_device": "To urządzenie nie jest obslugiwane, spróbuj ponownie...",
                     "lab_device": "Urządzenia w labie: \nRouter -> Cisco 4231, \nSwitch -> Catalyst 3650",
                     "error_info": "Coś poszło nie tak:",
+                    "temporary_files": "Pliki tymczasowe stworzone podczas działania skryptu:",
+                    "temp_files_question": "Jeżeli chcesz usunąć pliki tymczasowe wpisz 'yes', jeżeli nie wpisz cokolwiek innego: \n",
 
             }
 }
