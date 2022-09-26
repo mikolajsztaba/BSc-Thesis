@@ -4,7 +4,6 @@ dodanie funkcji do wyprintowania tez plikow temporary
 funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostname etc.
 dodanie tez generowania kryptokeys na urzadzeniach
 poprawic to send_to_console bo sie wyrzuca (nie obslguuje komputer coma)
-dodanie jakiegos info ze komputer potrzebuje coma, zeby wgrywac config
 
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp
