@@ -1,4 +1,4 @@
-Na 15.08:
+Na 27.08:
 utworzenie funkcji do przesylania pojedynczych komend z tego sparsowanego pliku
 funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostname etc.
 dodanie tez generowania kryptokeys na urzadzeniach
