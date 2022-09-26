@@ -79,25 +79,23 @@ def prepare_config(language, device):
         with open('configs/cisco-switch') as my_file:
             data = my_file.read()
             commands = data.split("\n")
-            print(commands)
     elif device == 'Cisco Router':
         with open('configs/cisco-router') as my_file:
             data = my_file.read()
             commands = data.split("\n")
-            print(commands)
     # returning list full of commands
     return commands
 
 
 # function to send commands to console
 def send_to_console(list_commands, ser_fun: Serial, wait_time: float = 0.2):
-    # sending each command independently
-    for command in list_commands:
-        print(command)
-        command_to_send = command + '\r\n'
-        ser_fun.write(command_to_send.encode('utf-8'))
-        sleep(wait_time)
-        string_send = ser_fun.read(ser_fun.inWaiting()).decode('utf-8')
-        # printing dots to inform user that script is still working
-        print('.', end='')
-        return string_send
+        # sending each command independently
+        for command in list_commands:
+            print(command)
+            command_to_send = command + '\r\n'
+            # ser_fun.write(command_to_send.encode('utf-8'))
+            # sleep(wait_time)
+            # string_send = ser_fun.read(ser_fun.inWaiting()).decode('utf-8')
+            # printing dots to inform user that script is still working
+            # print('.', end='')
+            # return string_send

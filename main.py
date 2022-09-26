@@ -71,7 +71,13 @@ while main_flag:
                 # preparing initial config for the device
                 commands = prepare_config(lang, user_dev)
 
-                send_to_console(commands)
+                # sending commands to the device
+                try:
+                    send_to_console(commands)
+                except Exception as error:
+                    print(lang["error_info"])
+                    print(error)
+                    print(decorator_space)
 
                 # saving hostname with ip address to txt file
                 save_dev_ip(hostname, current_ip)

@@ -3,7 +3,6 @@ utworzenie funkcji do przesylania pojedynczych komend z tego sparsowanego pliku
 dodanie funkcji do wyprintowania tez plikow temporary
 funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostname etc.
 dodanie tez generowania kryptokeys na urzadzeniach
-poprawic to send_to_console bo sie wyrzuca (nie obslguuje komputer coma)
 
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp
