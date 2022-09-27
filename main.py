@@ -69,7 +69,8 @@ while main_flag:
 
                 # TODO NEEDS TO BE UPGRADED
                 # preparing initial config for the device
-                commands = prepare_config(lang, user_dev)
+                commands = prepare_config(lang, user_dev, current_ip, hostname)
+                print(commands)
 
                 # sending commands to the device
                 try:

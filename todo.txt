@@ -2,6 +2,10 @@ Na 27.08:
 utworzenie funkcji do przesylania pojedynczych komend z tego sparsowanego pliku
 funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostname etc.
 dodanie tez generowania kryptokeys na urzadzeniach
+funkcja do zliczania portow np na switchu czy routerze
+opcja podania maski tez wpisywania ip
+opcja wgrania tez configu podanego przez uzytkownika na konkretne urzadzenie (Wrzucanie gotowego txta)
+
 
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp

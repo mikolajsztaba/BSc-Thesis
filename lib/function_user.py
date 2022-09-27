@@ -118,10 +118,8 @@ def ping_all(language):
         for i in range(len(all_hosts)):
             output = subprocess.Popen(['ping', '-n', '1', '-w', '500', str(all_hosts[i])], stdout=subprocess.PIPE,
                                       startupinfo=info).communicate()[0]
-
             # printing dots
             print('.', end='')
-
             if "Destination host unreachable" in output.decode('utf-8'):
                 pass
             elif "Request timed out" in output.decode('utf-8'):
@@ -132,7 +130,6 @@ def ping_all(language):
         print(language["online_ip"])
         print(*available_ip, sep=", ")
         print(decorator_space)
-
     except:
         print(language['wrong_input'])
         print(decorator_space)

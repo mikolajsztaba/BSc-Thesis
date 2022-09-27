@@ -2,71 +2,6 @@ WELCOME TO THE SCRIPT
 Possible languages to choose from:
 En, Pl
 Please choose your native language:
- 
-+------------------------------------------------------------------------------------------------------------------------------------+
-|                                                     Main info about the script                                                     |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
- 
-If you want to leave any parts of script just type 'break'!
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
- 
-If you want to download config to the device type 'yes':
-If you want to leave any parts of script just type 'break'!
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
-WELCOME TO THE SCRIPT
-Possible languages to choose from:
-En, Pl
-Please choose your native language:
- 
-+------------------------------------------------------------------------------------------------------------------------------------+
-|                                                     Main info about the script                                                     |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
- 
-If you want to leave any parts of script just type 'break'!
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
- 
-If you are sure that your computer has COM port type 'yes':If you want to leave any parts of script just type 'break'!
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
 WELCOME TO THE SCRIPT
 Possible languages to choose from:
 En, Pl
@@ -100,20 +35,15 @@ Router -> Cisco 4231,
 Switch -> Catalyst 3650
  
 Which device do you want to configure?
-WELCOME TO THE SCRIPT
-Possible languages to choose from:
-En, Pl
-Please choose your native language:
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+ezdas
+Please provide your ip like 192.168.1.1: 
+IP address 192.1.2.3 is valid.
  
-+------------------------------------------------------------------------------------------------------------------------------------+
-|                                                     Main info about the script                                                     |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
- 
-If you want to leave any parts of script just type 'break'!
+['!', 'hostname xxx', '!', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'no aaa new-model', 'clock timezone GMT 0 0', 'system mtu routing 1500', 'no ip source-route', 'ip routing', '!', 'no ip domain-lookup', 'ip domain-name setup.technipfmc.com', 'vtp mode off', '!', 'license boot level ipservices', '!', 'transceiver type all', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface GigabitEthernet1/1', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' power inline never', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address x.x.x.x y.y.y.y', ' no shutdown', '!', 'banner motd ^C', '                            AGH', '         -------------------------------------------------', '                 INITIAL TEMPORARY SCRIPT CONFIG', '         -------------------------------------------------', '^C', '!', 'line con 0', ' logging synchronous', ' login local', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', 'line vty 5 15', ' logging synchronous', ' login local', ' transport input ssh', '!', '!', '!', '!', '!', '!', '!', 'crypto key generate rsa mod 2048', '!', 'end', '']
+Something went wrong:
+send_to_console() missing 1 required positional argument: 'ser_fun'
  
 Choose option provided by the script by typing the number:
 1 -> Downloading configs by COM port to the devices.
@@ -123,16 +53,6 @@ Choose option provided by the script by typing the number:
 9 -> Delete old script logs.
 0 -> Delete all temporary script files.
 Type your number:
- 
-If you are sure that your computer has COM port type 'yes':
- 
-Possible devices to choose from:
-Cisco Switch, Cisco Router
-Device in lab: 
-Router -> Cisco 4231, 
-Switch -> Catalyst 3650
- 
-Which device do you want to configure?
 WELCOME TO THE SCRIPT
 Possible languages to choose from:
 En, Pl
@@ -177,11 +97,37 @@ Switch -> Catalyst 3650
 Which device do you want to configure?
 Please provide your hostname for this device: 
 Your hostname was provided correctly:
-rokoczek
+sadfasdasd
 Please provide your ip like 192.168.1.1: 
-IP address 192.168.1.44 is valid.
+IP address 1.0.2.3 is valid.
+ 
  
 ['!', 'hostname xxx', '!', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'no aaa new-model', 'clock timezone GMT 0 0', 'system mtu routing 1500', 'no ip source-route', 'ip routing', '!', 'no ip domain-lookup', 'ip domain-name setup.technipfmc.com', 'vtp mode off', '!', 'license boot level ipservices', '!', 'transceiver type all', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface GigabitEthernet1/1', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' power inline never', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address x.x.x.x y.y.y.y', ' no shutdown', '!', 'banner motd ^C', '                            AGH', '         -------------------------------------------------', '                 INITIAL TEMPORARY SCRIPT CONFIG', '         -------------------------------------------------', '^C', '!', 'line con 0', ' logging synchronous', ' login local', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', 'line vty 5 15', ' logging synchronous', ' login local', ' transport input ssh', '!', '!', '!', '!', '!', '!', '!', 'crypto key generate rsa mod 2048', '!', 'end', '']
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you are sure that your computer has COM port type 'yes':
 WELCOME TO THE SCRIPT
 Possible languages to choose from:
 En, Pl
@@ -217,9 +163,10 @@ Switch -> Catalyst 3650
 Which device do you want to configure?
 Please provide your hostname for this device: 
 Your hostname was provided correctly:
-rokokokokoko
+asdasdasdfasfa
 Please provide your ip like 192.168.1.1: 
-IP address 192.168.3.1 is valid.
+IP address 1.3.3.2 is valid.
+ 
  
 ['!', 'hostname xxx', '!', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'no aaa new-model', 'clock timezone GMT 0 0', 'system mtu routing 1500', 'no ip source-route', 'ip routing', '!', 'no ip domain-lookup', 'ip domain-name setup.technipfmc.com', 'vtp mode off', '!', 'license boot level ipservices', '!', 'transceiver type all', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface GigabitEthernet1/1', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' power inline never', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address x.x.x.x y.y.y.y', ' no shutdown', '!', 'banner motd ^C', '                            AGH', '         -------------------------------------------------', '                 INITIAL TEMPORARY SCRIPT CONFIG', '         -------------------------------------------------', '^C', '!', 'line con 0', ' logging synchronous', ' login local', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', 'line vty 5 15', ' logging synchronous', ' login local', ' transport input ssh', '!', '!', '!', '!', '!', '!', '!', 'crypto key generate rsa mod 2048', '!', 'end', '']
 WELCOME TO THE SCRIPT
@@ -255,51 +202,7 @@ Router -> Cisco 4231,
 Switch -> Catalyst 3650
  
 Which device do you want to configure?
-Please provide your hostname for this device: 
-Your hostname was provided correctly:
-dasdsadasdas
-Please provide your ip like 192.168.1.1: 
-IP address 192.168.10.1 is valid.
- 
-['!', 'hostname xxx', '!', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'no aaa new-model', 'clock timezone GMT 0 0', 'system mtu routing 1500', 'no ip source-route', 'ip routing', '!', 'no ip domain-lookup', 'ip domain-name setup.technipfmc.com', 'vtp mode off', '!', 'license boot level ipservices', '!', 'transceiver type all', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface GigabitEthernet1/1', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' power inline never', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address x.x.x.x y.y.y.y', ' no shutdown', '!', 'banner motd ^C', '                            AGH', '         -------------------------------------------------', '                 INITIAL TEMPORARY SCRIPT CONFIG', '         -------------------------------------------------', '^C', '!', 'line con 0', ' logging synchronous', ' login local', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', 'line vty 5 15', ' logging synchronous', ' login local', ' transport input ssh', '!', '!', '!', '!', '!', '!', '!', 'crypto key generate rsa mod 2048', '!', 'end', '']
-SOMETHING WENT WRONG
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
-WELCOME TO THE SCRIPT
-Possible languages to choose from:
-En, Pl
-Please choose your native language:
-WELCOME TO THE SCRIPT
-Possible languages to choose from:
-En, Pl
-Please choose your native language:
- 
-+------------------------------------------------------------------------------------------------------------------------------------+
-|                                                     Main info about the script                                                     |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
- 
-If you want to leave any parts of script just type 'break'!
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
- 
-If you are sure that your computer has COM port type 'yes':
+Device is not handled, try again...
  
 Possible devices to choose from:
 Cisco Switch, Cisco Router
@@ -310,13 +213,16 @@ Switch -> Catalyst 3650
 Which device do you want to configure?
 Please provide your hostname for this device: 
 Your hostname was provided correctly:
-ezzzz
+dsafsafasf
 Please provide your ip like 192.168.1.1: 
-IP address 192.168.1.32 is valid.
+IP address 2.42.2.1 is valid.
  
  
+['!', 'hostname xxx', '!', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'no aaa new-model', 'clock timezone GMT 0 0', 'system mtu routing 1500', 'no ip source-route', 'ip routing', '!', 'no ip domain-lookup', 'ip domain-name setup.technipfmc.com', 'vtp mode off', '!', 'license boot level ipservices', '!', 'transceiver type all', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface GigabitEthernet1/1', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' power inline never', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address x.x.x.x y.y.y.y', ' no shutdown', '!', 'banner motd ^C', '                            AGH', '         -------------------------------------------------', '                 INITIAL TEMPORARY SCRIPT CONFIG', '         -------------------------------------------------', '^C', '!', 'line con 0', ' logging synchronous', ' login local', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', 'line vty 5 15', ' logging synchronous', ' login local', ' transport input ssh', '!', '!', '!', '!', '!', '!', '!', 'crypto key generate rsa mod 2048', '!', 'end', '']
+['!', 'hostname Cisco Switch', '!', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'no aaa new-model', 'clock timezone GMT 0 0', 'system mtu routing 1500', 'no ip source-route', 'ip routing', '!', 'no ip domain-lookup', 'ip domain-name setup.technipfmc.com', 'vtp mode off', '!', 'license boot level ipservices', '!', 'transceiver type all', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface range GigabitEthernet1/1-2000', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' power inline never', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address 2.42.2.1 255.255.255.0', ' no shutdown', '!', 'banner motd ^C', '                            AGH', '         -------------------------------------------------', '                 INITIAL TEMPORARY SCRIPT CONFIG', '         -------------------------------------------------', '^C', '!', 'line con 0', ' logging synchronous', ' login local', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', 'line vty 5 15', ' logging synchronous', ' login local', ' transport input ssh', '!', '!', '!', '!', '!', '!', '!', 'crypto key generate rsa mod 2048', '!', 'end', '']
 Something went wrong:
 send_to_console() missing 1 required positional argument: 'ser_fun'
+ 
 Choose option provided by the script by typing the number:
 1 -> Downloading configs by COM port to the devices.
 2 -> Script managing by LAN network.
@@ -329,6 +235,10 @@ WELCOME TO THE SCRIPT
 Possible languages to choose from:
 En, Pl
 Please choose your native language:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
  
 +------------------------------------------------------------------------------------------------------------------------------------+
 |                                                     Main info about the script                                                     |
@@ -337,6 +247,166 @@ Please choose your native language:
 +----------------+--------------------------------------------------------------------------------------+------------+---------------+
 | Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
 +----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you are sure that your computer has COM port type 'yes':
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+Device in lab: 
+Router -> Cisco 4231, 
+Switch -> Catalyst 3650
+ 
+Which device do you want to configure?
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+sdadas
+Please provide your ip like 192.168.1.1: 
+IP address 1.1.1.1 is valid.
+ 
+ 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you are sure that your computer has COM port type 'yes':
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+Device in lab: 
+Router -> Cisco 4231, 
+Switch -> Catalyst 3650
+ 
+Which device do you want to configure?
+Device is not handled, try again...
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+Device in lab: 
+Router -> Cisco 4231, 
+Switch -> Catalyst 3650
+ 
+Which device do you want to configure?
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+sdasdada
+Please provide your ip like 192.168.1.1: 
+IP address 1.1.1.1 is valid.
+ 
+ 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you are sure that your computer has COM port type 'yes':
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+Device in lab: 
+Router -> Cisco 4231, 
+Switch -> Catalyst 3650
+ 
+Which device do you want to configure?
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+dsadsadasdasada
+Please provide your ip like 192.168.1.1: 
+IP address 2.2.2.2 is valid.
+ 
+ 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+Temporary files created during the script:
+cisco-switch-1.3.3.2, cisco-switch-2.42.2.1, hostname_ip.txt
+ 
+If you want to delete logs type 'yes', if not type anything else: 
+ 
+All temporary files were successfully deleted.
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
  
 If you want to leave any parts of script just type 'break'!
  
@@ -353,7 +423,7 @@ Possible ssh logs:
 ----------
  
 Possible console logs:
-2022-09-14.txt, 2022-09-26.txt
+2022-09-27.txt
  
 If you want to delete logs type 'yes', if not type anything else: 
  
@@ -368,52 +438,24 @@ Choose option provided by the script by typing the number:
 0 -> Delete all temporary script files.
 Type your number:
  
-All temporary files were successfully deleted.
+If you are sure that your computer has COM port type 'yes':
  
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
-WELCOME TO THE SCRIPT
-Possible languages to choose from:
-En, Pl
-Please choose your native language:
-WELCOME TO THE SCRIPT
-Possible languages to choose from:
-En, Pl
-Please choose your native language:
-WELCOME TO THE SCRIPT
-Possible languages to choose from:
-En, Pl
-Please choose your native language:
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+Device in lab: 
+Router -> Cisco 4231, 
+Switch -> Catalyst 3650
  
-+------------------------------------------------------------------------------------------------------------------------------------+
-|                                                     Main info about the script                                                     |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
+Which device do you want to configure?
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+easa
+Please provide your ip like 192.168.1.1: 
+IP address 1.2.3.4 is valid.
  
-If you want to leave any parts of script just type 'break'!
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
- 
-Temporary files created during the script:
-----------
- 
-If you want to delete logs type 'yes', if not type anything else: 
+None
+Something went wrong:
+send_to_console() missing 1 required positional argument: 'ser_fun'
  
 Choose option provided by the script by typing the number:
 1 -> Downloading configs by COM port to the devices.
@@ -458,10 +500,12 @@ Switch -> Catalyst 3650
 Which device do you want to configure?
 Please provide your hostname for this device: 
 Your hostname was provided correctly:
-yessss
+esadsa
 Please provide your ip like 192.168.1.1: 
-IP address 192.168.100.213 is valid.
+IP address 1.1.1.1 is valid.
  
+ 
+None
 Something went wrong:
 send_to_console() missing 1 required positional argument: 'ser_fun'
  
@@ -497,10 +541,98 @@ Choose option provided by the script by typing the number:
 0 -> Delete all temporary script files.
 Type your number:
  
-Temporary files created during the script:
-hostname_ip.txt
+If you are sure that your computer has COM port type 'yes':
  
-If you want to delete logs type 'yes', if not type anything else: 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+Device in lab: 
+Router -> Cisco 4231, 
+Switch -> Catalyst 3650
+ 
+Which device do you want to configure?
+Device is not handled, try again...
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+Device in lab: 
+Router -> Cisco 4231, 
+Switch -> Catalyst 3650
+ 
+Which device do you want to configure?
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+sdadsadasd
+Please provide your ip like 192.168.1.1: 
+IP address 1.2.3.4 is valid.
+ 
+ 
+Your IP address is overlapped with the previous ones.
+Try again please...
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+Device in lab: 
+Router -> Cisco 4231, 
+Switch -> Catalyst 3650
+ 
+Which device do you want to configure?
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+dsadasdasd
+Please provide your ip like 192.168.1.1: 
+IP address 1.2.2.2 is valid.
+ 
+ 
+CHUJJJJJJJ
+None
+Something went wrong:
+send_to_console() missing 1 required positional argument: 'ser_fun'
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
  
 Choose option provided by the script by typing the number:
 1 -> Downloading configs by COM port to the devices.
@@ -511,12 +643,80 @@ Choose option provided by the script by typing the number:
 0 -> Delete all temporary script files.
 Type your number:
  
-Temporary files created during the script:
-hostname_ip.txt
+If you are sure that your computer has COM port type 'yes':
  
-If you want to delete logs type 'yes', if not type anything else: 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+Device in lab: 
+Router -> Cisco 4231, 
+Switch -> Catalyst 3650
  
-All temporary files were successfully deleted.
+Which device do you want to configure?
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+teasasda
+Please provide your ip like 192.168.1.1: 
+IP address 1.2.3.2 is valid.
+ 
+ 
+CHUJJJJJJJ
+['!', 'hostname xxx', '!', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'no aaa new-model', 'clock timezone GMT 0 0', 'system mtu routing 1500', 'no ip source-route', 'ip routing', '!', 'no ip domain-lookup', 'ip domain-name setup.technipfmc.com', 'vtp mode off', '!', 'license boot level ipservices', '!', 'transceiver type all', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface GigabitEthernet1/1', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' power inline never', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address x.x.x.x y.y.y.y', ' no shutdown', '!', 'banner motd ^C', '                            AGH', '         -------------------------------------------------', '                 INITIAL TEMPORARY SCRIPT CONFIG', '         -------------------------------------------------', '^C', '!', 'line con 0', ' logging synchronous', ' login local', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', 'line vty 5 15', ' logging synchronous', ' login local', ' transport input ssh', '!', '!', '!', '!', '!', '!', '!', 'crypto key generate rsa mod 2048', '!', 'end', '']
+['!', 'hostname teasasda', '!', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'no aaa new-model', 'clock timezone GMT 0 0', 'system mtu routing 1500', 'no ip source-route', 'ip routing', '!', 'no ip domain-lookup', 'ip domain-name setup.technipfmc.com', 'vtp mode off', '!', 'license boot level ipservices', '!', 'transceiver type all', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface range GigabitEthernet1/1-2000', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' power inline never', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address 1.2.3.2 255.255.255.0', ' no shutdown', '!', 'banner motd ^C', '                            AGH', '         -------------------------------------------------', '                 INITIAL TEMPORARY SCRIPT CONFIG', '         -------------------------------------------------', '^C', '!', 'line con 0', ' logging synchronous', ' login local', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', 'line vty 5 15', ' logging synchronous', ' login local', ' transport input ssh', '!', '!', '!', '!', '!', '!', '!', 'crypto key generate rsa mod 2048', '!', 'end', '', '']
+Something went wrong:
+send_to_console() missing 1 required positional argument: 'ser_fun'
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you are sure that your computer has COM port type 'yes':
+ 
+Possible devices to choose from:
+Cisco Switch, Cisco Router
+Device in lab: 
+Router -> Cisco 4231, 
+Switch -> Catalyst 3650
+ 
+Which device do you want to configure?
+Please provide your hostname for this device: 
+Your hostname was provided correctly:
+adsadsad
+Please provide your ip like 192.168.1.1: 
+IP address 2.3.1.1 is valid.
+ 
+ 
+['!', 'hostname xxx', '!', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'no aaa new-model', 'clock timezone GMT 0 0', 'system mtu routing 1500', 'no ip source-route', 'ip routing', '!', 'no ip domain-lookup', 'ip domain-name setup.technipfmc.com', 'vtp mode off', '!', 'license boot level ipservices', '!', 'transceiver type all', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface GigabitEthernet1/1', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' power inline never', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address x.x.x.x y.y.y.y', ' no shutdown', '!', 'banner motd ^C', '                            AGH', '         -------------------------------------------------', '                 INITIAL TEMPORARY SCRIPT CONFIG', '         -------------------------------------------------', '^C', '!', 'line con 0', ' logging synchronous', ' login local', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', 'line vty 5 15', ' logging synchronous', ' login local', ' transport input ssh', '!', '!', '!', '!', '!', '!', '!', 'crypto key generate rsa mod 2048', '!', 'end', '']
+['!', 'hostname adsadsad', '!', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'no aaa new-model', 'clock timezone GMT 0 0', 'system mtu routing 1500', 'no ip source-route', 'ip routing', '!', 'no ip domain-lookup', 'ip domain-name setup.technipfmc.com', 'vtp mode off', '!', 'license boot level ipservices', '!', 'transceiver type all', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface range GigabitEthernet1/1-2000', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' power inline never', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address 2.3.1.1 255.255.255.0', ' no shutdown', '!', 'banner motd ^C', '                            AGH', '         -------------------------------------------------', '                 INITIAL TEMPORARY SCRIPT CONFIG', '         -------------------------------------------------', '^C', '!', 'line con 0', ' logging synchronous', ' login local', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', 'line vty 5 15', ' logging synchronous', ' login local', ' transport input ssh', '!', '!', '!', '!', '!', '!', '!', 'crypto key generate rsa mod 2048', '!', 'end', '', '']
+Something went wrong:
+send_to_console() missing 1 required positional argument: 'ser_fun'
  
 Choose option provided by the script by typing the number:
 1 -> Downloading configs by COM port to the devices.

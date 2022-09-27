@@ -73,29 +73,56 @@ def check_ip_hostname(ip, hostname, language):
         return flag
 
 
+# creating and reading conf files
+def create_conf_switch(content_list, hostname, port_num, ip_add):
+    for x in content_list:
+        # changing hostname
+        if x == 'hostname xxx':
+            our_index = content_list.index(x)
+            content_list[our_index] = f'hostname {hostname}'
+        # changing interface for whole range
+        if x == 'interface GigabitEthernet1/1':
+            int_index = content_list.index(x)
+            content_list[int_index] = f'interface range GigabitEthernet1/1-{str(port_num)}'
+        # changing ip address
+        if x == ' ip address x.x.x.x y.y.y.y':
+            ip_index = content_list.index(x)
+            content_list[ip_index] = f' ip address {str(ip_add)} 255.255.255.0'
+    with open(f'temporary/switch-{hostname}-{str(ip_add)}', 'w') as file:
+        for row in content_list:
+            file.write(str(row) + '\n')
+    with open(f'temporary/switch-{hostname}-{str(ip_add)}', 'r') as my_file:
+        data = my_file.read()
+        ready_commands = data.split("\n")
+    # returning ready commands to be sent to the device
+    return ready_commands
+
+
 # function to prepare initial config to download
-def prepare_config(language, device):
+def prepare_config(language, device, ip, hostname):
     if device == 'Cisco Switch':
         with open('configs/cisco-switch') as my_file:
             data = my_file.read()
             commands = data.split("\n")
+            print(commands)
+            # returning list full of commands
+            ready_conf = create_conf_switch(commands, hostname, 2000, ip)
+            return ready_conf
     elif device == 'Cisco Router':
         with open('configs/cisco-router') as my_file:
             data = my_file.read()
             commands = data.split("\n")
-    # returning list full of commands
-    return commands
 
 
 # function to send commands to console
 def send_to_console(list_commands, ser_fun: Serial, wait_time: float = 0.2):
-        # sending each command independently
-        for command in list_commands:
-            print(command)
-            command_to_send = command + '\r\n'
-            # ser_fun.write(command_to_send.encode('utf-8'))
-            # sleep(wait_time)
-            # string_send = ser_fun.read(ser_fun.inWaiting()).decode('utf-8')
-            # printing dots to inform user that script is still working
-            # print('.', end='')
-            # return string_send
+    # sending each command independently
+    for command in list_commands:
+        print(command)
+        command_to_send = command + '\r\n'
+        # ser_fun.write(command_to_send.encode('utf-8'))
+        # sleep(wait_time)
+        # string_send = ser_fun.read(ser_fun.inWaiting()).decode('utf-8')
+        # printing dots to inform user that script is still working
+        # print('.', end='')
+        # return string_send
