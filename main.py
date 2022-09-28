@@ -113,6 +113,11 @@ while main_flag:
             # function to print online ip addresses
             ping_all(lang)
 
+        # function to download config created by the user to the device
+        elif user_choice == '5':
+            # TODO: TUTAJ WGRYWANIE TEGO KONFIGU
+            print("TUTAJ JAZDA DALEJ")
+
         # deleting old console logs
         elif user_choice == '9':
             # question about deleting logs and printing it
