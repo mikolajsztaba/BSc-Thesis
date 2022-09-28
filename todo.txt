@@ -4,7 +4,7 @@ funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostnam
 dodanie tez generowania kryptokeys na urzadzeniach
 funkcja do zliczania portow np na switchu czy routerze
 opcja podania maski tez wpisywania ip
-opcja wgrania tez configu podanego przez uzytkownika na konkretne urzadzenie (Wrzucanie gotowego txta)
+opcja wgrania tez configu podanego przez uzytkownika na konkretne urzadzenie (Wrzucanie gotowego txta) DOKONCZYC
 
 
 NA PRZYSZLOSC:
