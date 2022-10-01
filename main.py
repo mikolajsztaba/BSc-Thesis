@@ -7,7 +7,7 @@ from time import sleep
 from language.json_schema import user_language_choice
 from data.decorators import decorator_space
 from lib.function_user import configure_user, type_device, user_com, set_hostname, ip_set, ssh_host, ping_all,\
-     user_pasword, print_logs, print_temp
+     user_pasword, print_logs, print_temp, network_mask_set
 from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip, user_config
@@ -65,13 +65,16 @@ while main_flag:
                     # ip address chosen by the user
                     current_ip = ip_set(lang)
 
+                    # netmask chosen by the user
+                    current_netmask = network_mask_set(lang)
+
                     # check hostname/ip availability
                     if check_ip_hostname(current_ip, hostname, lang):
                         break
 
                 # TODO NEEDS TO BE UPGRADED
                 # preparing initial config for the device
-                commands = prepare_config(lang, user_dev, current_ip, hostname)
+                commands = prepare_config(lang, user_dev, current_ip, current_netmask, hostname)
                 print(commands)
 
                 # sending commands to the device

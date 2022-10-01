@@ -83,6 +83,15 @@ def ip_set(language):
             print(decorator_space)
 
 
+# function to set ip to the device
+def network_mask_set(language):
+    while True:
+        user_mask = int(input(language["mask_input"]))
+        if 0 < user_mask <= 32:
+            netmask = '.'.join([str((m >> (3 - i) * 8) & 0xff) for i, m in enumerate([-1 << (32 - user_mask)] * 4)])
+            return netmask
+
+
 # function to choose ip address to connect by SSH
 def ssh_host(language):
     user_input = input(language['ssh_host'])

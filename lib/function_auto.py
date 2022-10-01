@@ -75,7 +75,7 @@ def check_ip_hostname(ip, hostname, language):
 
 
 # creating and reading conf files
-def create_conf_switch(content_list, hostname, port_num, ip_add):
+def create_conf_switch(content_list, hostname, port_num, netmask, ip_add):
     for x in content_list:
         # changing hostname
         if x == 'hostname xxx':
@@ -88,7 +88,7 @@ def create_conf_switch(content_list, hostname, port_num, ip_add):
         # changing ip address
         if x == ' ip address x.x.x.x y.y.y.y':
             ip_index = content_list.index(x)
-            content_list[ip_index] = f' ip address {str(ip_add)} 255.255.255.0'
+            content_list[ip_index] = f' ip address {str(ip_add)} {str(netmask)}'
     with open(f'temporary/switch-{hostname}-{str(ip_add)}', 'w') as file:
         for row in content_list:
             file.write(str(row) + '\n')
@@ -100,14 +100,14 @@ def create_conf_switch(content_list, hostname, port_num, ip_add):
 
 
 # function to prepare initial config to download
-def prepare_config(language, device, ip, hostname):
+def prepare_config(language, device, ip, netmask, hostname):
     if device == 'Cisco Switch':
         with open('configs/cisco-switch') as my_file:
             data = my_file.read()
             commands = data.split("\n")
             print(commands)
             # returning list full of commands
-            ready_conf = create_conf_switch(commands, hostname, 2000, ip)
+            ready_conf = create_conf_switch(commands, hostname, 2000, netmask, ip)
             return ready_conf
     elif device == 'Cisco Router':
         with open('configs/cisco-router') as my_file:

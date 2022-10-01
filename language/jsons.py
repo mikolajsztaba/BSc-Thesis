@@ -58,6 +58,7 @@ language = {"En": {
                     "config_number": "Please provide number of chosen config:\n",
                     "inform_config": "Please put your config file in 'user_config' folder!",
                     "ready_user": "If you are ready type 'yes', if you want to leave type 'break':\n",
+                    "mask_input": "Please provide network mask as a number for example 24:\n",
 
 
                   },
@@ -120,6 +121,7 @@ language = {"En": {
                     "config_number": "Wpisz numer wybranej konifguracji:\n",
                     "inform_config": "Proszę umieścić swój config w folderze 'user_config'!",
                     "ready_user": "Jeśli jesteś gotowy wpisz 'yes', jeśli chcesz wyjść wpisz 'break':\n",
+                    "mask_input": "Wpisz maskę sieciową jako numer np. 24:\n",
 
             }
 }
