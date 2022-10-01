@@ -124,6 +124,21 @@ while main_flag:
                 user_config_file = user_config(lang)
                 print(user_config_file)
 
+                # NEEDS TO BE COMMENTED
+                # creating com ports
+                # com_port = user_com(lang)
+
+                # creating COM number connection
+                # ser = Serial(com_port, com_speed)
+
+                # sending commands to the device
+                try:
+                    send_to_console(user_config_file)
+                except Exception as error:
+                    print(lang["error_info"])
+                    print(error)
+                    print(decorator_space)
+
         # deleting old console logs
         elif user_choice == '9':
             # question about deleting logs and printing it
