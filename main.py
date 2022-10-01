@@ -10,7 +10,7 @@ from lib.function_user import configure_user, type_device, user_com, set_hostnam
      user_pasword, print_logs, print_temp
 from data.devices import devices
 from data.variables import ip_number, com_speed
-from lib.file_handling import delete_files, save_dev_ip
+from lib.file_handling import delete_files, save_dev_ip, user_config
 from logger.logging import *
 from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname, prepare_config,\
      send_to_console
@@ -115,8 +115,9 @@ while main_flag:
 
         # function to download config created by the user to the device
         elif user_choice == '5':
-            # TODO: TUTAJ WGRYWANIE TEGO KONFIGU
-            print("TUTAJ JAZDA DALEJ")
+            # choosing config
+            user_config_file = user_config(lang)
+            print(user_config_file)
 
         # deleting old console logs
         elif user_choice == '9':

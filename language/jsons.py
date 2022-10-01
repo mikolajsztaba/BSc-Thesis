@@ -54,6 +54,9 @@ language = {"En": {
                     "error_info": "Something went wrong:",
                     "temporary_files": "Temporary files created during the script:",
                     "temp_files_question": "If you want to delete temporary files type 'yes', if not type anything else: \n",
+                    "user_config_list": "Possible configs in '/user_config' folder:",
+                    "config_number": "Please provide number of chosen config:\n",
+
 
 
                   },
@@ -112,6 +115,8 @@ language = {"En": {
                     "error_info": "Coś poszło nie tak:",
                     "temporary_files": "Pliki tymczasowe stworzone podczas działania skryptu:",
                     "temp_files_question": "Jeżeli chcesz usunąć pliki tymczasowe wpisz 'yes', jeżeli nie wpisz cokolwiek innego: \n",
+                    "user_config_list": "Dostępne konfiguracje w folderze '/user_config':",
+                    "config_number": "Wpisz numer wybranej konifguracji:\n",
 
             }
 }
