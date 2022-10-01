@@ -3,8 +3,7 @@ utworzenie funkcji do przesylania pojedynczych komend z tego sparsowanego pliku
 funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostname etc. (dla switcha DONE, zrobic dla ruterka)
 dodanie tez generowania kryptokeys na urzadzeniach
 funkcja do zliczania portow np na switchu czy routerze ( + poprawa tego w tworzeniu konfigu)
-opcja podania maski tez wpisywania ip
-
+sprawdzenie czy np dany adres moze byc w tej sieci z ta maska(TO NAJPIERW)
 
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp
