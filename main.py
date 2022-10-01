@@ -15,6 +15,8 @@ from logger.logging import *
 from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname, prepare_config,\
      send_to_console
 from lib.ssh_con import ssh_con
+from lib.input_functions import inform_user_config
+
 
 # flags
 main_flag = True
@@ -115,9 +117,12 @@ while main_flag:
 
         # function to download config created by the user to the device
         elif user_choice == '5':
+            # function to inform user
+            config_flag = inform_user_config(lang)
             # choosing config
-            user_config_file = user_config(lang)
-            print(user_config_file)
+            if config_flag:
+                user_config_file = user_config(lang)
+                print(user_config_file)
 
         # deleting old console logs
         elif user_choice == '9':

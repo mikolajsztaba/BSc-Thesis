@@ -56,7 +56,8 @@ language = {"En": {
                     "temp_files_question": "If you want to delete temporary files type 'yes', if not type anything else: \n",
                     "user_config_list": "Possible configs in '/user_config' folder:",
                     "config_number": "Please provide number of chosen config:\n",
-
+                    "inform_config": "Please put your config file in 'user_config' folder!",
+                    "ready_user": "If you are ready type 'yes', if you want to leave type 'break':\n",
 
 
                   },
@@ -117,6 +118,8 @@ language = {"En": {
                     "temp_files_question": "Jeżeli chcesz usunąć pliki tymczasowe wpisz 'yes', jeżeli nie wpisz cokolwiek innego: \n",
                     "user_config_list": "Dostępne konfiguracje w folderze '/user_config':",
                     "config_number": "Wpisz numer wybranej konifguracji:\n",
+                    "inform_config": "Proszę umieścić swój config w folderze 'user_config'!",
+                    "ready_user": "Jeśli jesteś gotowy wpisz 'yes', jeśli chcesz wyjść wpisz 'break':\n",
 
             }
 }

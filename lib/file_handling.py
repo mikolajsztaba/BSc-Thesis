@@ -61,7 +61,6 @@ def user_config(language):
     user_choice = int(input(language["config_number"]))
     # checking if the user has chosen the proper number
     if user_choice in dict_config.keys():
-        print(dict_config[user_choice])
         # reading configuration from the selected file
         with open(f'user_config/{dict_config[user_choice]}') as my_file:
             data = my_file.read()
