@@ -16,6 +16,7 @@ from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, 
      send_to_console
 from lib.ssh_con import ssh_con
 from lib.input_functions import inform_user_config
+from lib.calculator import calculate_network
 
 
 # flags
@@ -141,6 +142,11 @@ while main_flag:
                     print(lang["error_info"])
                     print(error)
                     print(decorator_space)
+
+        # function to calculate hosts in the network
+        elif user_choice == '6':
+            print("FUNCTION TO CALCULATE")
+            calculate_network(lang)
 
         # deleting old console logs
         elif user_choice == '9':

@@ -2,8 +2,10 @@ Na 02.10:
 utworzenie funkcji do przesylania pojedynczych komend z tego sparsowanego pliku
 funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostname etc. (dla switcha DONE, zrobic dla ruterka)
 dodanie tez generowania kryptokeys na urzadzeniach
-funkcja do zliczania portow np na switchu czy routerze ( + poprawa tego w tworzeniu konfigu)
-sprawdzenie czy np dany adres moze byc w tej sieci z ta maska(TO NAJPIERW)
+funkcja do zliczania portow np na switchu czy routerze ( + poprawa tego w tworzeniu konfigu) np. dodanie, ze na tym maja byc takie adresy, a gdzie indziej inne
+dodanie funkcji do obliczania dostepnych hostow w sieci
+
+
 
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp

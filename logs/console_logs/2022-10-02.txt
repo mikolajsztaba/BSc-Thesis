@@ -1,0 +1,458 @@
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+FUNCTION TO CALCULATE
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+FUNCTION TO CALCULATE
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+Enter a network address in CIDR format(ex.192.168.1.0/24):
+Work in progress:
+.............................................................. 
+Online devices in the network:
+192.168.1.1, 192.168.1.5
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+FUNCTION TO CALCULATE
+Enter a network address in CIDR format(ex.192.168.1.0/24):
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+Enter a network address in CIDR format(ex.192.168.1.0/24):
+Something went wrong... Check your input if it is correct!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+FUNCTION TO CALCULATE
+Enter a network address in CIDR format(ex.192.168.1.0/24):
+[IPv4Address('192.1.1.1'), IPv4Address('192.1.1.2'), IPv4Address('192.1.1.3'), IPv4Address('192.1.1.4'), IPv4Address('192.1.1.5'), IPv4Address('192.1.1.6'), IPv4Address('192.1.1.7'), IPv4Address('192.1.1.8'), IPv4Address('192.1.1.9'), IPv4Address('192.1.1.10'), IPv4Address('192.1.1.11'), IPv4Address('192.1.1.12'), IPv4Address('192.1.1.13'), IPv4Address('192.1.1.14'), IPv4Address('192.1.1.15'), IPv4Address('192.1.1.16'), IPv4Address('192.1.1.17'), IPv4Address('192.1.1.18'), IPv4Address('192.1.1.19'), IPv4Address('192.1.1.20'), IPv4Address('192.1.1.21'), IPv4Address('192.1.1.22'), IPv4Address('192.1.1.23'), IPv4Address('192.1.1.24'), IPv4Address('192.1.1.25'), IPv4Address('192.1.1.26'), IPv4Address('192.1.1.27'), IPv4Address('192.1.1.28'), IPv4Address('192.1.1.29'), IPv4Address('192.1.1.30'), IPv4Address('192.1.1.31'), IPv4Address('192.1.1.32'), IPv4Address('192.1.1.33'), IPv4Address('192.1.1.34'), IPv4Address('192.1.1.35'), IPv4Address('192.1.1.36'), IPv4Address('192.1.1.37'), IPv4Address('192.1.1.38'), IPv4Address('192.1.1.39'), IPv4Address('192.1.1.40'), IPv4Address('192.1.1.41'), IPv4Address('192.1.1.42'), IPv4Address('192.1.1.43'), IPv4Address('192.1.1.44'), IPv4Address('192.1.1.45'), IPv4Address('192.1.1.46'), IPv4Address('192.1.1.47'), IPv4Address('192.1.1.48'), IPv4Address('192.1.1.49'), IPv4Address('192.1.1.50'), IPv4Address('192.1.1.51'), IPv4Address('192.1.1.52'), IPv4Address('192.1.1.53'), IPv4Address('192.1.1.54'), IPv4Address('192.1.1.55'), IPv4Address('192.1.1.56'), IPv4Address('192.1.1.57'), IPv4Address('192.1.1.58'), IPv4Address('192.1.1.59'), IPv4Address('192.1.1.60'), IPv4Address('192.1.1.61'), IPv4Address('192.1.1.62'), IPv4Address('192.1.1.63'), IPv4Address('192.1.1.64'), IPv4Address('192.1.1.65'), IPv4Address('192.1.1.66'), IPv4Address('192.1.1.67'), IPv4Address('192.1.1.68'), IPv4Address('192.1.1.69'), IPv4Address('192.1.1.70'), IPv4Address('192.1.1.71'), IPv4Address('192.1.1.72'), IPv4Address('192.1.1.73'), IPv4Address('192.1.1.74'), IPv4Address('192.1.1.75'), IPv4Address('192.1.1.76'), IPv4Address('192.1.1.77'), IPv4Address('192.1.1.78'), IPv4Address('192.1.1.79'), IPv4Address('192.1.1.80'), IPv4Address('192.1.1.81'), IPv4Address('192.1.1.82'), IPv4Address('192.1.1.83'), IPv4Address('192.1.1.84'), IPv4Address('192.1.1.85'), IPv4Address('192.1.1.86'), IPv4Address('192.1.1.87'), IPv4Address('192.1.1.88'), IPv4Address('192.1.1.89'), IPv4Address('192.1.1.90'), IPv4Address('192.1.1.91'), IPv4Address('192.1.1.92'), IPv4Address('192.1.1.93'), IPv4Address('192.1.1.94'), IPv4Address('192.1.1.95'), IPv4Address('192.1.1.96'), IPv4Address('192.1.1.97'), IPv4Address('192.1.1.98'), IPv4Address('192.1.1.99'), IPv4Address('192.1.1.100'), IPv4Address('192.1.1.101'), IPv4Address('192.1.1.102'), IPv4Address('192.1.1.103'), IPv4Address('192.1.1.104'), IPv4Address('192.1.1.105'), IPv4Address('192.1.1.106'), IPv4Address('192.1.1.107'), IPv4Address('192.1.1.108'), IPv4Address('192.1.1.109'), IPv4Address('192.1.1.110'), IPv4Address('192.1.1.111'), IPv4Address('192.1.1.112'), IPv4Address('192.1.1.113'), IPv4Address('192.1.1.114'), IPv4Address('192.1.1.115'), IPv4Address('192.1.1.116'), IPv4Address('192.1.1.117'), IPv4Address('192.1.1.118'), IPv4Address('192.1.1.119'), IPv4Address('192.1.1.120'), IPv4Address('192.1.1.121'), IPv4Address('192.1.1.122'), IPv4Address('192.1.1.123'), IPv4Address('192.1.1.124'), IPv4Address('192.1.1.125'), IPv4Address('192.1.1.126')]
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+FUNCTION TO CALCULATE
+Enter a network address in CIDR format(ex.192.168.1.0/24):
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+FUNCTION TO CALCULATE
+Enter a network address in CIDR format(ex.192.168.1.0/24):
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+FUNCTION TO CALCULATE
+Enter a network address in CIDR format(ex.192.168.1.0/24):
+[IPv4Address('192.168.1.1'), IPv4Address('192.168.1.2'), IPv4Address('192.168.1.3'), IPv4Address('192.168.1.4'), IPv4Address('192.168.1.5'), IPv4Address('192.168.1.6'), IPv4Address('192.168.1.7'), IPv4Address('192.168.1.8'), IPv4Address('192.168.1.9'), IPv4Address('192.168.1.10'), IPv4Address('192.168.1.11'), IPv4Address('192.168.1.12'), IPv4Address('192.168.1.13'), IPv4Address('192.168.1.14'), IPv4Address('192.168.1.15'), IPv4Address('192.168.1.16'), IPv4Address('192.168.1.17'), IPv4Address('192.168.1.18'), IPv4Address('192.168.1.19'), IPv4Address('192.168.1.20'), IPv4Address('192.168.1.21'), IPv4Address('192.168.1.22'), IPv4Address('192.168.1.23'), IPv4Address('192.168.1.24'), IPv4Address('192.168.1.25'), IPv4Address('192.168.1.26'), IPv4Address('192.168.1.27'), IPv4Address('192.168.1.28'), IPv4Address('192.168.1.29'), IPv4Address('192.168.1.30'), IPv4Address('192.168.1.31'), IPv4Address('192.168.1.32'), IPv4Address('192.168.1.33'), IPv4Address('192.168.1.34'), IPv4Address('192.168.1.35'), IPv4Address('192.168.1.36'), IPv4Address('192.168.1.37'), IPv4Address('192.168.1.38'), IPv4Address('192.168.1.39'), IPv4Address('192.168.1.40'), IPv4Address('192.168.1.41'), IPv4Address('192.168.1.42'), IPv4Address('192.168.1.43'), IPv4Address('192.168.1.44'), IPv4Address('192.168.1.45'), IPv4Address('192.168.1.46'), IPv4Address('192.168.1.47'), IPv4Address('192.168.1.48'), IPv4Address('192.168.1.49'), IPv4Address('192.168.1.50'), IPv4Address('192.168.1.51'), IPv4Address('192.168.1.52'), IPv4Address('192.168.1.53'), IPv4Address('192.168.1.54'), IPv4Address('192.168.1.55'), IPv4Address('192.168.1.56'), IPv4Address('192.168.1.57'), IPv4Address('192.168.1.58'), IPv4Address('192.168.1.59'), IPv4Address('192.168.1.60'), IPv4Address('192.168.1.61'), IPv4Address('192.168.1.62'), IPv4Address('192.168.1.63'), IPv4Address('192.168.1.64'), IPv4Address('192.168.1.65'), IPv4Address('192.168.1.66'), IPv4Address('192.168.1.67'), IPv4Address('192.168.1.68'), IPv4Address('192.168.1.69'), IPv4Address('192.168.1.70'), IPv4Address('192.168.1.71'), IPv4Address('192.168.1.72'), IPv4Address('192.168.1.73'), IPv4Address('192.168.1.74'), IPv4Address('192.168.1.75'), IPv4Address('192.168.1.76'), IPv4Address('192.168.1.77'), IPv4Address('192.168.1.78'), IPv4Address('192.168.1.79'), IPv4Address('192.168.1.80'), IPv4Address('192.168.1.81'), IPv4Address('192.168.1.82'), IPv4Address('192.168.1.83'), IPv4Address('192.168.1.84'), IPv4Address('192.168.1.85'), IPv4Address('192.168.1.86'), IPv4Address('192.168.1.87'), IPv4Address('192.168.1.88'), IPv4Address('192.168.1.89'), IPv4Address('192.168.1.90'), IPv4Address('192.168.1.91'), IPv4Address('192.168.1.92'), IPv4Address('192.168.1.93'), IPv4Address('192.168.1.94'), IPv4Address('192.168.1.95'), IPv4Address('192.168.1.96'), IPv4Address('192.168.1.97'), IPv4Address('192.168.1.98'), IPv4Address('192.168.1.99'), IPv4Address('192.168.1.100'), IPv4Address('192.168.1.101'), IPv4Address('192.168.1.102'), IPv4Address('192.168.1.103'), IPv4Address('192.168.1.104'), IPv4Address('192.168.1.105'), IPv4Address('192.168.1.106'), IPv4Address('192.168.1.107'), IPv4Address('192.168.1.108'), IPv4Address('192.168.1.109'), IPv4Address('192.168.1.110'), IPv4Address('192.168.1.111'), IPv4Address('192.168.1.112'), IPv4Address('192.168.1.113'), IPv4Address('192.168.1.114'), IPv4Address('192.168.1.115'), IPv4Address('192.168.1.116'), IPv4Address('192.168.1.117'), IPv4Address('192.168.1.118'), IPv4Address('192.168.1.119'), IPv4Address('192.168.1.120'), IPv4Address('192.168.1.121'), IPv4Address('192.168.1.122'), IPv4Address('192.168.1.123'), IPv4Address('192.168.1.124'), IPv4Address('192.168.1.125'), IPv4Address('192.168.1.126'), IPv4Address('192.168.1.127'), IPv4Address('192.168.1.128'), IPv4Address('192.168.1.129'), IPv4Address('192.168.1.130'), IPv4Address('192.168.1.131'), IPv4Address('192.168.1.132'), IPv4Address('192.168.1.133'), IPv4Address('192.168.1.134'), IPv4Address('192.168.1.135'), IPv4Address('192.168.1.136'), IPv4Address('192.168.1.137'), IPv4Address('192.168.1.138'), IPv4Address('192.168.1.139'), IPv4Address('192.168.1.140'), IPv4Address('192.168.1.141'), IPv4Address('192.168.1.142'), IPv4Address('192.168.1.143'), IPv4Address('192.168.1.144'), IPv4Address('192.168.1.145'), IPv4Address('192.168.1.146'), IPv4Address('192.168.1.147'), IPv4Address('192.168.1.148'), IPv4Address('192.168.1.149'), IPv4Address('192.168.1.150'), IPv4Address('192.168.1.151'), IPv4Address('192.168.1.152'), IPv4Address('192.168.1.153'), IPv4Address('192.168.1.154'), IPv4Address('192.168.1.155'), IPv4Address('192.168.1.156'), IPv4Address('192.168.1.157'), IPv4Address('192.168.1.158'), IPv4Address('192.168.1.159'), IPv4Address('192.168.1.160'), IPv4Address('192.168.1.161'), IPv4Address('192.168.1.162'), IPv4Address('192.168.1.163'), IPv4Address('192.168.1.164'), IPv4Address('192.168.1.165'), IPv4Address('192.168.1.166'), IPv4Address('192.168.1.167'), IPv4Address('192.168.1.168'), IPv4Address('192.168.1.169'), IPv4Address('192.168.1.170'), IPv4Address('192.168.1.171'), IPv4Address('192.168.1.172'), IPv4Address('192.168.1.173'), IPv4Address('192.168.1.174'), IPv4Address('192.168.1.175'), IPv4Address('192.168.1.176'), IPv4Address('192.168.1.177'), IPv4Address('192.168.1.178'), IPv4Address('192.168.1.179'), IPv4Address('192.168.1.180'), IPv4Address('192.168.1.181'), IPv4Address('192.168.1.182'), IPv4Address('192.168.1.183'), IPv4Address('192.168.1.184'), IPv4Address('192.168.1.185'), IPv4Address('192.168.1.186'), IPv4Address('192.168.1.187'), IPv4Address('192.168.1.188'), IPv4Address('192.168.1.189'), IPv4Address('192.168.1.190'), IPv4Address('192.168.1.191'), IPv4Address('192.168.1.192'), IPv4Address('192.168.1.193'), IPv4Address('192.168.1.194'), IPv4Address('192.168.1.195'), IPv4Address('192.168.1.196'), IPv4Address('192.168.1.197'), IPv4Address('192.168.1.198'), IPv4Address('192.168.1.199'), IPv4Address('192.168.1.200'), IPv4Address('192.168.1.201'), IPv4Address('192.168.1.202'), IPv4Address('192.168.1.203'), IPv4Address('192.168.1.204'), IPv4Address('192.168.1.205'), IPv4Address('192.168.1.206'), IPv4Address('192.168.1.207'), IPv4Address('192.168.1.208'), IPv4Address('192.168.1.209'), IPv4Address('192.168.1.210'), IPv4Address('192.168.1.211'), IPv4Address('192.168.1.212'), IPv4Address('192.168.1.213'), IPv4Address('192.168.1.214'), IPv4Address('192.168.1.215'), IPv4Address('192.168.1.216'), IPv4Address('192.168.1.217'), IPv4Address('192.168.1.218'), IPv4Address('192.168.1.219'), IPv4Address('192.168.1.220'), IPv4Address('192.168.1.221'), IPv4Address('192.168.1.222'), IPv4Address('192.168.1.223'), IPv4Address('192.168.1.224'), IPv4Address('192.168.1.225'), IPv4Address('192.168.1.226'), IPv4Address('192.168.1.227'), IPv4Address('192.168.1.228'), IPv4Address('192.168.1.229'), IPv4Address('192.168.1.230'), IPv4Address('192.168.1.231'), IPv4Address('192.168.1.232'), IPv4Address('192.168.1.233'), IPv4Address('192.168.1.234'), IPv4Address('192.168.1.235'), IPv4Address('192.168.1.236'), IPv4Address('192.168.1.237'), IPv4Address('192.168.1.238'), IPv4Address('192.168.1.239'), IPv4Address('192.168.1.240'), IPv4Address('192.168.1.241'), IPv4Address('192.168.1.242'), IPv4Address('192.168.1.243'), IPv4Address('192.168.1.244'), IPv4Address('192.168.1.245'), IPv4Address('192.168.1.246'), IPv4Address('192.168.1.247'), IPv4Address('192.168.1.248'), IPv4Address('192.168.1.249'), IPv4Address('192.168.1.250'), IPv4Address('192.168.1.251'), IPv4Address('192.168.1.252'), IPv4Address('192.168.1.253'), IPv4Address('192.168.1.254')]
+192.168.1.0
+192.168.1.255
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+FUNCTION TO CALCULATE
+Enter a network address in CIDR format(ex.192.168.1.0/24):
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+FUNCTION TO CALCULATE
+Enter a network address in CIDR format(ex.192.168.1.0/24):
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+FUNCTION TO CALCULATE
+Enter a network address in CIDR format(ex.192.168.1.0/24):
+254
+[IPv4Address('192.168.1.1'), IPv4Address('192.168.1.2'), IPv4Address('192.168.1.3'), IPv4Address('192.168.1.4'), IPv4Address('192.168.1.5'), IPv4Address('192.168.1.6'), IPv4Address('192.168.1.7'), IPv4Address('192.168.1.8'), IPv4Address('192.168.1.9'), IPv4Address('192.168.1.10'), IPv4Address('192.168.1.11'), IPv4Address('192.168.1.12'), IPv4Address('192.168.1.13'), IPv4Address('192.168.1.14'), IPv4Address('192.168.1.15'), IPv4Address('192.168.1.16'), IPv4Address('192.168.1.17'), IPv4Address('192.168.1.18'), IPv4Address('192.168.1.19'), IPv4Address('192.168.1.20'), IPv4Address('192.168.1.21'), IPv4Address('192.168.1.22'), IPv4Address('192.168.1.23'), IPv4Address('192.168.1.24'), IPv4Address('192.168.1.25'), IPv4Address('192.168.1.26'), IPv4Address('192.168.1.27'), IPv4Address('192.168.1.28'), IPv4Address('192.168.1.29'), IPv4Address('192.168.1.30'), IPv4Address('192.168.1.31'), IPv4Address('192.168.1.32'), IPv4Address('192.168.1.33'), IPv4Address('192.168.1.34'), IPv4Address('192.168.1.35'), IPv4Address('192.168.1.36'), IPv4Address('192.168.1.37'), IPv4Address('192.168.1.38'), IPv4Address('192.168.1.39'), IPv4Address('192.168.1.40'), IPv4Address('192.168.1.41'), IPv4Address('192.168.1.42'), IPv4Address('192.168.1.43'), IPv4Address('192.168.1.44'), IPv4Address('192.168.1.45'), IPv4Address('192.168.1.46'), IPv4Address('192.168.1.47'), IPv4Address('192.168.1.48'), IPv4Address('192.168.1.49'), IPv4Address('192.168.1.50'), IPv4Address('192.168.1.51'), IPv4Address('192.168.1.52'), IPv4Address('192.168.1.53'), IPv4Address('192.168.1.54'), IPv4Address('192.168.1.55'), IPv4Address('192.168.1.56'), IPv4Address('192.168.1.57'), IPv4Address('192.168.1.58'), IPv4Address('192.168.1.59'), IPv4Address('192.168.1.60'), IPv4Address('192.168.1.61'), IPv4Address('192.168.1.62'), IPv4Address('192.168.1.63'), IPv4Address('192.168.1.64'), IPv4Address('192.168.1.65'), IPv4Address('192.168.1.66'), IPv4Address('192.168.1.67'), IPv4Address('192.168.1.68'), IPv4Address('192.168.1.69'), IPv4Address('192.168.1.70'), IPv4Address('192.168.1.71'), IPv4Address('192.168.1.72'), IPv4Address('192.168.1.73'), IPv4Address('192.168.1.74'), IPv4Address('192.168.1.75'), IPv4Address('192.168.1.76'), IPv4Address('192.168.1.77'), IPv4Address('192.168.1.78'), IPv4Address('192.168.1.79'), IPv4Address('192.168.1.80'), IPv4Address('192.168.1.81'), IPv4Address('192.168.1.82'), IPv4Address('192.168.1.83'), IPv4Address('192.168.1.84'), IPv4Address('192.168.1.85'), IPv4Address('192.168.1.86'), IPv4Address('192.168.1.87'), IPv4Address('192.168.1.88'), IPv4Address('192.168.1.89'), IPv4Address('192.168.1.90'), IPv4Address('192.168.1.91'), IPv4Address('192.168.1.92'), IPv4Address('192.168.1.93'), IPv4Address('192.168.1.94'), IPv4Address('192.168.1.95'), IPv4Address('192.168.1.96'), IPv4Address('192.168.1.97'), IPv4Address('192.168.1.98'), IPv4Address('192.168.1.99'), IPv4Address('192.168.1.100'), IPv4Address('192.168.1.101'), IPv4Address('192.168.1.102'), IPv4Address('192.168.1.103'), IPv4Address('192.168.1.104'), IPv4Address('192.168.1.105'), IPv4Address('192.168.1.106'), IPv4Address('192.168.1.107'), IPv4Address('192.168.1.108'), IPv4Address('192.168.1.109'), IPv4Address('192.168.1.110'), IPv4Address('192.168.1.111'), IPv4Address('192.168.1.112'), IPv4Address('192.168.1.113'), IPv4Address('192.168.1.114'), IPv4Address('192.168.1.115'), IPv4Address('192.168.1.116'), IPv4Address('192.168.1.117'), IPv4Address('192.168.1.118'), IPv4Address('192.168.1.119'), IPv4Address('192.168.1.120'), IPv4Address('192.168.1.121'), IPv4Address('192.168.1.122'), IPv4Address('192.168.1.123'), IPv4Address('192.168.1.124'), IPv4Address('192.168.1.125'), IPv4Address('192.168.1.126'), IPv4Address('192.168.1.127'), IPv4Address('192.168.1.128'), IPv4Address('192.168.1.129'), IPv4Address('192.168.1.130'), IPv4Address('192.168.1.131'), IPv4Address('192.168.1.132'), IPv4Address('192.168.1.133'), IPv4Address('192.168.1.134'), IPv4Address('192.168.1.135'), IPv4Address('192.168.1.136'), IPv4Address('192.168.1.137'), IPv4Address('192.168.1.138'), IPv4Address('192.168.1.139'), IPv4Address('192.168.1.140'), IPv4Address('192.168.1.141'), IPv4Address('192.168.1.142'), IPv4Address('192.168.1.143'), IPv4Address('192.168.1.144'), IPv4Address('192.168.1.145'), IPv4Address('192.168.1.146'), IPv4Address('192.168.1.147'), IPv4Address('192.168.1.148'), IPv4Address('192.168.1.149'), IPv4Address('192.168.1.150'), IPv4Address('192.168.1.151'), IPv4Address('192.168.1.152'), IPv4Address('192.168.1.153'), IPv4Address('192.168.1.154'), IPv4Address('192.168.1.155'), IPv4Address('192.168.1.156'), IPv4Address('192.168.1.157'), IPv4Address('192.168.1.158'), IPv4Address('192.168.1.159'), IPv4Address('192.168.1.160'), IPv4Address('192.168.1.161'), IPv4Address('192.168.1.162'), IPv4Address('192.168.1.163'), IPv4Address('192.168.1.164'), IPv4Address('192.168.1.165'), IPv4Address('192.168.1.166'), IPv4Address('192.168.1.167'), IPv4Address('192.168.1.168'), IPv4Address('192.168.1.169'), IPv4Address('192.168.1.170'), IPv4Address('192.168.1.171'), IPv4Address('192.168.1.172'), IPv4Address('192.168.1.173'), IPv4Address('192.168.1.174'), IPv4Address('192.168.1.175'), IPv4Address('192.168.1.176'), IPv4Address('192.168.1.177'), IPv4Address('192.168.1.178'), IPv4Address('192.168.1.179'), IPv4Address('192.168.1.180'), IPv4Address('192.168.1.181'), IPv4Address('192.168.1.182'), IPv4Address('192.168.1.183'), IPv4Address('192.168.1.184'), IPv4Address('192.168.1.185'), IPv4Address('192.168.1.186'), IPv4Address('192.168.1.187'), IPv4Address('192.168.1.188'), IPv4Address('192.168.1.189'), IPv4Address('192.168.1.190'), IPv4Address('192.168.1.191'), IPv4Address('192.168.1.192'), IPv4Address('192.168.1.193'), IPv4Address('192.168.1.194'), IPv4Address('192.168.1.195'), IPv4Address('192.168.1.196'), IPv4Address('192.168.1.197'), IPv4Address('192.168.1.198'), IPv4Address('192.168.1.199'), IPv4Address('192.168.1.200'), IPv4Address('192.168.1.201'), IPv4Address('192.168.1.202'), IPv4Address('192.168.1.203'), IPv4Address('192.168.1.204'), IPv4Address('192.168.1.205'), IPv4Address('192.168.1.206'), IPv4Address('192.168.1.207'), IPv4Address('192.168.1.208'), IPv4Address('192.168.1.209'), IPv4Address('192.168.1.210'), IPv4Address('192.168.1.211'), IPv4Address('192.168.1.212'), IPv4Address('192.168.1.213'), IPv4Address('192.168.1.214'), IPv4Address('192.168.1.215'), IPv4Address('192.168.1.216'), IPv4Address('192.168.1.217'), IPv4Address('192.168.1.218'), IPv4Address('192.168.1.219'), IPv4Address('192.168.1.220'), IPv4Address('192.168.1.221'), IPv4Address('192.168.1.222'), IPv4Address('192.168.1.223'), IPv4Address('192.168.1.224'), IPv4Address('192.168.1.225'), IPv4Address('192.168.1.226'), IPv4Address('192.168.1.227'), IPv4Address('192.168.1.228'), IPv4Address('192.168.1.229'), IPv4Address('192.168.1.230'), IPv4Address('192.168.1.231'), IPv4Address('192.168.1.232'), IPv4Address('192.168.1.233'), IPv4Address('192.168.1.234'), IPv4Address('192.168.1.235'), IPv4Address('192.168.1.236'), IPv4Address('192.168.1.237'), IPv4Address('192.168.1.238'), IPv4Address('192.168.1.239'), IPv4Address('192.168.1.240'), IPv4Address('192.168.1.241'), IPv4Address('192.168.1.242'), IPv4Address('192.168.1.243'), IPv4Address('192.168.1.244'), IPv4Address('192.168.1.245'), IPv4Address('192.168.1.246'), IPv4Address('192.168.1.247'), IPv4Address('192.168.1.248'), IPv4Address('192.168.1.249'), IPv4Address('192.168.1.250'), IPv4Address('192.168.1.251'), IPv4Address('192.168.1.252'), IPv4Address('192.168.1.253'), IPv4Address('192.168.1.254')]
+192.168.1.0
+192.168.1.255
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+FUNCTION TO CALCULATE
+Enter a network address in CIDR format(ex. 192.168.1.0/24):
+192.168.1.1
+254
+[IPv4Address('192.168.1.1'), IPv4Address('192.168.1.2'), IPv4Address('192.168.1.3'), IPv4Address('192.168.1.4'), IPv4Address('192.168.1.5'), IPv4Address('192.168.1.6'), IPv4Address('192.168.1.7'), IPv4Address('192.168.1.8'), IPv4Address('192.168.1.9'), IPv4Address('192.168.1.10'), IPv4Address('192.168.1.11'), IPv4Address('192.168.1.12'), IPv4Address('192.168.1.13'), IPv4Address('192.168.1.14'), IPv4Address('192.168.1.15'), IPv4Address('192.168.1.16'), IPv4Address('192.168.1.17'), IPv4Address('192.168.1.18'), IPv4Address('192.168.1.19'), IPv4Address('192.168.1.20'), IPv4Address('192.168.1.21'), IPv4Address('192.168.1.22'), IPv4Address('192.168.1.23'), IPv4Address('192.168.1.24'), IPv4Address('192.168.1.25'), IPv4Address('192.168.1.26'), IPv4Address('192.168.1.27'), IPv4Address('192.168.1.28'), IPv4Address('192.168.1.29'), IPv4Address('192.168.1.30'), IPv4Address('192.168.1.31'), IPv4Address('192.168.1.32'), IPv4Address('192.168.1.33'), IPv4Address('192.168.1.34'), IPv4Address('192.168.1.35'), IPv4Address('192.168.1.36'), IPv4Address('192.168.1.37'), IPv4Address('192.168.1.38'), IPv4Address('192.168.1.39'), IPv4Address('192.168.1.40'), IPv4Address('192.168.1.41'), IPv4Address('192.168.1.42'), IPv4Address('192.168.1.43'), IPv4Address('192.168.1.44'), IPv4Address('192.168.1.45'), IPv4Address('192.168.1.46'), IPv4Address('192.168.1.47'), IPv4Address('192.168.1.48'), IPv4Address('192.168.1.49'), IPv4Address('192.168.1.50'), IPv4Address('192.168.1.51'), IPv4Address('192.168.1.52'), IPv4Address('192.168.1.53'), IPv4Address('192.168.1.54'), IPv4Address('192.168.1.55'), IPv4Address('192.168.1.56'), IPv4Address('192.168.1.57'), IPv4Address('192.168.1.58'), IPv4Address('192.168.1.59'), IPv4Address('192.168.1.60'), IPv4Address('192.168.1.61'), IPv4Address('192.168.1.62'), IPv4Address('192.168.1.63'), IPv4Address('192.168.1.64'), IPv4Address('192.168.1.65'), IPv4Address('192.168.1.66'), IPv4Address('192.168.1.67'), IPv4Address('192.168.1.68'), IPv4Address('192.168.1.69'), IPv4Address('192.168.1.70'), IPv4Address('192.168.1.71'), IPv4Address('192.168.1.72'), IPv4Address('192.168.1.73'), IPv4Address('192.168.1.74'), IPv4Address('192.168.1.75'), IPv4Address('192.168.1.76'), IPv4Address('192.168.1.77'), IPv4Address('192.168.1.78'), IPv4Address('192.168.1.79'), IPv4Address('192.168.1.80'), IPv4Address('192.168.1.81'), IPv4Address('192.168.1.82'), IPv4Address('192.168.1.83'), IPv4Address('192.168.1.84'), IPv4Address('192.168.1.85'), IPv4Address('192.168.1.86'), IPv4Address('192.168.1.87'), IPv4Address('192.168.1.88'), IPv4Address('192.168.1.89'), IPv4Address('192.168.1.90'), IPv4Address('192.168.1.91'), IPv4Address('192.168.1.92'), IPv4Address('192.168.1.93'), IPv4Address('192.168.1.94'), IPv4Address('192.168.1.95'), IPv4Address('192.168.1.96'), IPv4Address('192.168.1.97'), IPv4Address('192.168.1.98'), IPv4Address('192.168.1.99'), IPv4Address('192.168.1.100'), IPv4Address('192.168.1.101'), IPv4Address('192.168.1.102'), IPv4Address('192.168.1.103'), IPv4Address('192.168.1.104'), IPv4Address('192.168.1.105'), IPv4Address('192.168.1.106'), IPv4Address('192.168.1.107'), IPv4Address('192.168.1.108'), IPv4Address('192.168.1.109'), IPv4Address('192.168.1.110'), IPv4Address('192.168.1.111'), IPv4Address('192.168.1.112'), IPv4Address('192.168.1.113'), IPv4Address('192.168.1.114'), IPv4Address('192.168.1.115'), IPv4Address('192.168.1.116'), IPv4Address('192.168.1.117'), IPv4Address('192.168.1.118'), IPv4Address('192.168.1.119'), IPv4Address('192.168.1.120'), IPv4Address('192.168.1.121'), IPv4Address('192.168.1.122'), IPv4Address('192.168.1.123'), IPv4Address('192.168.1.124'), IPv4Address('192.168.1.125'), IPv4Address('192.168.1.126'), IPv4Address('192.168.1.127'), IPv4Address('192.168.1.128'), IPv4Address('192.168.1.129'), IPv4Address('192.168.1.130'), IPv4Address('192.168.1.131'), IPv4Address('192.168.1.132'), IPv4Address('192.168.1.133'), IPv4Address('192.168.1.134'), IPv4Address('192.168.1.135'), IPv4Address('192.168.1.136'), IPv4Address('192.168.1.137'), IPv4Address('192.168.1.138'), IPv4Address('192.168.1.139'), IPv4Address('192.168.1.140'), IPv4Address('192.168.1.141'), IPv4Address('192.168.1.142'), IPv4Address('192.168.1.143'), IPv4Address('192.168.1.144'), IPv4Address('192.168.1.145'), IPv4Address('192.168.1.146'), IPv4Address('192.168.1.147'), IPv4Address('192.168.1.148'), IPv4Address('192.168.1.149'), IPv4Address('192.168.1.150'), IPv4Address('192.168.1.151'), IPv4Address('192.168.1.152'), IPv4Address('192.168.1.153'), IPv4Address('192.168.1.154'), IPv4Address('192.168.1.155'), IPv4Address('192.168.1.156'), IPv4Address('192.168.1.157'), IPv4Address('192.168.1.158'), IPv4Address('192.168.1.159'), IPv4Address('192.168.1.160'), IPv4Address('192.168.1.161'), IPv4Address('192.168.1.162'), IPv4Address('192.168.1.163'), IPv4Address('192.168.1.164'), IPv4Address('192.168.1.165'), IPv4Address('192.168.1.166'), IPv4Address('192.168.1.167'), IPv4Address('192.168.1.168'), IPv4Address('192.168.1.169'), IPv4Address('192.168.1.170'), IPv4Address('192.168.1.171'), IPv4Address('192.168.1.172'), IPv4Address('192.168.1.173'), IPv4Address('192.168.1.174'), IPv4Address('192.168.1.175'), IPv4Address('192.168.1.176'), IPv4Address('192.168.1.177'), IPv4Address('192.168.1.178'), IPv4Address('192.168.1.179'), IPv4Address('192.168.1.180'), IPv4Address('192.168.1.181'), IPv4Address('192.168.1.182'), IPv4Address('192.168.1.183'), IPv4Address('192.168.1.184'), IPv4Address('192.168.1.185'), IPv4Address('192.168.1.186'), IPv4Address('192.168.1.187'), IPv4Address('192.168.1.188'), IPv4Address('192.168.1.189'), IPv4Address('192.168.1.190'), IPv4Address('192.168.1.191'), IPv4Address('192.168.1.192'), IPv4Address('192.168.1.193'), IPv4Address('192.168.1.194'), IPv4Address('192.168.1.195'), IPv4Address('192.168.1.196'), IPv4Address('192.168.1.197'), IPv4Address('192.168.1.198'), IPv4Address('192.168.1.199'), IPv4Address('192.168.1.200'), IPv4Address('192.168.1.201'), IPv4Address('192.168.1.202'), IPv4Address('192.168.1.203'), IPv4Address('192.168.1.204'), IPv4Address('192.168.1.205'), IPv4Address('192.168.1.206'), IPv4Address('192.168.1.207'), IPv4Address('192.168.1.208'), IPv4Address('192.168.1.209'), IPv4Address('192.168.1.210'), IPv4Address('192.168.1.211'), IPv4Address('192.168.1.212'), IPv4Address('192.168.1.213'), IPv4Address('192.168.1.214'), IPv4Address('192.168.1.215'), IPv4Address('192.168.1.216'), IPv4Address('192.168.1.217'), IPv4Address('192.168.1.218'), IPv4Address('192.168.1.219'), IPv4Address('192.168.1.220'), IPv4Address('192.168.1.221'), IPv4Address('192.168.1.222'), IPv4Address('192.168.1.223'), IPv4Address('192.168.1.224'), IPv4Address('192.168.1.225'), IPv4Address('192.168.1.226'), IPv4Address('192.168.1.227'), IPv4Address('192.168.1.228'), IPv4Address('192.168.1.229'), IPv4Address('192.168.1.230'), IPv4Address('192.168.1.231'), IPv4Address('192.168.1.232'), IPv4Address('192.168.1.233'), IPv4Address('192.168.1.234'), IPv4Address('192.168.1.235'), IPv4Address('192.168.1.236'), IPv4Address('192.168.1.237'), IPv4Address('192.168.1.238'), IPv4Address('192.168.1.239'), IPv4Address('192.168.1.240'), IPv4Address('192.168.1.241'), IPv4Address('192.168.1.242'), IPv4Address('192.168.1.243'), IPv4Address('192.168.1.244'), IPv4Address('192.168.1.245'), IPv4Address('192.168.1.246'), IPv4Address('192.168.1.247'), IPv4Address('192.168.1.248'), IPv4Address('192.168.1.249'), IPv4Address('192.168.1.250'), IPv4Address('192.168.1.251'), IPv4Address('192.168.1.252'), IPv4Address('192.168.1.253'), IPv4Address('192.168.1.254')]
+192.168.1.0
+192.168.1.255
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
