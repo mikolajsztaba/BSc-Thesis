@@ -60,6 +60,7 @@ language = {"En": {
                     "inform_config": "Please put your config file in 'user_config' folder!",
                     "ready_user": "If you are ready type 'yes', if you want to leave type 'break':\n",
                     "mask_input": "Please provide network mask as a number for example 24:\n",
+                    "tftp_port": "Port number 69 is occupied, check what is happening here.",
 
 
                   },
@@ -124,6 +125,7 @@ language = {"En": {
                     "inform_config": "Proszę umieścić swój config w folderze 'user_config'!",
                     "ready_user": "Jeśli jesteś gotowy wpisz 'yes', jeśli chcesz wyjść wpisz 'break':\n",
                     "mask_input": "Wpisz maskę sieciową jako numer np. 24:\n",
+                    "tftp_port": "Port numer 69 jest zajęty, sprawdż go własnoręcznie.",
 
             }
 }

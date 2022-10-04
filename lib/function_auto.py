@@ -48,7 +48,10 @@ def del_old_logs(lang):
 
 # function to kill tftp server process
 def kill_tftp():
-    subprocess.call("TASKKILL /F /IM tftpd32.exe", shell=True)
+    try:
+        subprocess.call("TASKKILL /F /IM tftpd32.exe", shell=True)
+    except:
+        pass
 
 
 # function to check availability of hostname and ip address
@@ -128,3 +131,14 @@ def send_to_console(list_commands, ser_fun: Serial, wait_time: float = 0.2):
         # printing dots to inform user that script is still working
         # print('.', end='')
         # return string_send
+
+
+# function to check if the port numer 69 is free for tftp server
+def check_tftp():
+    output_netstat = str(subprocess.check_output("netstat -na | findstr /R ^UDP", shell=True)).strip()
+    check_string = 'UDP    0.0.0.0:69'
+    # checking if server works, use return in for example while loop
+    if check_string in output_netstat:
+        return False
+    else:
+        return True

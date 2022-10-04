@@ -13,7 +13,7 @@ from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip, user_config
 from logger.logging import *
 from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname, prepare_config,\
-     send_to_console
+     send_to_console, check_tftp
 from lib.ssh_con import ssh_con
 from lib.input_functions import inform_user_config
 from lib.calculator import calculate_network
@@ -105,8 +105,15 @@ while main_flag:
             ssh_con(ssh_host, ssh_credentials[0], ssh_credentials[1], lang)
 
         elif user_choice == '3':
-            # start tftp
-            start_tftp()
+            # checking tftp port is taken
+            tftp_flag = check_tftp()
+
+            # trying to start tftp server
+            if tftp_flag:
+                # start tftp
+                start_tftp()
+            else:
+                print(lang["tftp_port"])
 
             # function to wait a little be
             sleep(5)

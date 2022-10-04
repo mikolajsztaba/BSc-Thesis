@@ -4,6 +4,7 @@ funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostnam
 dodanie tez generowania kryptokeys na urzadzeniach
 funkcja do zliczania portow np na switchu czy routerze ( + poprawa tego w tworzeniu konfigu) np. dodanie, ze na tym maja byc takie adresy, a gdzie indziej inne
 
+
 NA PRZYSZLOSC:
 sprawdzanie wolnych portow serwera tftp
 po wyborze COMU trzeba by zaczac robic jakis prosty config sprobowac sparsowac i przekazywac jako komendy na urzadzenie
