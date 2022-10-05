@@ -70,3 +70,42 @@ def user_config(language):
             return commands
     else:
         print(language["wrong_input"])
+
+
+# function to print if the user has available tftp configs in the folder
+def tftp_configs(language):
+    # declaring dict with devices
+    tftp_config = {}
+    # printing possible configs
+    print(language['tftp_configs'])
+    # list of possible configs from /user_config folder
+    configs_list = os.listdir('tftp_config')
+    # counter to create dict
+    counter = 1
+    if len(configs_list) > 0:
+        # creating dict full of devices
+        for x in configs_list:
+            tftp_config[counter] = x
+            counter += 1
+        # printing dict pretty
+        for key in tftp_config:
+            print(key, '->', tftp_config[key])
+    else:
+        print(decorator_null)
+    print(decorator_space)
+
+    # print info about confgs in tftp_config folder
+    print(language['tftp_info'])
+
+    print(decorator_space)
+
+    while True:
+        # input if user is ready to run tftp server
+        user_input = input(language['ready_user']).lower()
+        if user_input == 'yes':
+            print(language['start_tftp'])
+            return True
+        elif user_input == 'break':
+            return False
+        else:
+            pass

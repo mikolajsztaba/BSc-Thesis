@@ -1,9 +1,13 @@
-Na 03.10:
+Na 06.10:
 utworzenie funkcji do przesylania pojedynczych komend z tego sparsowanego pliku
 funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostname etc. (dla switcha DONE, zrobic dla ruterka)
 dodanie tez generowania kryptokeys na urzadzeniach
 funkcja do zliczania portow np na switchu czy routerze ( + poprawa tego w tworzeniu konfigu) np. dodanie, ze na tym maja byc takie adresy, a gdzie indziej inne
 dodanie miejsca/folderu na konfigu po tftp, albo rozwazyc je dodanie do tego po COMIE i wtedy dac tez je tam mozliwosc wysylac + instrukcja do tego serwera tftp
+funkcja wysylania configow podanego przez usera po tftp
+dodanie tego exceppta w startowaniu tftp gdyby cos poszlo nie tak np
+wyrzucenie tej wiadomosci po wywaleniu serwera tftp
+
 
 NA PRZYSZLOSC:
 po wyborze COMU trzeba by zaczac robic jakis prosty config sprobowac sparsowac i przekazywac jako komendy na urzadzenie

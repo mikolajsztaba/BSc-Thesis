@@ -10,7 +10,7 @@ from lib.function_user import configure_user, type_device, user_com, set_hostnam
      user_pasword, print_logs, print_temp, network_mask_set
 from data.devices import devices
 from data.variables import ip_number, com_speed
-from lib.file_handling import delete_files, save_dev_ip, user_config
+from lib.file_handling import delete_files, save_dev_ip, user_config, tftp_configs
 from logger.logging import *
 from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname, prepare_config,\
      send_to_console, check_tftp
@@ -110,14 +110,21 @@ while main_flag:
 
             # trying to start tftp server
             if tftp_flag:
-                # start tftp
-                start_tftp()
+                # printing tftp configs
+                server_flag = tftp_configs(lang)
+
+                if server_flag:
+                    # start tftp
+                    start_tftp()
+
+                    print("IN")
             else:
                 print(lang["tftp_port"])
 
             # function to wait a little be
-            sleep(5)
+            sleep(1)
 
+            print("KILL")
             # kill tftp after config is downloaded
             kill_tftp()
 

@@ -12,7 +12,10 @@ from data.decorators import decorator_space
 
 # function to start TFTP server
 def start_tftp():
-    subprocess.Popen([r"tftp_server/tftpd32.exe"])
+    try:
+        subprocess.Popen([r"tftp_server/tftpd32.exe"])
+    except:
+        pass
 
 
 # function to choose proper functionality of the script
@@ -49,7 +52,7 @@ def del_old_logs(lang):
 # function to kill tftp server process
 def kill_tftp():
     try:
-        subprocess.call("TASKKILL /F /IM tftpd32.exe", shell=True)
+        os.system("taskkill /f /im tftpd32.exe", shell=True)
     except:
         pass
 

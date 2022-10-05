@@ -61,6 +61,9 @@ language = {"En": {
                     "ready_user": "If you are ready type 'yes', if you want to leave type 'break':\n",
                     "mask_input": "Please provide network mask as a number for example 24:\n",
                     "tftp_port": "Port number 69 is occupied, check what is happening here.",
+                    "tftp_configs": "Available configs in tftp_config folder:",
+                    "tftp_info": "If you can't see your desired config, please rerun this script option.",
+                    "start_tftp": "Starting tftp server...",
 
 
                   },
@@ -126,6 +129,9 @@ language = {"En": {
                     "ready_user": "Jeśli jesteś gotowy wpisz 'yes', jeśli chcesz wyjść wpisz 'break':\n",
                     "mask_input": "Wpisz maskę sieciową jako numer np. 24:\n",
                     "tftp_port": "Port numer 69 jest zajęty, sprawdż go własnoręcznie.",
+                    "tftp_configs": "Dostępne pliki konfiguracyjne w folderze tftp_config:",
+                    "tftp_info": "Jeśli nie widzisz swojego konfigu, spróbuj jeszcze raz uruchomić tą opcję.",
+                    "start_tftp": "Start serwera tftp...",
 
             }
 }
