@@ -64,6 +64,7 @@ language = {"En": {
                     "tftp_configs": "Available configs in tftp_config folder:",
                     "tftp_info": "If you can't see your desired config, please rerun this script option.",
                     "start_tftp": "Starting tftp server...",
+                    "tftp_option": "Please choose proper network interface and folder with your configs /tftp_config in tftp server window.",
 
 
                   },
@@ -132,6 +133,7 @@ language = {"En": {
                     "tftp_configs": "Dostępne pliki konfiguracyjne w folderze tftp_config:",
                     "tftp_info": "Jeśli nie widzisz swojego konfigu, spróbuj jeszcze raz uruchomić tą opcję.",
                     "start_tftp": "Start serwera tftp...",
+                    "tftp_option": "Wybierz poprawny interfejs sieciowy oraz folder /tftp_config w okienku serwera tftp."
 
             }
 }

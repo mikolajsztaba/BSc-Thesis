@@ -116,7 +116,8 @@ while main_flag:
                 if server_flag:
                     # start tftp
                     start_tftp()
-
+                    # printing prompt about choosing proper configuration in tftp server window
+                    print(lang["tftp_option"])
                     print("IN")
             else:
                 print(lang["tftp_port"])
