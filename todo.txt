@@ -4,8 +4,8 @@ funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostnam
 dodanie tez generowania kryptokeys na urzadzeniach
 funkcja do zliczania portow np na switchu czy routerze ( + poprawa tego w tworzeniu konfigu) np. dodanie, ze na tym maja byc takie adresy, a gdzie indziej inne
 dodanie miejsca/folderu na konfigu po tftp, albo rozwazyc je dodanie do tego po COMIE i wtedy dac tez je tam mozliwosc wysylac + instrukcja do tego serwera tftp
-dodanie tego exceppta w startowaniu tftp gdyby cos poszlo nie tak np
-wyrzucenie tej wiadomosci po wywaleniu serwera tftp
+dodanie tego exceppta w startowaniu tftp gdyby cos poszlo nie tak np (jakiejs informacji tam)
+wyrzucenie tej wiadomosci po wywaleniu serwera tftp + poprzatanie tego co jest w tej opcji 3, aby bylo juz czysciutko
 
 
 NA PRZYSZLOSC:
