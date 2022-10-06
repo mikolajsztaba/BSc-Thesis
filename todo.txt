@@ -12,3 +12,6 @@ NA PRZYSZLOSC:
 po wyborze COMU trzeba by zaczac robic jakis prosty config sprobowac sparsowac i przekazywac jako komendy na urzadzenie
 poprawienie mozliwych nazw urzadzen i jakos ich sparowania co jest switchem a co routerem i poprawna mozliwosc wyboru
 zastanowic sie nad tym IPV6 ale to moze byc duzo zachodu strasznie, najwyzej ktos sobie recznie ustawi sam
+
+TESTY:
+POMIARY RUNU, CPU I CZASU -> ODPOWIEDNIE DO TEGO BIBLIOTEKI
