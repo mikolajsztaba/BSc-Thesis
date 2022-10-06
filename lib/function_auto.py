@@ -50,9 +50,11 @@ def del_old_logs(lang):
 
 
 # function to kill tftp server process
-def kill_tftp():
+def kill_tftp(language):
+    print(language['tftp_kill'])
     try:
-        os.system("taskkill /f /im tftpd32.exe", shell=True)
+        # os.system("taskkill /f /im tftpd32.exe")
+        subprocess.run("taskkill /f /im tftpd32.exe", stdout=subprocess.DEVNULL)
     except:
         pass
 

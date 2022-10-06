@@ -116,18 +116,21 @@ while main_flag:
                 if server_flag:
                     # start tftp
                     start_tftp()
+
                     # printing prompt about choosing proper configuration in tftp server window
                     print(lang["tftp_option"])
-                    print("IN")
+                    print(decorator_space)
+
+                    # TODO: DELETE IT
+                    # function to wait a little
+                    sleep(1)
+
+                    # kill tftp after config is downloaded
+                    kill_tftp(lang)
             else:
                 print(lang["tftp_port"])
 
-            # function to wait a little be
-            sleep(1)
-
-            print("KILL")
-            # kill tftp after config is downloaded
-            kill_tftp()
+            print(decorator_space)
 
         # function to scan one network by IP addresses:
         elif user_choice == '4':

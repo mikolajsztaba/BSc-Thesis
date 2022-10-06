@@ -103,7 +103,9 @@ def tftp_configs(language):
         # input if user is ready to run tftp server
         user_input = input(language['ready_user']).lower()
         if user_input == 'yes':
+            print(decorator_space)
             print(language['start_tftp'])
+            print(decorator_space)
             return True
         elif user_input == 'break':
             return False
