@@ -66,6 +66,7 @@ language = {"En": {
                     "start_tftp": "Starting tftp server...",
                     "tftp_option": "Please choose proper network interface and folder with your configs /tftp_config in tftp server window.",
                     "tftp_kill": "Trying to close tftp server application...",
+                    "tftp_user_conf": "If you have your own config put it in the '/tftp_config' folder",
 
 
                   },
@@ -136,6 +137,7 @@ language = {"En": {
                     "start_tftp": "Start serwera tftp...",
                     "tftp_option": "Wybierz poprawny interfejs sieciowy oraz folder /tftp_config w okienku serwera tftp.",
                     "tftp_kill": "Zamykanie aplikacji serwera tftp...",
+                    "tftp_user_conf": "Jeżeli masz swój plik konfiguracyjny umieść go w folderze '/tftp_config'",
 
             }
 }

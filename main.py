@@ -6,18 +6,17 @@ from time import sleep
 # imports from other files
 from language.json_schema import user_language_choice
 from data.decorators import decorator_space
-from lib.function_user import configure_user, type_device, user_com, set_hostname, ip_set, ssh_host, ping_all,\
-     user_pasword, print_logs, print_temp, network_mask_set
+from lib.function_user import configure_user, type_device, user_com, set_hostname, ip_set, ssh_host, ping_all, \
+    user_pasword, print_logs, print_temp, network_mask_set
 from data.devices import devices
 from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip, user_config, tftp_configs
 from logger.logging import *
-from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname, prepare_config,\
-     send_to_console, check_tftp
+from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname, prepare_config, \
+    send_to_console, check_tftp
 from lib.ssh_con import ssh_con
 from lib.input_functions import inform_user_config
 from lib.calculator import calculate_network
-
 
 # flags
 main_flag = True
@@ -110,6 +109,10 @@ while main_flag:
 
             # trying to start tftp server
             if tftp_flag:
+                # print instruction to put config in proper folder
+                print(lang['tftp_user_conf'])
+                print(decorator_space)
+
                 # printing tftp configs
                 server_flag = tftp_configs(lang)
 

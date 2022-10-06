@@ -3,7 +3,7 @@ utworzenie funkcji do przesylania pojedynczych komend z tego sparsowanego pliku
 funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostname etc. (dla switcha DONE, zrobic dla ruterka)
 dodanie tez generowania kryptokeys na urzadzeniach
 funkcja do zliczania portow np na switchu czy routerze ( + poprawa tego w tworzeniu konfigu) np. dodanie, ze na tym maja byc takie adresy, a gdzie indziej inne
-dodanie miejsca/folderu na konfigu po tftp, albo rozwazyc je dodanie do tego po COMIE i wtedy dac tez je tam mozliwosc wysylac + instrukcja do tego serwera tftp
+dodanie dalszej czesci w opcji 3: jak uzytkownik wybierze odpowiednie rzeczy w serwerze to musimy wyslac dany plik konfiguracyjny na dany adres IP
 wrzucenie funkcji zeby sprawdzic czy urzadzenie juz wstalo, badz juz jest gotowe
 wysylanie enable oraz conf do urzadzen, zeby wlaczyc je w tryb konfigu
 
