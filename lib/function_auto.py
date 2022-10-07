@@ -153,4 +153,3 @@ def check_tftp():
 def go_conf_mode():
     conf_commands = ['en', 'conf t']
     send_to_console(conf_commands)
-    
