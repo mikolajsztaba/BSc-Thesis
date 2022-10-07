@@ -1,4 +1,4 @@
-Na 06.10:
+Na 08.10-09.10:
 utworzenie funkcji do przesylania pojedynczych komend z tego sparsowanego pliku
 funkcja z parsowaniem configu i zmienianiem tego konfigu, zeby dopasowac hostname etc. (dla switcha DONE, zrobic dla ruterka)
 dodanie tez generowania kryptokeys na urzadzeniach
