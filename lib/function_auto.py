@@ -147,3 +147,9 @@ def check_tftp():
         return False
     else:
         return True
+
+
+# function to go into conf mode on the device
+def go_conf_mode():
+    conf_commands = ['en', 'conf t']
+    send_to_console(conf_commands)
