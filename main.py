@@ -77,6 +77,8 @@ while main_flag:
                 # boot_flag = checking_booting(ser)
 
                 # counting number of ports in the devices
+                print(lang['count_ports'])
+                print(decorator_space)
                 try:
                     giga_port = checking_ports(ser)
                 except:

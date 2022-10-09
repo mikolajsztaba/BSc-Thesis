@@ -8,6 +8,5 @@ poprawienie mozliwych nazw urzadzen i jakos ich sparowania co jest switchem a co
 FINAL:
 POPRAWIC Z TYM COM PORTEM WSZYSTKO
 
-
 TESTY:
 POMIARY RUNU, CPU I CZASU -> ODPOWIEDNIE DO TEGO BIBLIOTEKI
