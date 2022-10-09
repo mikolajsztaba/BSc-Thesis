@@ -133,14 +133,14 @@ def create_conf_router(content_list, hostname, port_num, netmask, ip_add):
 
 
 # function to prepare initial config to download
-def prepare_config(language, device, ip, netmask, hostname):
+def prepare_config(language, device, ip, netmask, hostname, ports):
     if device == 'Cisco Switch':
         with open('configs/cisco-switch') as my_file:
             data = my_file.read()
             commands = data.split("\n")
             print(commands)
             # returning list full of commands
-            ready_conf = create_conf_switch(commands, hostname, 2000, netmask, ip)
+            ready_conf = create_conf_switch(commands, hostname, ports, netmask, ip)
             return ready_conf
     elif device == 'Cisco Router':
         with open('configs/cisco-router') as my_file:
@@ -148,7 +148,7 @@ def prepare_config(language, device, ip, netmask, hostname):
             commands = data.split("\n")
             print(commands)
             # returning list full of commands
-            ready_conf = create_conf_router(commands, hostname, 2000, netmask, ip)
+            ready_conf = create_conf_router(commands, hostname, ports, netmask, ip)
             return ready_conf
 
 
@@ -181,3 +181,19 @@ def check_tftp():
 def go_conf_mode():
     conf_commands = ['en', 'conf t']
     send_to_console(conf_commands)
+
+# counting gigabit and fast ports in devices
+def checking_ports(ser_port):
+    send_to_console(ser_port, 'no')
+    send_to_console(ser_port, 'en')
+    send_to_console(ser_port, 'term len 0')
+    checking_string = ''
+    checking_string += send_to_console(ser_port, 'sh run', 5)
+    checking_string += send_to_console(ser_port, '\n')
+    number_gigabit = checking_string.count('GigabitEthernet')
+    number_fast = checking_string.count('FastEthernet')
+    port_dictionary = {'Gigabit': number_gigabit,
+                       'Fast': number_fast
+                        }
+    send_to_console(ser_port, 'term len 24')
+    return port_dictionary['Gigabit']

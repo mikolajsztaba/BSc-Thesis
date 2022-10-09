@@ -13,7 +13,7 @@ from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip, user_config, tftp_configs
 from logger.logging import *
 from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname, prepare_config, \
-    send_to_console, check_tftp, go_conf_mode
+    send_to_console, check_tftp, go_conf_mode, checking_ports
 from lib.ssh_con import ssh_con
 from lib.input_functions import inform_user_config
 from lib.calculator import calculate_network
@@ -75,13 +75,20 @@ while main_flag:
 
                 # checking if the device is booted
                 # boot_flag = checking_booting(ser)
+
+                # counting number of ports in the devices
+                try:
+                    giga_port = checking_ports(ser)
+                except:
+                    giga_port = 10
+
                 boot_flag = True
 
                 # if the device is booted going well
                 if boot_flag:
                     # TODO NEEDS TO BE UPGRADED
                     # preparing initial config for the device
-                    commands = prepare_config(lang, user_dev, current_ip, current_netmask, hostname)
+                    commands = prepare_config(lang, user_dev, current_ip, current_netmask, hostname, giga_port)
                     print(commands)
 
                     # going to conf mode
