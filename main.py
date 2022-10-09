@@ -94,6 +94,11 @@ while main_flag:
                 # saving hostname with ip address to txt file
                 save_dev_ip(hostname, current_ip)
 
+                # closing ser com connection
+                try:
+                    ser.close()
+                except:
+                    pass
                 # print(user_dev)
 
             else:
