@@ -74,7 +74,8 @@ while main_flag:
                         break
 
                 # checking if the device is booted
-                boot_flag = checking_booting(ser)
+                # boot_flag = checking_booting(ser)
+                boot_flag = True
 
                 # if the device is booted going well
                 if boot_flag:

@@ -13,7 +13,6 @@ no ip source-route
 ip routing
 !
 no ip domain-lookup
-ip domain-name setup.technipfmc.com
 vtp mode off
 !
 license boot level ipservices
@@ -37,12 +36,6 @@ interface Vlan1
  ip address x.x.x.x y.y.y.y
  no shutdown
 !
-banner motd ^C
-                            AGH
-         -------------------------------------------------
-                 INITIAL TEMPORARY SCRIPT CONFIG
-         -------------------------------------------------
-^C
 !
 line con 0
  logging synchronous

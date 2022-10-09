@@ -1,5 +1,5 @@
 !
-hostname xxx
+hostname sadadasdasdasdagassag
 !
 logging buffered 16384 informational
 enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1
@@ -30,7 +30,7 @@ vlan internal allocation policy ascending
 !
 lldp run
 !
-interface GigabitEthernet0
+interface range GigabitEthernet0/1/-2000
  description SETUP-VLAN-1
  switchport access vlan 1
  switchport mode access
@@ -40,7 +40,7 @@ interface GigabitEthernet0
  no shutdown
 !
 interface Vlan1
- ip address x.x.x.x y.y.y.y
+ ip address 192.168.123.1 255.255.255.0
  no shutdown
 !
 ip ssh version 2

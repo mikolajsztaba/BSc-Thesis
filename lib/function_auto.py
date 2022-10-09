@@ -107,6 +107,30 @@ def create_conf_switch(content_list, hostname, port_num, netmask, ip_add):
     # returning ready commands to be sent to the device
     return ready_commands
 
+# creating and reading conf files
+def create_conf_router(content_list, hostname, port_num, netmask, ip_add):
+    for x in content_list:
+        # changing hostname
+        if x == 'hostname xxx':
+            our_index = content_list.index(x)
+            content_list[our_index] = f'hostname {hostname}'
+        # changing interface for whole range
+        if x == 'interface GigabitEthernet0':
+            int_index = content_list.index(x)
+            content_list[int_index] = f'interface range GigabitEthernet0/1/1-{str(port_num)}'
+        # changing ip address
+        if x == ' ip address x.x.x.x y.y.y.y':
+            ip_index = content_list.index(x)
+            content_list[ip_index] = f' ip address {str(ip_add)} {str(netmask)}'
+    with open(f'temporary/router-{hostname}-{str(ip_add)}', 'w') as file:
+        for row in content_list:
+            file.write(str(row) + '\n')
+    with open(f'temporary/router-{hostname}-{str(ip_add)}', 'r') as my_file:
+        data = my_file.read()
+        ready_commands = data.split("\n")
+    # returning ready commands to be sent to the device
+    return ready_commands
+
 
 # function to prepare initial config to download
 def prepare_config(language, device, ip, netmask, hostname):
@@ -122,6 +146,10 @@ def prepare_config(language, device, ip, netmask, hostname):
         with open('configs/cisco-router') as my_file:
             data = my_file.read()
             commands = data.split("\n")
+            print(commands)
+            # returning list full of commands
+            ready_conf = create_conf_router(commands, hostname, 2000, netmask, ip)
+            return ready_conf
 
 
 # function to send commands to console
