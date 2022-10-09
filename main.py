@@ -17,6 +17,7 @@ from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, 
 from lib.ssh_con import ssh_con
 from lib.input_functions import inform_user_config
 from lib.calculator import calculate_network
+from lib.booting import checking_booting
 
 # flags
 main_flag = True
@@ -72,27 +73,34 @@ while main_flag:
                     if check_ip_hostname(current_ip, hostname, lang):
                         break
 
-                # TODO NEEDS TO BE UPGRADED
-                # preparing initial config for the device
-                commands = prepare_config(lang, user_dev, current_ip, current_netmask, hostname)
-                print(commands)
+                # checking if the device is booted
+                boot_flag = checking_booting(ser)
 
-                # going to conf mode
-                try:
-                    go_conf_mode()
-                except:
-                    pass
+                # if the device is booted going well
+                if boot_flag:
+                    # TODO NEEDS TO BE UPGRADED
+                    # preparing initial config for the device
+                    commands = prepare_config(lang, user_dev, current_ip, current_netmask, hostname)
+                    print(commands)
 
-                # sending commands to the device
-                try:
-                    send_to_console(commands)
-                except Exception as error:
+                    # going to conf mode
+                    try:
+                        go_conf_mode()
+                    except:
+                        pass
+
+                    # sending commands to the device
+                    try:
+                        send_to_console(commands)
+                    except Exception as error:
+                        print(lang["error_info"])
+                        print(error)
+                        print(decorator_space)
+
+                    # saving hostname with ip address to txt file
+                    save_dev_ip(hostname, current_ip)
+                else:
                     print(lang["error_info"])
-                    print(error)
-                    print(decorator_space)
-
-                # saving hostname with ip address to txt file
-                save_dev_ip(hostname, current_ip)
 
                 # closing ser com connection
                 try:
