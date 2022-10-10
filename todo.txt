@@ -1,9 +1,6 @@
-Na 10.10:
+Na 11.10:
 dodanie tez generowania kryptokeys na urzadzeniach
 dokonczyc opcje 3 (branie hostname i passworda do tych polaczen i powinno byc ok)
-
-NA PRZYSZLOSC:
-poprawienie mozliwych nazw urzadzen i jakos ich sparowania co jest switchem a co routerem i poprawna mozliwosc wyboru
 
 FINAL:
 POPRAWIC Z TYM COM PORTEM WSZYSTKO
