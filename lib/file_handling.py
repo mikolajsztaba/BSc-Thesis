@@ -97,6 +97,14 @@ def tftp_configs(language):
     # print info about confgs in tftp_config folder
     print(language['tftp_info'])
 
+    # asking user to choose the number of tftp config
+    user_number = int(input(language["user_file"]))
+    while True:
+        if user_number in list(tftp_config.keys()):
+            break
+        else:
+            print(language["wrong_input"])
+
     print(decorator_space)
 
     while True:
@@ -106,7 +114,7 @@ def tftp_configs(language):
             print(decorator_space)
             print(language['start_tftp'])
             print(decorator_space)
-            return True
+            return True, tftp_config[user_number]
         elif user_input == 'break':
             return False
         else:

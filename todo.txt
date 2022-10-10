@@ -1,6 +1,6 @@
 Na 10.10:
 dodanie tez generowania kryptokeys na urzadzeniach
-dodanie dalszej czesci w opcji 3: jak uzytkownik wybierze odpowiednie rzeczy w serwerze to musimy wyslac dany plik konfiguracyjny na dany adres IP
+dokonczyc opcje 3 (branie hostname i passworda do tych polaczen i powinno byc ok)
 
 NA PRZYSZLOSC:
 poprawienie mozliwych nazw urzadzen i jakos ich sparowania co jest switchem a co routerem i poprawna mozliwosc wyboru

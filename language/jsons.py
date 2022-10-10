@@ -69,6 +69,8 @@ language = {"En": {
                     "tftp_user_conf": "If you have your own config put it in the '/tftp_config' folder",
                     "count_ports": "Counting gigabit ports on the device, if anything went wrong the default value is set to 10.",
                     "hostname_IP": "Please provide IP address of your PC to use such as a tftp server!!!",
+                    "user_file": "Please choose your config by typing the correct number:\n",
+                    "network_device_IP": "Please provide IP address of your device, which you want to connect to!!!",
 
 
                   },
@@ -142,5 +144,7 @@ language = {"En": {
                     "tftp_user_conf": "Jeżeli masz swój plik konfiguracyjny umieść go w folderze '/tftp_config'",
                     "count_ports": "Trwa liczenie portow gigabitow na urzadzeniu, jezeli cos pojdzie nie tak wartość ustawiana jest na 10.",
                     "hostname_IP": "Wpisz swój adres IP komputera, aby wykorzystać go jako serwer TFTP!!!",
+                    "user_file": "Wybierz plik konfiugracyjny za pomocą odpowiedniego numeru:\n",
+                    "network_device_IP": "Podaj adres urządzenia sieciowego, do którego chcesz się połączyć!!!",
             }
 }

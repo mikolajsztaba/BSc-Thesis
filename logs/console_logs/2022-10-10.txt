@@ -109,3 +109,396 @@ Choose option provided by the script by typing the number:
 9 -> Delete old script logs.
 0 -> Delete all temporary script files.
 Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the number:PUDLO
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the number:PUDLO
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the number:[1, 2, 3]
+2
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the number:[1, 2, 3]
+3
+TEST_TFTP
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the number:2
+TEST_EZ
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+ 
+Starting tftp server...
+ 
+Please choose proper network interface and folder with your configs /tftp_config in tftp server window.
+ 
+Please provide IP address of your PC to use such as a tftp server!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.1.1 is valid.
+ 
+192.168.1.1
+Trying to close tftp server application...
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the correct number:
+2
+TEST_EZ
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+ 
+Starting tftp server...
+ 
+Please choose proper network interface and folder with your configs /tftp_config in tftp server window.
+ 
+Please provide IP address of your PC to use such as a tftp server!!!
+Please provide your ip like 192.168.1.1: 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the correct number:
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+ 
+Starting tftp server...
+ 
+TEST_EZ
+Please choose proper network interface and folder with your configs /tftp_config in tftp server window.
+ 
+Please provide IP address of your PC to use such as a tftp server!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.1.1 is valid.
+ 
+192.168.1.1
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+Port number 69, on which tftp server usally works, is occupied, check what is happening here.
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+Port number 69, on which tftp server usally works, is occupied, check what is happening here.
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the correct number:
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+ 
+Starting tftp server...
+ 
+TEST_EZ
+Please choose proper network interface and folder with your configs /tftp_config in tftp server window.
+ 
+Please provide IP address of your PC to use such as a tftp server!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.321321 is not valid.
+ 
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.1.1 is valid.
+ 
+192.168.1.1
+Please provide IP address of your device, which you want to connect to!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168,2 is not valid.
+ 
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.3.2 is valid.
+ 
+192.168.3.2
