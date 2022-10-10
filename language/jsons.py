@@ -68,6 +68,7 @@ language = {"En": {
                     "tftp_kill": "Trying to close tftp server application...",
                     "tftp_user_conf": "If you have your own config put it in the '/tftp_config' folder",
                     "count_ports": "Counting gigabit ports on the device, if anything went wrong the default value is set to 10.",
+                    "hostname_IP": "Please provide IP address of your PC to use such as a tftp server!!!",
 
 
                   },
@@ -140,6 +141,6 @@ language = {"En": {
                     "tftp_kill": "Zamykanie aplikacji serwera tftp...",
                     "tftp_user_conf": "Jeżeli masz swój plik konfiguracyjny umieść go w folderze '/tftp_config'",
                     "count_ports": "Trwa liczenie portow gigabitow na urzadzeniu, jezeli cos pojdzie nie tak wartość ustawiana jest na 10.",
-
+                    "hostname_IP": "Wpisz swój adres IP komputera, aby wykorzystać go jako serwer TFTP!!!",
             }
 }
