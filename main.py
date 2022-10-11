@@ -13,7 +13,7 @@ from data.variables import ip_number, com_speed
 from lib.file_handling import delete_files, save_dev_ip, user_config, tftp_configs
 from logger.logging import *
 from lib.function_auto import start_tftp, main_choice, del_old_logs, kill_tftp, check_ip_hostname, prepare_config, \
-    send_to_console, check_tftp, go_conf_mode, checking_ports
+    send_to_console, check_tftp, go_conf_mode, checking_ports, gen_crypto_keys
 from lib.ssh_con import ssh_con, ssh_tftp_download
 from lib.input_functions import inform_user_config
 from lib.calculator import calculate_network
@@ -95,9 +95,16 @@ while main_flag:
 
                     # going to conf mode
                     try:
-                        go_conf_mode()
+                        go_conf_mode(ser)
                     except:
                         pass
+
+                    # trying to generate cryptokeys on the device
+                    try:
+                        gen_crypto_keys(ser)
+                    except:
+                        pass
+
 
                     # sending commands to the device
                     try:

@@ -63,7 +63,7 @@ def ssh_tftp_download(file, host, username, password, server_ip, language):
         "username": f"{username}",
         "password": f'{password}',
         # session logger
-        "session_log": f"logs/tftp_logs/{file}_{host}_{dateStr}.txt"
+        "session_log": f"logs/ssh_logs/{file}_{host}_{dateStr}.txt"
     }
     try:
         with ConnectHandler(**cisco1) as net_connect:

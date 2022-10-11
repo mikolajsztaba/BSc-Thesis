@@ -178,9 +178,9 @@ def check_tftp():
 
 
 # function to go into conf mode on the device
-def go_conf_mode():
+def go_conf_mode(ser):
     conf_commands = ['en', 'conf t']
-    send_to_console(conf_commands)
+    send_to_console(conf_commands, ser)
 
 # counting gigabit and fast ports in devices
 def checking_ports(ser_port):
@@ -197,3 +197,10 @@ def checking_ports(ser_port):
                         }
     send_to_console(ser_port, 'term len 24')
     return port_dictionary['Gigabit']
+
+
+# function to generate cryptokeys
+def gen_crypto_keys(ser):
+    # going to conf mode
+    go_conf_mode(ser)
+    send_to_console(['crypto key generate rsa mod 2048', 'exit', 'write'], ser)
