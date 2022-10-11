@@ -19,9 +19,7 @@ diagnostic bootup level minimal
 spanning-tree extend system-id
 !
 !
-username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/
-username marvin privilege 15 secret 5 $1$xegf$IQ4NS5Z4evQ6LEBDGI3l90
-username daffy privilege 5 secret 5 $1$/6pG$YpDyPemQiW/4Mtpj.EBpR0
+username user privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/
 !
 redundancy
  mode none

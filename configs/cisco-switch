@@ -5,7 +5,7 @@ hostname xxx
 logging buffered 16384 informational
 enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1
 !
-username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/
+username user privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/
 no aaa new-model
 clock timezone GMT 0 0
 system mtu routing 1500
