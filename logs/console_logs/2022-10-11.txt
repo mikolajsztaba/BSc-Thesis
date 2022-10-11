@@ -25,12 +25,20 @@ Choose option provided by the script by typing the number:
 Type your number:
  
 Which IP address you want to connect?
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
  
-Please provide your login:
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
  
- 
-Something went wrong... Check your input if it is correct!
-Try again please...
+If you want to leave any parts of script just type 'break'!
  
 Choose option provided by the script by typing the number:
 1 -> Downloading configs by COM port to the devices.
@@ -42,6 +50,350 @@ Choose option provided by the script by typing the number:
 9 -> Delete old script logs.
 0 -> Delete all temporary script files.
 Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the correct number:
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+ 
+Starting tftp server...
+ 
+TEST_EZ
+Please choose proper network interface and folder with your configs /tftp_config in tftp server window.
+ 
+Please provide IP address of your PC to use such as a tftp server!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.1.1 is valid.
+ 
+192.168.1.1
+Please provide IP address of your device, which you want to connect to!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.1.2 is valid.
+ 
+192.168.1.2
+Please provide your login:
+ 
+ 
+('msztaba', 'EZ')
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+Port number 69, on which tftp server usally works, is occupied, check what is happening here.
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the correct number:
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+ 
+Starting tftp server...
+ 
+TEST_TFTP
+Please choose proper network interface and folder with your configs /tftp_config in tftp server window.
+ 
+Please provide IP address of your PC to use such as a tftp server!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.1.1 is valid.
+ 
+192.168.1.1
+Please provide IP address of your device, which you want to connect to!!!
+Please provide your ip like 192.168.1.1: 
+IP address 1992.168.1.3 is not valid.
+ 
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.1.2 is valid.
+ 
+192.168.1.2
+Please provide your login:
+ 
+ 
+msztaba ez
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+Port number 69, on which tftp server usally works, is occupied, check what is happening here.
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the correct number:
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+ 
+Starting tftp server...
+ 
+TEST_EZ
+Please choose proper network interface and folder with your configs /tftp_config in tftp server window.
+ 
+Please provide IP address of your PC to use such as a tftp server!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.1.3 is valid.
+ 
+Please provide IP address of your device, which you want to connect to!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.2.1 is valid.
+ 
+Please provide your login:
+ 
+ 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the correct number:
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+ 
+Starting tftp server...
+ 
+Please choose proper network interface and folder with your configs /tftp_config in tftp server window.
+ 
+Please provide IP address of your PC to use such as a tftp server!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.1.5 is valid.
+ 
+Please provide IP address of your device, which you want to connect to!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.1.5 is valid.
+ 
+Please provide your login:
+ 
+ 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the correct number:
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+ 
+Starting tftp server...
+ 
+Please choose proper network interface and folder with your configs /tftp_config in tftp server window.
+ 
+Please provide IP address of your PC to use such as a tftp server!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.1.3 is valid.
+ 
+Please provide IP address of your device, which you want to connect to!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.2.1 is valid.
+ 
+Please provide your login:
+ 
+ 
+WELCOME TO THE SCRIPT
+Possible languages to choose from:
+En, Pl
+Please choose your native language:
+ 
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     Main info about the script                                                     |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
++----------------+--------------------------------------------------------------------------------------+------------+---------------+
+ 
+If you want to leave any parts of script just type 'break'!
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+Port number 69, on which tftp server usally works, is occupied, check what is happening here.
+ 
+Choose option provided by the script by typing the number:
+1 -> Downloading configs by COM port to the devices.
+2 -> Script managing by LAN network.
+3 -> Downloading config by TFTP Server.
+4 -> Discover working devices in the network.
+5 -> Downloading config provided by the user to the device.
+6 -> Network calculator.
+9 -> Delete old script logs.
+0 -> Delete all temporary script files.
+Type your number:
+ 
+If you have your own config put it in the '/tftp_config' folder
+ 
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
+ 
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the correct number:
+ 
+If you are ready type 'yes', if you want to leave type 'break':
+ 
+Starting tftp server...
+ 
+Please choose proper network interface and folder with your configs /tftp_config in tftp server window.
+ 
+Please provide IP address of your PC to use such as a tftp server!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.1.1 is valid.
+ 
+Please provide IP address of your device, which you want to connect to!!!
+Please provide your ip like 192.168.1.1: 
+IP address 192.168.2.1 is valid.
+ 
+Please provide your login:
+ 
+ 
 WELCOME TO THE SCRIPT
 Possible languages to choose from:
 En, Pl
@@ -69,49 +421,6 @@ Choose option provided by the script by typing the number:
 Type your number:
  
 Which IP address you want to connect?
- 
-Please provide your login:
- 
- 
-If you want to leave this part of the script type 'Break'.
-Please type in your command: 
-Last login: Sun Oct  9 13:37:08 2022 from 217.96.238.240.ipv4.supernova.orange.pl
-
-Serwer pluton.kt.agh.edu.pl zosta³ zmigrowany do systemu Centos 7.
-
-Przy odtwarzaniu:
-- pominiêto ustawienia cron u¿ytkowników 
-- pominiêto zawartoœæ baz danych postgres i mysql
-- pominiêto dostêp do katalogów secure_html
-- zmieniono UID u¿ytkowników i œcie¿ki katalogów domowych
-
-Przy zmianie has³a minimalna d³ugoœæ dla prostych hase³ to 16 znaków. 
-Przy has³ach zawieraj¹cych wiêcej rodzajów znaków wystarczy 10-16 znaków.
-
-Czêœæ ustawieñ i us³ug nadal jest migrowana - proszê o cierpliwoœæ.
-
-
-
-[msztaba@pluton ~]$ 
-[msztaba@pluton ~]$ ls
-[0m[01;34mbd_lab1[0m  [01;34mbd_lab2[0m  [01;34mbd_lab3[0m  episodes_list2  [01;34messa[0m  [01;34mkat3[0m  [01;34mKAT3[0m  [01;34mKAT4[0m  [01;34mLAB6[0m  ppok  [01;34mProgramy[0m  [01;34mPROGRAMY[0m  [01;34mpublic_html[0m  [01;32mrokoko[0m  [01;34msamba[0m  [01;34msecure_html[0m  [01;34mtescisko[0m  [01;32mtest1[0m  [01;34mzaliczenie[0m
-If you want to leave this part of the script type 'Break'.
-Please type in your command: 
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-5 -> Downloading config provided by the user to the device.
-6 -> Network calculator.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
-WELCOME TO THE SCRIPT
-Possible languages to choose from:
-En, Pl
-Please choose your native language:
 WELCOME TO THE SCRIPT
 Possible languages to choose from:
 En, Pl
@@ -138,12 +447,7 @@ Choose option provided by the script by typing the number:
 0 -> Delete all temporary script files.
 Type your number:
  
-Temporary files created during the script:
-switch-dsadas-192.168.1.24
- 
-If you want to delete logs type 'yes', if not type anything else: 
- 
-All temporary files were successfully deleted.
+Port number 69, on which tftp server usally works, is occupied, check what is happening here.
  
 Choose option provided by the script by typing the number:
 1 -> Downloading configs by COM port to the devices.
@@ -156,239 +460,12 @@ Choose option provided by the script by typing the number:
 0 -> Delete all temporary script files.
 Type your number:
  
-Possible ssh logs:
-pluton.k.agh.edu.pl_09.10.2022.txt, pluton.kt.agh.edu.pl_09.10.2022.txt
+If you have your own config put it in the '/tftp_config' folder
  
-Possible console logs:
-2022-10-04.txt, 2022-10-05.txt, 2022-10-06.txt, 2022-10-07.txt, 2022-10-09.txt
+Available configs in tftp_config folder:
+1 -> ez
+2 -> TEST_EZ
+3 -> TEST_TFTP
  
-If you want to delete logs type 'yes', if not type anything else: 
- 
-Old logs were successfully deleted.
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-5 -> Downloading config provided by the user to the device.
-6 -> Network calculator.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
-WELCOME TO THE SCRIPT
-Possible languages to choose from:
-En, Pl
-Please choose your native language:
- 
-+------------------------------------------------------------------------------------------------------------------------------------+
-|                                                     Main info about the script                                                     |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
- 
-If you want to leave any parts of script just type 'break'!
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-5 -> Downloading config provided by the user to the device.
-6 -> Network calculator.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
- 
-If you are sure that your computer has COM port type 'yes':
- 
-Possible devices to choose from:
-Cisco Switch, Cisco Router
-Device in lab: 
-Router -> Cisco 4231, 
-Switch -> Catalyst 3650
- 
-Which device do you want to configure?
-Please provide your hostname for this device: 
-Your hostname was provided correctly:
-sdadsadasd
-Please provide your ip like 192.168.1.1: 
-IP address 192.168.10.23 is valid.
- 
-Please provide network mask as a number for example 24:
-WELCOME TO THE SCRIPT
-Possible languages to choose from:
-En, Pl
-Please choose your native language:
- 
-+------------------------------------------------------------------------------------------------------------------------------------+
-|                                                     Main info about the script                                                     |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
- 
-If you want to leave any parts of script just type 'break'!
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-5 -> Downloading config provided by the user to the device.
-6 -> Network calculator.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
- 
-If you are sure that your computer has COM port type 'yes':
- 
-Possible devices to choose from:
-Cisco Switch, Cisco Router
-Device in lab: 
-Router -> Cisco 4231, 
-Switch -> Catalyst 3650
- 
-Which device do you want to configure?
-Please provide your hostname for this device: 
-Your hostname was provided correctly:
-sadadasdasdasdagassag
-Please provide your ip like 192.168.1.1: 
-IP address 192.168.123.1 is valid.
- 
-Please provide network mask as a number for example 24:
-['!', 'hostname xxx', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'no aaa new-model', 'clock timezone GMT 0', '!', 'no ip domain lookup', '!', 'vtp mode off\t\t\t\t\t\t\t\t\t   ', '!', 'license accept end user agreement', 'no license smart enable', '!', 'diagnostic bootup level minimal', '!', 'spanning-tree extend system-id', '!', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'username marvin privilege 15 secret 5 $1$xegf$IQ4NS5Z4evQ6LEBDGI3l90', 'username daffy privilege 5 secret 5 $1$/6pG$YpDyPemQiW/4Mtpj.EBpR0', '!', 'redundancy', ' mode none', '!', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface GigabitEthernet0', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address x.x.x.x y.y.y.y', ' no shutdown', '!', 'ip ssh version 2', '!', 'line con 0', ' logging synchronous', ' transport input none', ' stopbits 1', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', '!', 'crypto key generate rsa mod 2048', '!', 'end']
-['!', 'hostname sadadasdasdasdagassag', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'no aaa new-model', 'clock timezone GMT 0', '!', 'no ip domain lookup', '!', 'vtp mode off\t\t\t\t\t\t\t\t\t   ', '!', 'license accept end user agreement', 'no license smart enable', '!', 'diagnostic bootup level minimal', '!', 'spanning-tree extend system-id', '!', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'username marvin privilege 15 secret 5 $1$xegf$IQ4NS5Z4evQ6LEBDGI3l90', 'username daffy privilege 5 secret 5 $1$/6pG$YpDyPemQiW/4Mtpj.EBpR0', '!', 'redundancy', ' mode none', '!', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface range GigabitEthernet0/1/-2000', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address 192.168.123.1 255.255.255.0', ' no shutdown', '!', 'ip ssh version 2', '!', 'line con 0', ' logging synchronous', ' transport input none', ' stopbits 1', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', '!', 'crypto key generate rsa mod 2048', '!', 'end', '']
-Something went wrong:
-send_to_console() missing 1 required positional argument: 'ser_fun'
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-5 -> Downloading config provided by the user to the device.
-6 -> Network calculator.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
-WELCOME TO THE SCRIPT
-Possible languages to choose from:
-En, Pl
-Please choose your native language:
- 
-+------------------------------------------------------------------------------------------------------------------------------------+
-|                                                     Main info about the script                                                     |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
- 
-If you want to leave any parts of script just type 'break'!
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-5 -> Downloading config provided by the user to the device.
-6 -> Network calculator.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
- 
-If you are sure that your computer has COM port type 'yes':
- 
-Possible devices to choose from:
-Cisco Switch, Cisco Router
-Device in lab: 
-Router -> Cisco 4231, 
-Switch -> Catalyst 3650
- 
-Which device do you want to configure?
-Please provide your hostname for this device: 
-Your hostname was provided correctly:
-dsadas
-Please provide your ip like 192.168.1.1: 
-IP address 192.1.2.3 is valid.
- 
-Please provide network mask as a number for example 24:
- 
-['!', 'hostname xxx', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'no aaa new-model', 'clock timezone GMT 0', '!', 'no ip domain lookup', '!', 'vtp mode off\t\t\t\t\t\t\t\t\t   ', '!', 'license accept end user agreement', 'no license smart enable', '!', 'diagnostic bootup level minimal', '!', 'spanning-tree extend system-id', '!', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'username marvin privilege 15 secret 5 $1$xegf$IQ4NS5Z4evQ6LEBDGI3l90', 'username daffy privilege 5 secret 5 $1$/6pG$YpDyPemQiW/4Mtpj.EBpR0', '!', 'redundancy', ' mode none', '!', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface GigabitEthernet0', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address x.x.x.x y.y.y.y', ' no shutdown', '!', 'ip ssh version 2', '!', 'line con 0', ' logging synchronous', ' transport input none', ' stopbits 1', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', '!', 'crypto key generate rsa mod 2048', '!', 'end']
-['!', 'hostname dsadas', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'no aaa new-model', 'clock timezone GMT 0', '!', 'no ip domain lookup', '!', 'vtp mode off\t\t\t\t\t\t\t\t\t   ', '!', 'license accept end user agreement', 'no license smart enable', '!', 'diagnostic bootup level minimal', '!', 'spanning-tree extend system-id', '!', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'username marvin privilege 15 secret 5 $1$xegf$IQ4NS5Z4evQ6LEBDGI3l90', 'username daffy privilege 5 secret 5 $1$/6pG$YpDyPemQiW/4Mtpj.EBpR0', '!', 'redundancy', ' mode none', '!', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface range GigabitEthernet0/1/1-10', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address 192.1.2.3 255.255.254.0', ' no shutdown', '!', 'ip ssh version 2', '!', 'line con 0', ' logging synchronous', ' transport input none', ' stopbits 1', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', '!', 'crypto key generate rsa mod 2048', '!', 'end', '']
-Something went wrong:
-send_to_console() missing 1 required positional argument: 'ser_fun'
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-5 -> Downloading config provided by the user to the device.
-6 -> Network calculator.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
-WELCOME TO THE SCRIPT
-Possible languages to choose from:
-En, Pl
-Please choose your native language:
- 
-+------------------------------------------------------------------------------------------------------------------------------------+
-|                                                     Main info about the script                                                     |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-|     Author     |                                 Title of BSc Thesis                                  | University | Academic year |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
-| Miko³aj Sztaba | Design of a tool for automatic configuration of network devices and network control. |    AGH     |   2022-2023   |
-+----------------+--------------------------------------------------------------------------------------+------------+---------------+
- 
-If you want to leave any parts of script just type 'break'!
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-5 -> Downloading config provided by the user to the device.
-6 -> Network calculator.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
- 
-If you are sure that your computer has COM port type 'yes':
- 
-Possible devices to choose from:
-Cisco Switch, Cisco Router
-Device in lab: 
-Router -> Cisco 4231, 
-Switch -> Catalyst 3650
- 
-Which device do you want to configure?
-Please provide your hostname for this device: 
-Your hostname was provided correctly:
-dsadasdasd
-Please provide your ip like 192.168.1.1: 
-IP address 192.168.23.1 is valid.
- 
-Please provide network mask as a number for example 24:
- 
-Counting gigabit ports on the device, if anything went wrong the default value is set to 10.
-['!', 'hostname xxx', '!', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'no aaa new-model', 'clock timezone GMT 0 0', 'system mtu routing 1500', 'no ip source-route', 'ip routing', '!', 'no ip domain-lookup', 'vtp mode off', '!', 'license boot level ipservices', '!', 'transceiver type all', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface GigabitEthernet1/1', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' power inline never', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address x.x.x.x y.y.y.y', ' no shutdown', '!', '!', 'line con 0', ' logging synchronous', ' login local', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', 'line vty 5 15', ' logging synchronous', ' login local', ' transport input ssh', '!', '!', '!', '!', '!', '!', '!', 'crypto key generate rsa mod 2048', '!', 'end', '']
-['!', 'hostname dsadasdasd', '!', '!', 'logging buffered 16384 informational', 'enable secret 5 $1$vhjr$Zr37SWDYBA8I9LmagrxJg1', '!', 'username walter privilege 15 secret 5 $1$u/LQ$NtiHcHtmKzWwA1aed/XoQ/', 'no aaa new-model', 'clock timezone GMT 0 0', 'system mtu routing 1500', 'no ip source-route', 'ip routing', '!', 'no ip domain-lookup', 'vtp mode off', '!', 'license boot level ipservices', '!', 'transceiver type all', 'vlan internal allocation policy ascending', '!', 'lldp run', '!', 'interface range GigabitEthernet1/1-10', ' description SETUP-VLAN-1', ' switchport access vlan 1', ' switchport mode access', ' power inline never', ' storm-control broadcast level 20.00', ' storm-control multicast level 20.00', ' storm-control action shutdown', ' no shutdown', '!', 'interface Vlan1', ' ip address 192.168.23.1 255.255.0.0', ' no shutdown', '!', '!', 'line con 0', ' logging synchronous', ' login local', 'line vty 0 4', ' logging synchronous', ' login local', ' transport input ssh', 'line vty 5 15', ' logging synchronous', ' login local', ' transport input ssh', '!', '!', '!', '!', '!', '!', '!', 'crypto key generate rsa mod 2048', '!', 'end', '', '']
-Something went wrong:
-send_to_console() missing 1 required positional argument: 'ser_fun'
- 
-Choose option provided by the script by typing the number:
-1 -> Downloading configs by COM port to the devices.
-2 -> Script managing by LAN network.
-3 -> Downloading config by TFTP Server.
-4 -> Discover working devices in the network.
-5 -> Downloading config provided by the user to the device.
-6 -> Network calculator.
-9 -> Delete old script logs.
-0 -> Delete all temporary script files.
-Type your number:
+If you can't see your desired config, please rerun this script option.
+Please choose your config by typing the correct number:

@@ -1,6 +1,5 @@
 Na 11.10:
 dodanie tez generowania kryptokeys na urzadzeniach
-dokonczyc opcje 3 (branie hostname i passworda do tych polaczen i powinno byc ok)
 
 FINAL:
 POPRAWIC Z TYM COM PORTEM WSZYSTKO

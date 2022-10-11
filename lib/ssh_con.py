@@ -49,13 +49,7 @@ def ssh_con(host, username, password, language):
 
 
 # function to send config by tftp
-def ssh_tftp_download(file, host, username, password, server_ip):
-    """
-
-    :param file: name of project configuration of the device
-    :param host: initial ip address of the device
-    :return: NULL
-    """
+def ssh_tftp_download(file, host, username, password, server_ip, language):
     # creating time stamp
     now = datetime.now()
     date_time = now.strftime("%m/%d/%Y")
@@ -64,15 +58,15 @@ def ssh_tftp_download(file, host, username, password, server_ip):
     dateStr = dateObj.strftime("%d.%m.%Y")
     # configuration of network device
     cisco1 = {
-        "device_type": f"cisco_ios",
+        "device_type": f"autodetect",
         "host": f"{host}",
         "username": f"{username}",
         "password": f'{password}',
         # session logger
-        "session_log": f"logs/device_logs/{file}_{host}_{dateStr}.txt"
+        "session_log": f"logs/tftp_logs/{file}_{host}_{dateStr}.txt"
     }
-    with ConnectHandler(**cisco1) as net_connect:
-        try:
+    try:
+        with ConnectHandler(**cisco1) as net_connect:
             # TFTP configuration download command
             our_command = f'copy tftp://{server_ip}/{file} startup-config'
 
@@ -95,7 +89,7 @@ def ssh_tftp_download(file, host, username, password, server_ip):
             # waiting to give time to device react
             sleep(2)
 
-        # error handling while ssh connection
-        except (NetmikoTimeoutException, NetmikoAuthenticationException) as error:
-            print(error)
-            print(decorator_space)
+    except:
+        print(language["wrong_input"])
+        print(language["try_again"])
+        print(decorator_space)

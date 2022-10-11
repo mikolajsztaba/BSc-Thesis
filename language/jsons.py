@@ -64,7 +64,7 @@ language = {"En": {
                     "tftp_configs": "Available configs in tftp_config folder:",
                     "tftp_info": "If you can't see your desired config, please rerun this script option.",
                     "start_tftp": "Starting tftp server...",
-                    "tftp_option": "Please choose proper network interface and folder with your configs /tftp_config in tftp server window.",
+                    "tftp_option": "Please choose proper network interface and folder with your configs /tftp_config in tftp server window!!!",
                     "tftp_kill": "Trying to close tftp server application...",
                     "tftp_user_conf": "If you have your own config put it in the '/tftp_config' folder",
                     "count_ports": "Counting gigabit ports on the device, if anything went wrong the default value is set to 10.",

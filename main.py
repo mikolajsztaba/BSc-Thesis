@@ -144,7 +144,6 @@ while main_flag:
 
                 # printing tftp configs
                 server_flag, user_file_tftp = tftp_configs(lang)
-                print(user_file_tftp)
 
                 if server_flag:
                     # start tftp
@@ -157,17 +156,17 @@ while main_flag:
                     # ip address chosen by the user (SERVER ADDRESS)
                     print(lang['hostname_IP'])
                     current_server_ip = ip_set(lang)
-                    print(current_server_ip)
 
                     # ip address chosen by the user (HOST NETWORK DEVICE ADDRESS)
                     print(lang["network_device_IP"])
                     current_device_ip = ip_set(lang)
-                    print(current_device_ip)
 
+                    # question about username and password
+                    username, password = user_pasword(lang)
 
                     # downloading configs by tftp
-                    ssh_tftp_download()
-                    ssh_tftp_download(user_file_tftp, current_device_ip, username, password, current_server_ip)
+                    ssh_tftp_download(user_file_tftp, current_device_ip, username, password, current_server_ip, lang)
+
                     # TODO: DELETE IT
                     # function to wait a little
                     sleep(1)
