@@ -49,11 +49,10 @@ while main_flag:
 
                 # COM CONNECTION
                 # choosing COM port number
-                # TOOD: maybe add functionality to check possible ports on the device
-                # com_port = user_com(lang)
+                com_port = user_com(lang)
 
                 # creating COM number connection
-                # ser = Serial(com_port, com_speed)
+                ser = Serial(com_port, com_speed)
 
                 # loop to make user choose proper ip address and hostname
                 while True:
@@ -74,7 +73,7 @@ while main_flag:
                         break
 
                 # checking if the device is booted
-                # boot_flag = checking_booting(ser)
+                boot_flag = checking_booting(ser)
 
                 # counting number of ports in the devices
                 print(lang['count_ports'])
@@ -88,7 +87,6 @@ while main_flag:
 
                 # if the device is booted going well
                 if boot_flag:
-                    # TODO NEEDS TO BE UPGRADED
                     # preparing initial config for the device
                     commands = prepare_config(lang, user_dev, current_ip, current_netmask, hostname, giga_port)
                     print(commands)
@@ -104,7 +102,6 @@ while main_flag:
                         gen_crypto_keys(ser)
                     except:
                         pass
-
 
                     # sending commands to the device
                     try:
@@ -124,7 +121,6 @@ while main_flag:
                     ser.close()
                 except:
                     pass
-                # print(user_dev)
 
             else:
                 break
@@ -174,7 +170,6 @@ while main_flag:
                     # downloading configs by tftp
                     ssh_tftp_download(user_file_tftp, current_device_ip, username, password, current_server_ip, lang)
 
-                    # TODO: DELETE IT
                     # function to wait a little
                     sleep(1)
 
@@ -199,12 +194,11 @@ while main_flag:
                 user_config_file = user_config(lang)
                 print(user_config_file)
 
-                # NEEDS TO BE COMMENTED
                 # creating com ports
-                # com_port = user_com(lang)
+                com_port = user_com(lang)
 
                 # creating COM number connection
-                # ser = Serial(com_port, com_speed)
+                ser = Serial(com_port, com_speed)
 
                 # sending commands to the device
                 try:

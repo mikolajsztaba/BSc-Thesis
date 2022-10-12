@@ -158,12 +158,12 @@ def send_to_console(list_commands, ser_fun: Serial, wait_time: float = 0.2):
     for command in list_commands:
         print(command)
         command_to_send = command + '\r\n'
-        # ser_fun.write(command_to_send.encode('utf-8'))
-        # sleep(wait_time)
-        # string_send = ser_fun.read(ser_fun.inWaiting()).decode('utf-8')
+        ser_fun.write(command_to_send.encode('utf-8'))
+        sleep(wait_time)
+        string_send = ser_fun.read(ser_fun.inWaiting()).decode('utf-8')
         # printing dots to inform user that script is still working
-        # print('.', end='')
-        # return string_send
+        print('.', end='')
+        return string_send
 
 
 # function to check if the port numer 69 is free for tftp server

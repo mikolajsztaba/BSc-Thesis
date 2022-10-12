@@ -1,3 +1,5 @@
+# GLOBAL VARIABLES
+
 # ip number to start
 ip_number = 1
 

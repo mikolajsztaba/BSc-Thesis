@@ -3,13 +3,9 @@ import os
 
 from data.decorators import decorator_space, decorator_null
 
+
 # TXT files handling
 def reading_conf_files(file):
-    """
-
-    :param file: name of file to be configured
-    :return: list with commands to be sent by COM to this device
-    """
     with open(f'temp/{file}') as file:
         # getting commands from list
         content_list = file.readlines()

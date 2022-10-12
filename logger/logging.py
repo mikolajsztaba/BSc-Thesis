@@ -5,11 +5,8 @@ import sys
 import logging
 from datetime import datetime
 
-
+# logger to gather everything from script console
 class Logger(object):
-    """
-        ONLY COLLECTING EVERYTHING FROM CONSOLE
-    """
     # creating time stamp
     exact_time = datetime.date(datetime.now())
 

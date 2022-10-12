@@ -1,3 +1,5 @@
+# DECORATORS IN SCRIPT
+
 # decorator to make code more clear
 decorator_space = " "
 

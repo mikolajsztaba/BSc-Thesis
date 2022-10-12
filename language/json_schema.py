@@ -8,11 +8,7 @@ from language.jsons import language
 # functions
 # choosing language by the user
 def user_language_choice():
-    """
-
-    :return: dict full of prompts on one of the languages
-    """
-    print("WELCOME TO THE SCRIPT")
+    print("Start of the network script...")
     while True:
         language_list = language_keys()
         print('Possible languages to choose from:')
